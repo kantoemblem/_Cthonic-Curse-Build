@@ -1,0 +1,257 @@
+INLINE MagClassTable,Base Magic,Magic Growth,Magic Cap,Magic Promotion Bonus
+None,0,0,20,0
+Commander,2,0,25,0
+Tactician,12,0,25,0
+Acolyte,7,0,25,1
+Chaos Bringer,0,0,40,2
+Truth Bringer,0,0,50,0
+Mage Fighter,0,0,50,0
+Mercenary,2,25,25,2
+Mercenary (F),2,25,25,2
+Hero,8,25,40,0
+Hero (F),8,25,40,0
+Fighter,1,25,25,0
+Fighter (F),1,25,25,0
+Warrior,6,25,40,0
+Warrior (F),6,25,40,0
+Soldier,2,25,25,0
+Soldier (F),2,25,25,0
+Soldier (D),2,25,25,0
+Halberdier,7,25,40,0
+Halberdier (F),7,25,40,0
+Archer,1,25,25,0
+Archer (F),1,25,25,1
+Archer (A),1,25,25,1
+Sniper,6,25,40,0
+Sniper (F),6,25,40,0
+Knight (S),1,25,25,0
+Knight (L),1,25,25,0
+Knight (A),1,25,25,1
+General,6,25,40,1
+Greatknight,6,25,40,0
+Cavalier,1,25,25,0
+Cavalier (F),1,25,25,0
+Paladin,7,25,40,0
+Paladin (F),7,25,40,0
+Blade Cavalier,1,25,25,0
+Blade Cavalier (F),1,25,25,1
+Blade Paladin,6,25,40,1
+Blade Paladin (F),6,25,40,0
+Bow Cavalier,2,25,25,0
+Bow Cavalier (F),2,25,25,1
+Ranger,8,25,40,1
+Ranger (F),8,25,40,2
+Pegasus Knight (A),3,35,25,2
+Pegasus Knight (C),3,35,25,2
+Falcoknight,8,35,40,1
+Falcoknight (E),8,35,40,0
+Wyvern Rider,1,25,25,0
+Wyvern Rider (F),1,25,25,0
+Wyvern Lord,6,25,40,0
+Wyvern Lord (F),6,25,40,0
+Wyvern Lord (Bow),6,25,40,0
+MaligKnight,7,40,40,3
+Myrmidon,3,25,25,0
+Myrmidon (F),3,25,25,0
+Swordmaster,7,25,40,0
+Swordmaster (F),7,25,40,0
+Dreadfighter,8,40,40,0
+Dreadfighter (F),8,40,40,2
+Brigand,0,25,25,0
+Pirate,0,25,25,0
+Pirate (F),0,25,25,0
+Berserker,5,25,40,0
+Berserker (F),5,25,40,0
+Hunter,3,25,25,0
+Hunter (F),3,25,25,0
+Deserter,0,25,25,0
+Thief,1,25,25,0
+Assassin,6,25,40,0
+Rogue,6,25,40,0
+Adventurer,8,25,40,0
+Mage,10,75,25,0
+Mage (F),10,75,25,0
+Mage (C),10,75,25,0
+Sage,8,75,50,3
+Sage (F),8,75,50,0
+Mageknight,8,75,40,0
+Mageknight (F),8,75,40,2
+Dark Flier,8,75,40,0
+Shaman,8,60,25,0
+Shaman (F),8,60,25,0
+Druid,9,60,40,0
+Summon,9,40,40,0
+Druid (F),9,60,40,0
+Mimi,9,60,40,0
+Monk,7,55,25,0
+Priest,8,60,25,0
+Cleric (G),8,60,25,0
+Cleric (S),8,60,25,0
+Bishop,9,60,40,0
+Bishop (F),9,60,40,0
+Troubadour,5,40,25,0
+Valkyrie,8,40,40,0
+Supplier,1,25,50,0
+Dancer,8,25,40,0
+Manakete,10,50,50,0
+Mage Dragon,15,60,50,0
+Eclipse Knight,6,55,50,0
+Twilight Knight,8,60,40,0
+Slugger,0,0,40,0
+Driver,0,0,40,0
+Duelist,0,0,40,0
+Lodestar,1,30,40,0
+Demon King,23,40,50,0
+Archer on Ballista,0,0,20,0
+Archer on Iron Ballista,0,0,20,0
+Archer on Killer Ballista,0,0,20,0
+Ballista,0,0,20,0
+Iron Ballista,0,0,20,0
+Killer Ballista,0,0,20,0
+Civilian,0,0,20,0
+Civilian (F),0,0,20,0
+Civilian,0,0,20,0
+Civilian (F),0,0,20,0
+Civilian,0,0,20,0
+Civilian (F),0,0,20,0
+Peer,0,0,20,0
+Queen,0,0,20,0
+Prince,0,0,20,0
+Queen,0,0,20,0
+(empty),0,0,20,0
+Fallen Prince,0,0,20,0
+Tent,0,0,20,0
+Pontifex,0,0,20,0
+Dead Peer,0,0,20,0
+Cyclops,0,0,21,0
+Elder Bael,0,0,22,0
+Journeyman (2),0,0,20,0
+Pupil (2),2,55,20,1
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0
+Ephraim Lord,1,10,20,0

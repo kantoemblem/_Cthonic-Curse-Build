@@ -1,0 +1,204 @@
+//Classes
+PUSH
+ORG 0x74FB4 //Armor Triangle Attack Class Range From
+BYTE 0x19
+
+ORG 0x74FC8 //Armor Triangle Attack Class UnPromoted1
+BYTE 0x19
+ORG 0x75034
+BYTE 0x19
+
+ORG 0x74FD0 //Armor Triangle Attack Class UnPromoted2
+BYTE 0x1B
+ORG 0x7503C
+BYTE 0x1B 
+
+ORG 0x74FD8 //Armor Triangle Attack Class Promoted1
+BYTE 0x1C
+ORG 0x75044
+BYTE 0x1C
+
+ORG 0x2B34A  //Great Shield First Class
+BYTE 0x1C
+
+ORG 0x74FE0 //Armor Triangle Attack Class Promoted2
+BYTE 0x1D
+ORG 0x7504C
+BYTE 0x1D
+
+ORG 0x74FBA //Armor Triangle Attack Class Range To
+BYTE 0x1D
+
+ORG 0x2B346 //Great Shield Last Class
+BYTE 0x1C
+
+ORG 0x2B22A //Sure Strike Skill First Class
+BYTE 0x17
+
+ORG 0x2B226 //Sure Strike Skill Last Class
+BYTE 0x18
+
+ORG 0x2B2AE //Skill Pierce from this class
+BYTE 0x33
+
+ORG 0x2B2AA //Skill Pierce to this class
+BYTE 0x33
+
+ORG 0x16C98 //Slayer Skill First Class
+BYTE 0x58
+
+ORG 0x16C94 //Slayer Skill Last Class
+BYTE 0x59
+
+ORG 0x2BD10 //Ewan Promotes To Class For Weapon Rank Removal
+BYTE 0x7F
+ORG 0x2BE60
+BYTE 0x7F
+
+ORG 0x40C6A //Class ID that determines that the AI can use Rogue lockpick skill
+BYTE 0x44
+
+ORG 0x23E90 //Skill Pick
+BYTE 0x44
+
+//Gorgon Egg Hell
+ORG 0x2C4FC //Forcibly overwrites defeat EXP. Class2
+BYTE 0x7F
+ORG 0x17D9A //Special class 1 to reduce number of possessed items to zero when loading
+BYTE 0x7F
+ORG 0x17C04 //Special class 2 to that BadStatus A when load
+BYTE 0x7F
+ORG 0x17CFC //Special class 2 to that fixes HP to 5 when load
+BYTE 0x7F
+ORG 0x1C932 //Disabled Status Screen On Map
+BYTE 0x7F
+ORG 0x879CA 
+BYTE 0x7F
+ORG 0x874B2
+BYTE 0x7F
+ORG 0x2C4F8 //Forcibly overwrites defeat EXP. Class1
+BYTE 0x7F
+ORG 0x17C00 //Special class 1 to that BadStatus A when load
+BYTE 0x7F
+ORG 0x17CF8 //Special class 1 to that fixes HP to 5 when load
+BYTE 0x7F
+ORG 0x17D96 //Special class 2 to reduce number of possessed items to zero when loading
+BYTE 0x7F
+ORG 0x1C92E //Disabled Status Screen on Map (2)
+BYTE 0x7F
+ORG 0x879C6
+BYTE 0x7F
+ORG 0x874AE
+BYTE 0x7F
+
+ORG 0x70B7E //Special Class ID to turn the battle background into a manakete
+BYTE 0x7F
+
+ORG 0x2BD0A //Ewan Base Class For WeapoN Rank Removal
+BYTE 0x7F
+ORG 0x2BE5A
+BYTE 0x7F
+
+ORG 0x750C4 //Triangle Attack Class UnPromoted
+BYTE 0x2E
+ORG 0x7510C
+BYTE 0x2E
+ORG 0x75156
+BYTE 0x2E
+
+ORG 0x750CC //Triangle Attack Class Promoted
+BYTE 0x30
+ORG 0x75114
+BYTE 0x30
+
+ORG 0xBD4CE //Worldmap fleet icon
+BYTE 0x7F
+
+ORG 0x2C3FE //Enemy Class Grants Bonus EXP
+BYTE 0x5E
+
+ORG 0x7CF62 //Class ID of an enemy unit born from an egg
+BYTE 0x7F
+
+ORG 0x57708 //Special class ID to turn the battle background into a dragon zombie
+BYTE 0x7F
+ORG 0x70B76
+BYTE 0x7F
+ORG 0x70B7A
+BYTE 0x7F
+
+//Items
+
+ORG 0x582A8 //Always Ranged Animate: Rune Sword
+BYTE 0x1B
+ORG 0x58290
+BYTE 0x1B
+
+ORG 0x7AEF8 //Summoned Creature Weapon 1
+BYTE 0x01
+
+ORG 0x7AEF4 //Summoned Creature Weapon 2
+BYTE 0x0E
+
+ORG 0x7AEE4 //Summoned Creature Weapon 3
+BYTE 0x08
+ORG 0x7AECA
+BYTE 0x08
+
+ORG 0x7AEA8 //Summoned Creature Weapon 4
+BYTE 0x07
+ORG 0x7AEBC
+BYTE 0x07
+ORG 0x7AED6
+BYTE 0x07
+
+ORG 0x582D4 // Always Ranged Animate: Hand Axe
+BYTE 0x91
+ORG 0x582C0
+BYTE 0x91
+
+ORG 0x582FC //Always Ranged Animate: Tomahawk
+BYTE 0x93
+ORG 0x582E8
+BYTE 0x93
+
+ORG 0x58324 //Always Ranged Animate: Hatchet
+BYTE 0x92
+ORG 0x58310
+BYTE 0x92
+
+ORG 0x58B12 //Change Battle BGM if Specified Item Weapon1
+BYTE 0x27
+
+ORG 0x58B16 //Change Battle BGM if Specified Item Weapon2
+BYTE 0xB5
+
+ORG 0x2FF78 // Item Nightmare
+BYTE 0xE1
+ORG 0x32036
+BYTE 0xE1
+ORG 0x322C6
+BYTE 0xE1
+
+ORG 0x2B008 // Specified Item Attacks 1x Per Combat
+BYTE 0xE1
+
+ORG 0x2ACB6 // Prohibits the Crit by Item _ Stone
+BYTE 0xE1
+
+POP 
+
+//Promotion Item Definitions
+HeroCrestList:
+BYTE 0x7
+BYTE 0x8
+BYTE 0xB
+BYTE 0xC
+BYTE 0x34
+BYTE 0x35
+BYTE 0x3A
+BYTE 0x3B
+BYTE 0x3C
+BYTE 0x3F
+BYTE 0x40
+BYTE 0x43

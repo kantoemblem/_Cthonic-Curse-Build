@@ -1,0 +1,177 @@
+## MyrmidonDesc
+Warriors who specialise in the blade.[NL]
+They overcome enemies with[NL]
+their swift movements.[X]
+
+## SwordmasterDesc
+A sword expert who has reached the[NL]
+pinnacle of swordsmanship.[NL]
+Has high skill and speed.[X]
+
+## DreadFighterName
+Dreadfighter[X]
+
+## DreadFighterDesc
+A mystifying fighter who possesses[NL]
+exceptional resistance. Can wield[NL]
+swords and tomes.[X]
+
+## BrigandDesc
+Fiends who raid and destroy villages.[NL]
+Has high strength and speed, but[NL]
+low defence.[X]
+
+## PirateDesc
+Deft Sailors that control the seas with[NL]
+their immense power and skill.[X]
+
+## BerserkerDesc
+A mighty barbarian who has mastered[NL]
+the axe and deals devastating attacks.[X]
+
+## HunterName
+Hunter[X]
+
+## HunterDesc
+Skillful archers whose lack of armor[NL]
+provides better mobility but poor[NL]
+defense.[X]
+
+## DeserterName
+Deserter[X]
+
+## DeserterDesc
+Lance fighters whose unrefined style[NL]
+makes their strikes heavier and less[NL]
+accurate.[X]
+
+## ThiefDesc
+An underworld dweller who lives off[NL]
+thievery. Weak at fighting, but good[NL]
+at picking locks.[X]
+
+## AssassinDesc
+An assassin who lives in the shadows.[NL]
+Can wield bows in addition to swords.[X]
+
+## RogueDesc
+A glamorous and elusive phantom thief.[NL]
+Wields staves in addition to swords.[X]
+
+## AdventurerName
+Adventurer[X]
+
+## AdventurerDesc
+Glory-seekers who investigate ruins for[NL]
+treasure. With their bows and staves,[NL]
+they're capable of many things.[X]
+
+## MageDesc
+Magic tome wielders who fare[NL]
+well against armoured foes.[X]
+
+## SageDesc
+A powerful magician who wields mighty[NL]
+magic. Can wield staves in[NL]
+addition to magic.[X]
+
+## MageknightDesc
+A spell-casting knight who rides a[NL]
+horse. Can wield swords in[NL]
+addition to magic.[X]
+
+## DarkFlierName
+Dark Flier[X]
+
+## DarkFlierDesc
+Knights who ride astride a pitch-black[NL]
+pegasus. They rush the battlefield[NL]
+armed with lances and tomes.[X]
+
+## ShamanDesc
+A wielder of dark magic.[NL]
+Sturdy, boasting high defence.[X]
+
+## DruidDesc
+A warlock who wields potent dark magic.[NL]
+Possesses terrifying magical power.[X]
+
+## MonkDesc
+Skillful missionaries who wield light magic.[NL]
+High resistance makes them impervious[NL]
+to magical assault.[X]
+
+## ClergyDesc
+Healers who aid allies with their[NL]
+healing staves. Cannot fight.[X]
+
+## BishopDesc
+A holy worker who wields staves as well[NL]
+as potent light magic.[X]
+
+## TroubadourDesc
+Mounted healers who possess[NL]
+high mobility, but cannot fight.[X]
+
+## ValkyrieDesc
+A battle maiden who rides a horse[NL]
+into combat. Can wield[NL]
+magic in addition to staves.[X]
+
+## MageDragonName ^
+Mage Dragon[X]
+
+## DragonDesc
+A powerful race able to take[NL]
+dragon form. Powerful when[NL]
+shifted, harmless otherwise.[X]
+
+## SupplierName
+Supplier[X]
+
+## SupplierDesc
+A merchant who travels across the[NL]
+lands peddling their wares. posses low[NL]
+offense, but high mobility and defense.[X]
+
+## DancerDesc
+An enchanting female whose beautiful[NL]
+dances invigorate allies,[NL]
+giving them another action.[X]
+
+## EclipseKnightName ^
+Eclipse Knight[X]
+
+## EclipseKnightDesc
+_[X]
+
+## TwilightKnightName ^
+Twilight Knight[X]
+
+## TwilightKnightDesc
+_[X]
+
+## SluggerName
+Slugger[X]
+
+## SluggerDesc
+_[X]
+
+## DriverName
+Driver[X]
+
+## DriverDesc
+_[X]
+
+## DuelistName
+Duelist[X]
+
+## DuelistDesc
+_[X]
+
+## LodestarName
+Lodestar[X]
+
+## LodestarDesc
+A legendary hero spoken of in sagas.[NL]
+Fights wielding swords.[X]

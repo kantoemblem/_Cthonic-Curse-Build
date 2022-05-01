@@ -1,0 +1,57 @@
+//Burto
+	ALIGN 4
+	BurtoConfig:
+	#incext compress "BurtoConfig.mapchip_config"
+
+	ALIGN 4
+	BurtoPalette:
+	#incext Png2Dmp "Burto.png" --palette-only
+
+	ALIGN 4
+	BurtoImage:
+	#incext Png2Dmp "Burto.png" --lz77
+
+	ALIGN 4
+	EventPointerTable[0xEC,BurtoConfig]
+	EventPointerTable[0xED,BurtoPalette]
+	EventPointerTable[0xEE,BurtoImage]
+	
+	ALIGN 4
+	BurtoWaterAnimation:
+	TilesetAnimation(28,4096,BurtoWater1)
+	TilesetAnimation(28,4096,BurtoWater2)
+	TilesetAnimation(28,4096,BurtoWater3)
+	TilesetAnimation(28,4096,BurtoWater4)
+	TilesetAnimation(28,4096,BurtoWater5)
+	TilesetAnimation(28,4096,BurtoWater6)
+	TilesetAnimation(28,4096,BurtoWater7)
+	TilesetAnimation(28,4096,BurtoWater8)
+	WORD 0x00 0x00
+	
+	ALIGN 4
+	BurtoWater1:
+	#incext Png2Dmp "BurtoMapAnim/0.png"
+	ALIGN 4
+	BurtoWater2:
+	#incext Png2Dmp "BurtoMapAnim/1.png"
+	ALIGN 4
+	BurtoWater3:
+	#incext Png2Dmp "BurtoMapAnim/2.png"
+	ALIGN 4
+	BurtoWater4:
+	#incext Png2Dmp "BurtoMapAnim/3.png"
+	ALIGN 4
+	BurtoWater5:
+	#incext Png2Dmp "BurtoMapAnim/4.png"
+	ALIGN 4
+	BurtoWater6:
+	#incext Png2Dmp "BurtoMapAnim/5.png"
+	ALIGN 4
+	BurtoWater7:
+	#incext Png2Dmp "BurtoMapAnim/6.png"
+	ALIGN 4
+	BurtoWater8:
+	#incext Png2Dmp "BurtoMapAnim/7.png"
+	ALIGN 4
+	
+	EventPointerTable[0xEF,BurtoWaterAnimation]

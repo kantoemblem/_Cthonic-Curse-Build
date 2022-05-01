@@ -1,0 +1,623 @@
+## SlayingEdgeName
+Slaying Edge[X]
+
+## GlassSwordName
+Glass Sword[X]
+
+## SoothingSwordName ^
+Soothing Sword[X]
+
+## SuperiorEdgeName ^
+Superior Edge[X]
+
+## SunriseKatanaName ^
+Sunrise Katana[X]
+
+## VengeKatanaName ^
+Venge Katana[X]
+
+## TempestBladeName ^
+Tempest Blade[X]
+
+## LevinSwordName ^
+Levin Sword[X]
+
+## FlameSwordName ^
+Flame Sword[X]
+
+## KnifeName
+Knife[X]
+
+## BaurenwehrName
+Baurenwehr[X]
+
+## KukriName
+Kukri[X]
+
+## SpysKnifeName
+Spy's Knife[X]
+
+## JusticesBoltName ^
+Justice's Bolt[X]
+
+## LadySwordName
+Lady Sword[X]
+
+## EclipseBladeName ^
+Eclipse Blade[X]
+
+## FrostRapierName ^
+Frost Rapier[X]
+
+## FalchionName
+Falchion[X]
+
+## MissiletainnName ^
+Missiletainn[X]
+
+## PurpleLightningDreamSmasherName
+PLDS[X]
+
+## IustitiaeName
+Iustitiae[X]
+
+## EmpressBladeName ^
+Empress Blade[X]
+
+
+
+## IronGreatlanceName ^
+Iron Greatlance[X]
+
+## SteelGreatlanceName ^
+Steel Greatlance[X]
+
+## SilverGreatlanceName ^
+Silver Greatlance[X]
+
+## SlayingSpearName
+Slaying Spear[X]
+
+## GlassLanceName
+Glass Lance[X]
+
+## SuperiorLanceName ^
+Superior Lance[X]
+
+## RhomphaiaName
+Rhomphaia[X]
+
+## ShockStickName
+Shockstick[X]
+
+## MiniLanceName ^
+Miniature Lance[X]
+
+## GuardLanceName
+Guard Lance[X]
+
+## VengeSpearName
+Venge Spear[X]
+
+## SaunionName
+Saunion[X]
+
+## MerchantsLanceName ^
+Merchant's Lance[X]
+
+## GaeBuindeName
+Gae Buinde[X]
+
+## LanceOfRuinName ^
+Lance of Ruin[X]
+
+## LegLanceName
+_[X]
+
+
+
+## IronPoleaxeName ^
+Iron Poleaxe[X]
+
+## SteelPoleaxeName ^
+Steel Poleaxe[X]
+
+## SilverPoleaxeName ^
+Silver Poleaxe[X]
+
+## SlayingAxeName ^
+Slaying Axe[X]
+
+## GlassAxeName
+Glass Axe[X]
+
+## ImposingAxeName ^
+Imposing Axe[X]
+
+## SuperiorAxeName ^
+Superior Axe[X]
+
+## VengeAxeName
+Venge Axe[X]
+
+## ShortAxeName
+Short Axe[X]
+
+## BoltAxeName
+Bolt Axe[X]
+
+## VatafName
+Vataf[X]
+
+## KessingerName
+Kessinger[X]
+
+## HexPrfName
+_[X]
+
+## SAxeName
+_[X]
+
+
+
+## SlayingBowName ^
+Slaying Bow[X]
+
+## GlassBowName
+Glass Bow[X]
+
+## PerfectBowName ^
+Perfect Bow[X]
+
+## SuperiorBowName ^
+Superior Bow[X]
+
+## HuntingBowName
+Hunting Bow[X]
+
+## ShiningBowName ^
+Shining Bow[X]
+
+## TrainingBowName
+Training Bow[X]
+
+## MaePrfName
+_[X]
+
+## BowGunName
+Bow Gun[X]
+
+## SBowName
+_[X]
+
+
+
+## ArcfireName
+Arcfire[X]
+
+## DyingBlazeName ^
+Dying Blaze[X]
+
+## TruthsPyreName ^
+Truth's Pyre[X]
+
+## VeritasName
+Veritas[X]
+
+
+
+## ElthunderName
+Elthunder[X]
+
+## ArcthunderName
+Arcthunder[X]
+
+## SuperiorJoltName ^
+Superior Jolt[X]
+
+## STomeofDeathName
+_[X]
+
+
+
+## WindName
+Wind[X]
+
+## ElwindName
+Elwind[X]
+
+## ArcwindName
+Arcwind[X]
+
+## ShaverName
+Shaver[X]
+
+## EchoingGaleName ^
+Echoing Gale[X]
+
+## SWindName
+_[X]
+
+
+
+## ArtemisName
+Artemis[X]
+
+## ClarentName
+Clarent[X]
+
+## GawainName
+Gawain[X]
+
+## SLightName
+_[X]
+
+
+
+## RuinName
+Ruin[X]
+
+## DarkSpikesTName
+Dark Spikes T[X]
+
+## AgravainName
+Agravain[X]
+
+## SDarkName
+_[X]
+
+## AphiDarkName
+_[X]
+
+
+
+## AbsorbName
+Absorb[X]
+
+## FearName
+Fear[X]
+
+## SlowName
+Slow[X]
+
+## PainName
+Pain[X]
+
+
+
+## ZelosName
+Zelos[X]
+
+
+
+
+
+
+
+
+
+
+## IronDesc
+Affordable and easy to wield.[X]
+
+## SteelDesc
+More powerful than its iron brother.[X]
+
+## SilverDesc
+Expensive, but extremely powerful.[X]
+
+## IronHDesc
+Heftier than its iron counterpart.[X]
+
+## SteelHDesc
+Heftier than its steel counterpart.[X]
+
+## SilverHDesc
+Heftier than its silver counterpart.[X]
+
+## KillerDesc
+Increases the likelihood of critical hits.[X]
+
+## SlayingDesc
++10% Skill Activation Rate.[X]
+
+## GlassDesc
+Powerful, but quick to break.[X]
+
+## SoothingSwordDesc
+Grants: Renewal[X]
+
+## SuperiorEdgeDesc
+Grants: Swordbreaker[X]
+
+## SunriseKatanaDesc
+A blade that increases evasion.[X]
+
+## VengeDesc ^
+Mt +6 when enemy initiates the battle.[X]
+
+## MagWeaponDesc
+Deals magical damage based on Mag.[X]
+
+## KnifeDesc
+Thief only. Can attack at range.[X]
+
+## SpysKnifeDesc ^
+Thief only. Extended attack range.[X]
+
+## JusticesBoltDesc ^
+Ben's almighty blade! +20 hit/avo when injured.[X]
+
+## LadySwordDesc ^
+A bladed forged of Hisochan Steel. Eff. bandits.[X]
+
+## EclipseBladeDesc ^
+Prince Ulyaoth's twin blade. Halves HP.[X]
+
+## FrostRapierDesc ^
+Princess Diana's twin ice blade.[X]
+
+## FalchionDesc
+Forged from the fang of Naga.[X]
+
+## MissiletainnDesc ^
+Owain only. The apocryphal brand?[X]
+
+## PurpleLightningDreamSmasherDesc ^
+The Zekenator's legendary blade![X]
+
+## IustitiaeDesc
+_[X]
+
+## EmpressBladeDesc ^
+The Sacred Heirloom of the Hisochan Dynasty.[X]
+
+
+
+## SlimLanceDesc ^
+A basic spear with no special qualities.[X]
+
+## SuperiorLanceDesc ^
+Grants: Lancebreaker[X]
+
+## RhomphaiaDesc ^
+Effective against cavalry, knights, dragons.[X]
+
+## MiniLanceDesc ^
+An absurdly short lance.[X]
+
+## GuardLanceDesc
+Def and Res +5[X]
+
+## MerchantsLanceDesc ^
+Nana's stalwart bodyguard. Grants: Pass[X]
+
+## GaeBuindeDesc ^
+Diarmuid's Lance. +2 Mt and +10% Crit vs mages.[X]
+
+## LanceOfRuinDesc ^
+Hero's Relic of House Gautier.[X]
+
+## LegLanceDesc
+_[X]
+
+
+
+## ImposingAxeDesc
+An absurdly broad axe.[X]
+
+## SuperiorAxeDesc 
+Grants: Axebreaker[X]
+
+## HandAxeDesc ^
+A standard throwing axe.[X]
+
+## ShortAxeDesc
+A stronger throwing axe.[X]
+
+## TomahawkDesc
+A powerful throwing axe.[X]
+
+## VatafDesc ^
+Perkus' crescent axe. Strikes like a mountain's gale.[X]
+
+## KessingerDesc
+_[X]
+
+## HexPrfDesc
+_[X]
+
+## SAxeDesc
+_[X]
+
+
+
+## PerfectBowDesc ^
++15% Hit/Avo when user's Hp is full[X]
+
+## SuperiorBowDesc
+Grants: Bowbreaker[X]
+
+## ShortBowDesc
+Doubles as close-ranged attack.[X]
+
+## TrainingBowDesc ^
+A bow designed for training. Grants: Weaken[X]
+
+## MaePrfDesc
+_[X]
+
+## BowGunDesc ^
+Doubles as close-ranged attack. Gordin's Bow.[X]
+
+## SBowDesc
+_[X]
+
+
+
+## FireDesc
+Standard fire magic.[X]
+
+## ElfireDesc
+Strong fire magic.[X]
+
+## ArcfireDesc
+Powerful fire magic.[X]
+
+## DyingBlazeDesc ^
+Fire magic. Powerful, but quick to break.[X]
+
+## TruthsPyreDesc ^
+Zo's Tome. +4 Damage when initiating battle.[X]
+
+## VeritasDesc
+_[X]
+
+
+
+## ThunderDesc
+Standard lightning magic[X]
+
+## ElthunderDesc
+Strong lightning magic.[X]
+
+## ArcthunderDesc
+Powerful lightning magic.[X]
+
+## SuperiorJoltDesc ^
+Grants: Tomebreaker[X]
+
+## STomeofDeathDesc
+_[X]
+
+
+
+## WindDesc
+Standard wind magic.[X]
+
+## ElwindDesc
+Strong wind magic.[X]
+
+## ArcwindDesc
+Powerful wind magic.[X]
+
+## ShaverDesc ^
+Wind magic. Increases critical hit rate.[X]
+
+## EchoingGaleDesc ^
+Wind magic. Can strike consecutively.[X]
+
+## FimbulvetrDesc
+Devastating Wind Magic[X]
+
+## ExcaliburDesc
+_[X]
+
+## SWindDesc
+_[X]
+
+
+
+## LightningDesc
+Standard light magic.[X]
+
+## ShineDesc
+Strong light magic.[X]
+
+## DivineDesc
+Powerful light magic.[X]
+
+## AuraDesc
+Devasting light magic.[X]
+
+## ArtemisDesc
+Light magic. Increases critical hit rate.[X]
+
+## ClarentDesc
+Inverts magic triangle[X]
+
+## GawainDesc ^
+A tome who's blinding light damages foes after combat.[X]
+
+## SLightDesc
+_[X]
+
+
+
+## FluxDesc
+Standard dark magic.[X]
+
+## FenrirDesc
+Devastating dark magic.[X]
+
+## RuinDesc ^
+Dark magic. Increases critical hit rate.[X]
+
+## EclipseDesc
+Reduces enemy HP to 1[X]
+
+## DarkSpikesTDesc ^
+Dark magic. Effective against cavalry.[X]
+
+## AgravainDesc ^
+Dark magic. Grants great power at a price.[X]
+
+## SDarkDesc
+_[X]
+
+## AphiDarkDesc
+_[X]
+
+
+
+## FearDesc ^
+After combat, inflicts Atk -6 on foe.[X]
+
+## SlowDesc ^
+After combat, inflicts Spd -6 on foe.[X]
+
+## PainDesc
+Deals 20% of foe's HP to foe.[X]
+
+
+
+## DragonstoneDesc ^
+A stone imbued with mysterious might.[X]
+
+## TestWeapon ^
+KringoFuk[X]
+
+
+
+## ZelosDesc
+A curious mask. Dramatically[NL]
+increases stats.[X]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

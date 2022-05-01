@@ -1,0 +1,57 @@
+//Map palettes
+PUSH
+ORG 0x59EE20 //Player Map Palette data position
+BYTE $90 $42 $08 $41 $B0 $6E $79 $73 $4C $29 $14 $26 $BD $63 $C3 $2C $40 $55 $00 $66 $C3 $7E $76 $14 $BD $23 $EE $31 $BD $77 $A6 $14 //Player Map Palette
+POP 
+
+PUSH
+ORG 0x59EE40 //Enemy Map Palette data position
+BYTE $90 $42 $2B $28 $1B $42 $3C $67 $4C $29 $14 $26 $BD $63 $4B $1C $4F $20 $76 $20 $BB $14 $27 $2F $BD $23 $EE $31 $BD $77 $A6 $14 //Enemy Map Palette
+POP 
+
+PUSH
+ORG 0x59EE60 //Ally Map Palette data position
+BYTE $90 $42 $04 $15 $70 $43 $99 $67 $4C $29 $14 $26 $BD $63 $05 $21 $80 $21 $A0 $32 $65 $23 $FE $02 $BD $23 $EE $31 $BD $77 $A6 $14 //Ally Map Palette
+POP 
+
+PUSH
+ORG 0x59EE60 //Ally Map Palette data position
+BYTE $90 $42 $04 $15 $70 $43 $99 $67 $4C $29 $14 $26 $BD $63 $05 $21 $80 $21 $A0 $32 $65 $23 $FE $02 $BD $23 $EE $31 $BD $77 $A6 $14 //Ally Map Palette
+POP 
+
+PUSH
+ORG 0x59EEA0 //Fourth Map Palette data position
+BYTE $90 $42 $CB $00 $FB $1A $9C $4F $4C $29 $14 $26 $BD $63 $EF $00 $75 $01 $7B $16 $5F $23 $A0 $7D $BD $23 $EE $31 $BD $77 $A6 $14 //Fourth Map Palette
+POP 
+
+PUSH
+ORG 0x59EE80 //Gray Map Palette data position
+BYTE $90 $42 $C6 $18 $AD $35 $B5 $56 $08 $21 $CE $39 $F7 $5E $E7 $1C $29 $25 $31 $46 $B5 $56 $8C $31 $F7 $5E $EE $31 $18 $63 $A6 $14 //Gray Map Palette
+POP 
+
+//Item palette
+PUSH
+ORG 0x5996F4 //Item Palette data position
+BYTE $F8 $67 $FF $7F $19 $5F $52 $42 $A5 $14 $7F $13 $18 $00 $A2 $71 $EE $49 $D6 $6A $E0 $1D $27 $63 $2D $19 $13 $3A $CA $1C $BB $01 //Item Palette
+POP 
+
+//Weapon Icon Palette
+PUSH
+ORG 0x599714 //Weapon Icon Palette
+BYTE $F8 $67 $84 $10 $EF $3D $29 $25 $C6 $18 $B1 $19 $BB $04 $FF $11 $BE $3B $DE $7F $56 $16 $E3 $0A $EF $4B $E2 $7D $4A $59 $36 $7B
+POP
+
+//Arrow palette
+PUSH
+ORG 0xA0328C //Arrow palette data position
+BYTE $12 $47 $18 $63 $10 $42 $FF $7F $00 $42 $FA $61 $DE $7E $96 $20 $1E $2D $1F $00 $E0 $03 $FF $03 $00 $7C $1F $7C $E0 $7F $6E $18 //palette data
+POP 
+
+//Battle Preview palette
+PUSH
+ORG 0x5B6BB4 //Battle window palette data position
+BYTE $CC $49 $BD $77 $7C $57 $90 $25 $68 $00 $BB $73 $94 $6F $8B $6A $40 $62 $00 $5E $20 $4D $E0 $48 $A0 $44 $60 $40 $20 $3C $00 $38 //player
+BYTE $CC $49 $BD $77 $7C $57 $90 $25 $68 $00 $9D $73 $7D $6B $3C $63 $FB $5A $BA $4E $15 $00 $16 $00 $11 $00 $0E $00 $0C $00 $0A $00//enemy
+BYTE $0E $52 $BD $77 $7C $57 $90 $25 $68 $00 $BC $73 $BA $6B $92 $4B $60 $43 $40 $3B $80 $1A $40 $12 $00 $0A $A0 $01 $60 $01 $20 $01//ally
+BYTE $CC $49 $BD $77 $7C $57 $90 $25 $68 $00 $9C $6F $B5 $52 $94 $4E $73 $4A $31 $42 $4B $25 $2A $25 $E8 $1C $C7 $18 $85 $10 $64 $0C//fourth
+POP 

@@ -1,0 +1,389 @@
+CommanderStand:
+#incext Png2Dmp "_Commander/CommanderStand.png" --lz77
+CommanderMove:
+#incext Png2Dmp "_Commander/CommanderMove.png" --lz77
+TacticianStand:
+#incext Png2Dmp "_Tactician/TacticianStand.png" --lz77
+TacticianMove:
+#incext Png2Dmp "_Tactician/TacticianMove.png" --lz77
+//AcolyteStand:
+//#incext Png2Dmp "_Acolyte/AcolyteStand.png" --lz77
+//AcolyteMove:
+//#incext Png2Dmp "_Acolyte/AcolyteMove.png" --lz77
+//ChaosBringerStand:
+//#incext Png2Dmp "_ChaosBringer/ChaosBringerStand.png" --lz77
+//ChaosBringerMove:
+//#incext Png2Dmp "_ChaosBringer/ChaosBringerMove.png" --lz77
+//TruthBringerStand:
+//#incext Png2Dmp "_TruthBringer/TruthBringerStand.png" --lz77
+//TruthBringerMove:
+//#incext Png2Dmp "_TruthBringer/TruthBringerMove.png" --lz77
+//MageFighterStand:
+//#incext Png2Dmp "_MageFighter/MageFighterStand.png" --lz77
+//MageFighterMove:
+//#incext Png2Dmp "_MageFighter/MageFighterMove.png" --lz77
+MercMStand:
+#incext Png2Dmp "MercenaryM/MercStand.png" --lz77
+MercMMove:
+#incext Png2Dmp "MercenaryM/MercMove.png" --lz77
+MercFStand:
+#incext Png2Dmp "MercenaryF/MercStand.png" --lz77
+MercFMove:
+#incext Png2Dmp "MercenaryF/MercMove.png" --lz77
+HeroMStand:
+#incext Png2Dmp "HeroM/HeroStand.png" --lz77
+HeroMMove:
+#incext Png2Dmp "HeroM/HeroMove.png" --lz77
+HeroFStand:
+#incext Png2Dmp "HeroF/HeroStand.png" --lz77
+HeroFMove:
+#incext Png2Dmp "HeroF/HeroMove.png" --lz77
+FighterMStand:
+#incext Png2Dmp "FighterM/FighterStand.png" --lz77
+FighterMMove:
+#incext Png2Dmp "FighterM/FighterMove.png" --lz77
+FighterFStand:
+#incext Png2Dmp "FighterF/FighterStand.png" --lz77
+FighterFMove:
+#incext Png2Dmp "FighterF/FighterMove.png" --lz77
+//WarriorMStand:
+//#incext Png2Dmp "WarriorM/WarriorStand.png" --lz77
+//WarriorMMove:
+//#incext Png2Dmp "WarriorM/WarriorMove.png" --lz77
+//WarriorFStand:
+//#incext Png2Dmp "WarriorF/WarriorStand.png" --lz77
+//WarriorFMove:
+//#incext Png2Dmp "WarriorF/WarriorMove.png" --lz77
+SoldierMStand:
+#incext Png2Dmp "SoldierM/SoldierStand.png" --lz77
+SoldierMMove:
+#incext Png2Dmp "SoldierM/SoldierMove.png" --lz77
+SoldierFStand:
+#incext Png2Dmp "SoldierF/SoldierStand.png" --lz77
+SoldierFMove:
+#incext Png2Dmp "SoldierF/SoldierMove.png" --lz77
+//DiarmuidStand:
+//#incext Png2Dmp "SoldierD/SoldierStand.png" --lz77
+//DiarmuidMove:
+//#incext Png2Dmp "SoldierD/SoldierMove.png" --lz77
+HalberdierMStand:
+#incext Png2Dmp "HalberdierM/HalberdierStand.png" --lz77
+HalberdierMMove:
+#incext Png2Dmp "HalberdierM/HalberdierMove.png" --lz77
+HalberdierFStand:
+#incext Png2Dmp "HalberdierF/HalberdierStand.png" --lz77
+HalberdierFMove:
+#incext Png2Dmp "HalberdierF/HalberdierMove.png" --lz77
+ArcherMStand:
+#incext Png2Dmp "ArcherM/ArcherStand.png" --lz77
+ArcherMMove:
+#incext Png2Dmp "ArcherM/ArcherMove.png" --lz77
+ArcherFStand:
+#incext Png2Dmp "ArcherF/ArcherStand.png" --lz77
+ArcherFMove:
+#incext Png2Dmp "ArcherF/ArcherMove.png" --lz77
+SniperMStand:
+#incext Png2Dmp "SniperM/SniperStand.png" --lz77
+SniperMMove:
+#incext Png2Dmp "SniperM/SniperMove.png" --lz77
+SniperFStand:
+#incext Png2Dmp "SniperF/SniperStand.png" --lz77
+SniperFMove:
+#incext Png2Dmp "SniperF/SniperMove.png" --lz77
+KnightSStand:
+#incext Png2Dmp "KnightS/KnightStand.png" --lz77
+KnightSMove:
+#incext Png2Dmp "KnightS/KnightMove.png" --lz77
+KnightLStand:
+#incext Png2Dmp "KnightL/KnightStand.png" --lz77
+KnightLMove:
+#incext Png2Dmp "KnightL/KnightMove.png" --lz77
+KnightAStand:
+#incext Png2Dmp "KnightA/KnightStand.png" --lz77
+KnightAMove:
+#incext Png2Dmp "KnightA/KnightMove.png" --lz77
+GeneralStand:
+#incext Png2Dmp "General/GeneralStand.png" --lz77
+GeneralMove:
+#incext Png2Dmp "General/GeneralMove.png" --lz77
+GreatKnightStand:
+#incext Png2Dmp "GreatKnight/GreatKnightStand.png" --lz77
+GreatKnightMove:
+#incext Png2Dmp "GreatKnight/GreatKnightMove.png" --lz77
+CavalierMStand:
+#incext Png2Dmp "CavalierM/CavalierStand.png" --lz77
+CavalierMMove:
+#incext Png2Dmp "CavalierM/CavalierMove.png" --lz77
+CavalierFStand:
+#incext Png2Dmp "CavalierF/CavalierStand.png" --lz77
+CavalierFMove:
+#incext Png2Dmp "CavalierF/CavalierMove.png" --lz77
+BladeCavalierMStand:
+#incext Png2Dmp "BladeCavalierM/BladeCavalierStand.png" --lz77
+BladeCavalierMMove:
+#incext Png2Dmp "BladeCavalierM/BladeCavalierMove.png" --lz77
+BladeCavalierFStand:
+#incext Png2Dmp "BladeCavalierF/BladeCavalierStand.png" --lz77
+BladeCavalierFMove:
+#incext Png2Dmp "BladeCavalierF/BladeCavalierMove.png" --lz77
+BowCavalierMStand:
+#incext Png2Dmp "BowCavalierM/BowCavalierStand.png" --lz77
+BowCavalierMMove:
+#incext Png2Dmp "BowCavalierM/BowCavalierMove.png" --lz77
+BowCavalierFStand:
+#incext Png2Dmp "BowCavalierF/BowCavalierStand.png" --lz77
+BowCavalierFMove:
+#incext Png2Dmp "BowCavalierF/BowCavalierMove.png" --lz77
+PaladinMStand:
+#incext Png2Dmp "PaladinM/PaladinStand.png" --lz77
+PaladinMMove:
+#incext Png2Dmp "PaladinM/PaladinMove.png" --lz77
+PaladinFStand:
+#incext Png2Dmp "PaladinF/PaladinStand.png" --lz77
+PaladinFMove:
+#incext Png2Dmp "PaladinF/PaladinMove.png" --lz77
+BladePaladinMStand:
+#incext Png2Dmp "BladePaladinM/BladePaladinStand.png" --lz77
+BladePaladinMMove:
+#incext Png2Dmp "BladePaladinM/BladePaladinMove.png" --lz77
+BladePaladinFStand:
+#incext Png2Dmp "BladePaladinF/BladePaladinStand.png" --lz77
+BladePaladinFMove:
+#incext Png2Dmp "BladePaladinF/BladePaladinMove.png" --lz77
+RangerMStand:
+#incext Png2Dmp "RangerM/RangerStand.png" --lz77
+RangerMMove:
+#incext Png2Dmp "RangerM/RangerMove.png" --lz77
+RangerFStand:
+#incext Png2Dmp "RangerF/RangerStand.png" --lz77
+RangerFMove:
+#incext Png2Dmp "RangerF/RangerMove.png" --lz77
+PegasusKnightStand:
+#incext Png2Dmp "PegasusKnight/PegasusStand.png" --lz77
+PegasusKnightMove:
+#incext Png2Dmp "PegasusKnight/PegasusMove.png" --lz77
+FalcoKnightStand:
+#incext Png2Dmp "FalcoKnight/FalcoStand.png" --lz77
+FalcoKnightMove:
+#incext Png2Dmp "FalcoKnight/FalcoMove.png" --lz77
+//FalcoKnightBowStand:
+//#incext Png2Dmp "FalcoKnight/BowStand.png" --lz77
+//FacloKnightBowMove:
+//#incext Png2Dmp "FalcoKnight/BowMove.png" --lz77
+WyvernRiderMStand:
+#incext Png2Dmp "WyvernRiderM/WyvernRiderStand.png" --lz77
+WyvernRiderMMove:
+#incext Png2Dmp "WyvernRiderM/WyvernRiderMove.png" --lz77
+WyvernRiderFStand:
+#incext Png2Dmp "WyvernRiderF/WyvernRiderStand.png" --lz77
+WyvernRiderFMove:
+#incext Png2Dmp "WyvernRiderF/WyvernRiderMove.png" --lz77
+WyvernLordMStand:
+#incext Png2Dmp "WyvernLordM/WyvernLordStand.png" --lz77
+WyvernLordMMove:
+#incext Png2Dmp "WyvernLordM/WyvernLordMove.png" --lz77
+WyvernLordFStand:
+#incext Png2Dmp "WyvernLordF/WyvernLordStand.png" --lz77
+WyvernLordFMove:
+#incext Png2Dmp "WyvernLordF/WyvernLordMove.png" --lz77
+MaligKnightStand:
+#incext Png2Dmp "MaligKnight/MaligKnightStand.png" --lz77
+MaligKnightMove:
+#incext Png2Dmp "MaligKnight/MaligKnightMove.png" --lz77
+MyrmidonMStand:
+#incext Png2Dmp "MyrmidonM/MyrmidonStand.png" --lz77
+MyrmidonMMove:
+#incext Png2Dmp "MyrmidonM/MyrmidonMove.png" --lz77
+MyrmidonFStand:
+#incext Png2Dmp "MyrmidonF/MyrmidonStand.png" --lz77
+MyrmidonFMove:
+#incext Png2Dmp "MyrmidonF/MyrmidonMove.png" --lz77
+SwordmasterMStand:
+#incext Png2Dmp "SwordmasterM/SwordmasterStand.png" --lz77
+SwordmasterMMove:
+#incext Png2Dmp "SwordmasterM/SwordmasterMove.png" --lz77
+SwordmasterFStand:
+#incext Png2Dmp "SwordmasterF/SwordmasterStand.png" --lz77
+SwordmasterFMove:
+#incext Png2Dmp "SwordmasterF/SwordmasterMove.png" --lz77
+DreadFighterStand:
+#incext Png2Dmp "DreadFighter/DreadFighterStand.png" --lz77
+DreadFighterMove:
+#incext Png2Dmp "DreadFighter/DreadFighterMove.png" --lz77
+BrigandStand:
+#incext Png2Dmp "Brigand/BrigandStand.png" --lz77
+BrigandMoving:
+#incext Png2Dmp "Brigand/BrigandMove.png" --lz77
+PirateMStand:
+#incext Png2Dmp "PirateM/PirateStand.png" --lz77
+PirateMMove:
+#incext Png2Dmp "PirateM/PirateMove.png" --lz77
+//PirateFStand:
+//#incext Png2Dmp "PirateF/PirateStand.png" --lz77
+//PirateFMove:
+//#incext Png2Dmp "PirateF/PirateMove.png" --lz77
+BerserkerMStand:
+#incext Png2Dmp "BerserkerM/BerserkerStand.png" --lz77
+BerserkerMMove:
+#incext Png2Dmp "BerserkerM/BerserkerMove.png" --lz77
+BerserkerFStand:
+#incext Png2Dmp "BerserkerF/BerserkerStand.png" --lz77
+BerserkerFMove:
+#incext Png2Dmp "BerserkerF/BerserkerMove.png" --lz77
+HunterMStand:
+#incext Png2Dmp "HunterM/HunterStand.png" --lz77
+HunterMMove:
+#incext Png2Dmp "HunterM/HunterMove.png" --lz77
+HunterFStand:
+#incext Png2Dmp "HunterF/HunterStand.png" --lz77
+HunterFMove:
+#incext Png2Dmp "HunterF/HunterMove.png" --lz77
+DeserterStand:
+#incext Png2Dmp "Deserter/DeserterStand.png" --lz77
+DeserterMove:
+#incext Png2Dmp "Deserter/DeserterMove.png" --lz77
+ThiefStand:
+#incext Png2Dmp "Thief/ThiefStand.png" --lz77
+ThiefMove:
+#incext Png2Dmp "Thief/ThiefMove.png" --lz77
+AssassinStand:
+#incext Png2Dmp "Assassin/AssassinStand.png" --lz77
+AssassinMove:
+#incext Png2Dmp "Assassin/AssassinMove.png" --lz77
+RogueStand:
+#incext Png2Dmp "Rogue/RogueStand.png" --lz77
+RogueMove:
+#incext Png2Dmp "Rogue/RogueMove.png" --lz77
+AdventurerStand:
+#incext Png2Dmp "Adventurer/AdventurerStand.png" --lz77
+AdventurerMove:
+#incext Png2Dmp "Adventurer/AdventurerMove.png" --lz77
+MageMStand:
+#incext Png2Dmp "MageM/MageStand.png" --lz77
+MageMMove:
+#incext Png2Dmp "MageM/MageMove.png" --lz77
+MageFStand:
+#incext Png2Dmp "MageF/MageStand.png" --lz77
+MageFMove:
+#incext Png2Dmp "MageF/MageMove.png" --lz77
+SageMStand:
+#incext Png2Dmp "SageM/SageStand.png" --lz77
+SageMMove:
+#incext Png2Dmp "SageM/SageMove.png" --lz77
+SageFStand:
+#incext Png2Dmp "SageF/SageStand.png" --lz77
+SageFMove:
+#incext Png2Dmp "SageF/SageMove.png" --lz77
+MageKnightMStand:
+#incext Png2Dmp "MageKnightM/MageKnightStand.png" --lz77
+MageKnightMMove:
+#incext Png2Dmp "MageKnightM/MageKnightMove.png" --lz77
+MageKnightFStand:
+#incext Png2Dmp "MageKnightF/MageKnightStand.png" --lz77
+MageKnightFMove:
+#incext Png2Dmp "MageKnightF/MageKnightMove.png" --lz77
+//DarkFlierStand:
+//#incext Png2Dmp "DarkFlier/FlierStand.png" --lz77
+//DarkFlierMove:
+//#incext Png2Dmp "DarkFlier/DarkFlierMove.png" --lz77
+ShamanMStand:
+#incext Png2Dmp "ShamanM/ShamanStand.png" --lz77
+ShamanMMove:
+#incext Png2Dmp "ShamanM/ShamanMove.png" --lz77
+ShamanFStand:
+#incext Png2Dmp "ShamanF/ShamanStand.png" --lz77
+ShamanFMove:
+#incext Png2Dmp "ShamanF/ShamanMove.png" --lz77
+DruidMStand:
+#incext Png2Dmp "DruidM/DruidStand.png" --lz77
+DruidMMove:
+#incext Png2Dmp "DruidM/DruidMove.png" --lz77
+DruidFStand:
+#incext Png2Dmp "DruidF/DruidStand.png" --lz77
+DruidFMove:
+#incext Png2Dmp "DruidF/DruidMove.png" --lz77
+MimiStand:
+#incext Png2Dmp "Mimi/MimiStand.png" --lz77
+//MimiMove:
+//#incext Png2Dmp "Mimi/MimiMove.png" --lz77
+MonkStand:
+#incext Png2Dmp "Monk/MonkStand.png" --lz77
+MonkMove:
+#incext Png2Dmp "Monk/MonkMove.png" --lz77
+PriestStand:
+#incext Png2Dmp "Priest/PriestStand.png" --lz77
+PriestMove:
+#incext Png2Dmp "Priest/PriestMove.png" --lz77
+ClericStand:
+#incext Png2Dmp "Cleric/ClericStand.png" --lz77
+ClericMove:
+#incext Png2Dmp "Cleric/ClericMove.png" --lz77
+BishopMStand:
+#incext Png2Dmp "BishopM/BishopStand.png" --lz77
+BishopMMove:
+#incext Png2Dmp "BishopM/BishopMove.png" --lz77
+BishopFStand:
+#incext Png2Dmp "BishopF/BishopStand.png" --lz77
+BishopFMove:
+#incext Png2Dmp "BishopF/BishopMove.png" --lz77
+TroubadourStand:
+#incext Png2Dmp "Troubadour/TroubadourStand.png" --lz77
+TroubadourMove:
+#incext Png2Dmp "Troubadour/TroubadourMove.png" --lz77
+ValkyrieStand:
+#incext Png2Dmp "Valkyrie/ValkStand.png" --lz77
+ValkyrieMove:
+#incext Png2Dmp "Valkyrie/ValkMove.png" --lz77
+SupplierStand:
+#incext Png2Dmp "Supplier/SupplierStand.png" --lz77
+SupplierMove:
+#incext Png2Dmp "Supplier/SupplierMove.png" --lz77
+DancerStand:
+#incext Png2Dmp "Dancer/DancerStand.png" --lz77
+DancerMove:
+#incext Png2Dmp "Dancer/DancerMove.png" --lz77
+ManaketeStand:
+#incext Png2Dmp "Manakete/MamkuteStand.png" --lz77
+ManaketeMove:
+#incext Png2Dmp "Manakete/MamkuteMove.png" --lz77
+//MageDragonStand:
+//#incext Png2Dmp "MageDragon/MageDragonStand.png" --lz77
+//MageDragonMove:
+//#incext Png2Dmp "MageDragon/MageDragonMove.png" --lz77
+//EclipseKnightStand:
+//#incext Png2Dmp "EclipseKnight/EclipseKnightStand.png" --lz77
+//EclipseKnightMove:
+//#incext Png2Dmp "EclipseKnight/EclipseKnightMove.png" --lz77
+TwilightKnightStand:
+#incext Png2Dmp "TwilightKnight/TwilightStand.png" --lz77
+TwilightKnightMove:
+#incext Png2Dmp "TwilightKnight/TwilightMove.png" --lz77
+//SluggerStand:
+//#incext Png2Dmp "Slugger/SluggerStand.png" --lz77
+//SluggerMove:
+//#incext Png2Dmp "Slugger/SluggerMove.png" --lz77
+//DriverStand:
+//#incext Png2Dmp "Driver/DriverStand.png" --lz77
+//DriverMove:
+//#incext Png2Dmp "Driver/DriverStand.png" --lz77
+//DuelistStand:
+//#incext Png2Dmp "Duelist/DuelistStand.png" --lz77
+//DuelistMove:
+//#incext Png2Dmp "Duelist/DuelistMove.png" --lz77
+//LodestarStand:
+//#incext Png2Dmp "Lodestar/LodestarStand.png" --lz77
+//LodestarMove:
+//#incext Png2Dmp "Lodestar/LodestarStand.png" --lz77
+
+
+//➖➖🟪🟪
+//🟧🟪🟪🟪🟪
+//🟨🟨🟨🟨🟨🟨
+//🟨⬜🔳🟨⬜🔳
+//🟨🟨🟨🟨🟨🟫🟫
+//🟨🟨🟨🟨🟨🟨🟨
+//➖⬜➖⬜🟫⬜🏻🟦
+//➖⬜➖➖🟫🏻🏻🟦🟦
+//🟨🟨🟨🟨🟨🟨🟨🟦🟦
+//🟨🟨🟨🟨🟨🟨➖🏻🏻
+//🟧🟧🟧🟧🟧➖➖🟫🟫

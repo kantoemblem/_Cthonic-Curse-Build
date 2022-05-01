@@ -1,0 +1,129 @@
+INLINE Class_Level_Cap_Table,Level Cap
+0x00 Separator/Nothing,20
+Commander,20
+Tactician,20
+Acolyte,20
+Chaos Bringer,20
+Truth Bringer,20
+Mage Fighter,20
+Mercenary,20
+Mercenary (F),20
+Hero,20
+Hero (F),20
+Fighter,20
+Fighter (F),20
+Warrior,20
+Warrior (F),20
+Soldier,20
+Soldier (F),20
+Soldier (D),20
+Halberdier,20
+Halberdier (F),20
+Archer,20
+Archer (F),20
+Archer (A),20
+Sniper,20
+Sniper (F),20
+Knight (S),20
+Knight (L),20
+Knight (A),20
+General,20
+Greatknight,20
+Cavalier,20
+Cavalier (F),20
+Paladin,20
+Paladin (F),20
+Blade Cavalier,20
+Blade Cavalier (F),20
+Blade Paladin,20
+Blade Paladin (F),20
+Bow Cavalier,20
+Bow Cavalier (F),20
+Ranger,20
+Ranger (F),20
+Pegasus Knight (A),20
+Pegasus Knight (C),20
+Falcoknight,20
+Falcoknight (E),20
+Wyvern Rider,20
+Wyvern Rider (F),20
+Wyvern Lord,20
+Wyvern Lord (F),20
+Wyvern Lord (Bow),20
+MaligKnight,20
+Myrmidon,20
+Myrmidon (F),20
+Swordmaster,20
+Swordmaster (F),20
+Dreadfighter,20
+Dreadfighter (F),20
+Brigand,20
+Pirate,20
+Pirate (F),20
+Berserker,20
+Berserker (F),20
+Hunter,20
+Hunter (F),20
+Deserter,20
+Thief,20
+Assassin,20
+Rogue,20
+Adventurer,20
+Mage,20
+Mage (F),20
+Mage (C),20
+Sage,20
+Sage (F),20
+Mageknight,20
+Mageknight (F),20
+Dark Flier,20
+Shaman,20
+Shaman (F),20
+Druid,20
+Summon,30
+Druid (F),20
+Mimi,30
+Monk,20
+Priest,20
+Cleric (G),20
+Cleric (S),20
+Bishop,20
+Bishop (F),20
+Troubadour,20
+Valkyrie,20
+Supplier,30
+Dancer,30
+Manakete,30
+Mage Dragon,30
+Eclipse Knight,30
+Twilight Knight,30
+Slugger,30
+Driver,30
+Duelist,30
+Lodestar,30
+0x66 Demon King,20
+0x67 Archer on Ballista,20
+0x68 Archer on Iron Ballista,20
+0x69 Archer on Killer Ballista,20
+0x6A Ballista,20
+0x6B Iron Ballista,20
+0x6C Killer Ballista,20
+0x6D Civilian,20
+0x6E Civilian (F),20
+0x6F Civilian,20
+0x70 Civilian (F),20
+0x71 Civilian,20
+0x72 Civilian (F),20
+0x73 Peer,20
+0x74 Queen,20
+0x75 Prince,20
+0x76 Queen,20
+0x77 (empty),20
+0x78 Fallen Prince,20
+0x79 Tent,20
+0x7A Pontifex,20
+0x7B Fallen Peer,20
+0x7C Cyclops 2,20
+0x7D Elder Bael 2,20
+0x7E Journeyman (2),20
+0x7F Invalid,0

@@ -1,0 +1,179 @@
+#define FreeSpace 0x1000000
+#define FreeSpaceBLRange 0x1c1ec0
+
+#define ChapterTileset(chapter, object, palette, config) "PUSH; ORG 0x8b0890 + (148* chapter) + 4; SHORT object; BYTE palette config; POP"
+#define ChapterTileAnims(chapter, anim1, anim2) "PUSH; ORG 0x8b0890 + (148* chapter) + 9; BYTE anim1 anim2; POP"
+
+#ifndef ItemTable
+//  #define ItemTable 0x809B10
+	#define ItemTable ExpandedItemTable
+#endif
+
+#ifndef DebuffTable
+  #define DebuffTable     0x0203F100
+  #define DebuffTableSize 0x00000440
+#endif
+
+#ifndef ChapterDataTable
+  #define ChapterDataTable 0x8B0890
+  #define ChapterDataTableEntSize 148
+#endif
+
+#define LunarBrace MoonBracelet
+#define SolarBrace SunBracelet
+
+// Attribute for defining items with passive stat bonuses
+#define PASSIVE_ITEM_BOOSTS_ATTR 0x00800000
+
+// this is for if you use the legacy way of define item attributes in your table (this is for byte 3)
+#define PassiveBoosts 0x80
+
+#define StatBonus(HPB,StrB,MagB,SklB,SpdB,DefB,ResB,LckB,MovB,ConB) "BYTE HPB StrB SklB SpdB DefB ResB LckB MovB ConB MagB 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0"
+
+#define GrowthBonus(HPB,StrB,MagB,SklB,SpdB,DefB,ResB,LckB) "BYTE 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 HPB StrB SklB SpdB DefB ResB LckB MagB 0x0 0x0"
+
+//item ID for skill scroll
+#define SkillScroll 0xBC
+
+#include "EngineHacks/SkillSystem/skill_definitions.event"
+
+// #define __DEBUG__ // Uncomment to get the Debug startup menu :p
+
+#define TilesetAnimation(speed, size, pointer)    "BYTE speed 0; SHORT size; POIN pointer"
+
+#define EventPointerListOffset ExpandedPointerList
+#define EventPointerTable(id,offset) "PUSH; ORG EventPointerListOffset+(4*id); POIN offset; POP"
+
+//Class card definition
+#define setCardEntry(cardEntry,cardLocation,cardPaletteLocation) "PUSH; ORG PortraitTable+cardEntry*0x1C; POIN 0 0 cardPaletteLocation 0 cardLocation; POP"
+
+
+//Character Definitions
+#define Ben Eirika
+#define Zo Seth
+
+
+//Class Definitions 
+#define Commander 0x1
+#define Tactician 0x2
+#define Acolyte 0x3
+#define ChaosBringer 0x4
+#define TruthBringer 0x5
+#define MageFighter 0x6
+#define Mercenary 0x7
+#define MercenaryF 0x8
+#define Hero 0x9
+#define HeroF 0xA
+#define Fighter 0xB
+#define FighterF 0xC
+#define Warrior 0xD
+#define WarriorF 0xE
+#define Soldier 0xF
+#define SoldierF 0x10
+#define SoldierD 0x11
+#define Halberdier 0x12
+#define HalberdierF 0x13
+#define Archer 0x14
+#define ArcherF 0x15
+#define ArcherA 0x16
+#define Sniper 0x17
+#define SniperF 0x18
+#define KnightS 0x19
+#define KnightL 0x1A
+#define KnightA 0x1B
+#define General 0x1C
+#define GreatKnight 0x1D
+#define Cavalier 0x1E
+#define CavalierF 0x1F
+#define Paladin 0x20
+#define PaladinF 0x21
+#define BladeCavalier 0x22
+#define BladeCavalierF 0x23
+#define BladePaladin 0x24
+#define BladePaladinF 0x25
+#define BowCavalier 0x26
+#define BowCavalierF 0x27
+#define Ranger 0x28
+#define RangerF 0x29
+#define PegasusKnightA 0x2A
+#define PegasusKnight 0x2B
+#define Falcoknight 0x2C
+#define FalcoKnightB 0x2D
+#define WyvernRider 0x2E
+#define WyvernRiderF 0x2F
+#define WyvernLord 0x30
+#define WyvernLordF 0x31
+#define WyvernLordB 0x32
+#define MaligKnight 0x33
+#define Myrmidon 0x34
+#define MyrmidonF 0x35
+#define Swordmaster 0x36
+#define SwordmasterF 0x37
+#define DreadFighter 0x38
+#define DreadFighterF 0x39
+#define Brigand 0x3A
+#define Pirate 0x3B
+#define PirateF 0x3C
+#define Berserker 0x3D
+#define BerserkerF 0x3E
+#define Hunter 0x3F
+#define HunterF 0x40
+#define Deserter 0x41
+#define Thief 0x42
+#define Assassin 0x43
+#define Rogue 0x44
+#define Adventurer 0x45
+#define Mage 0x46
+#define MageF 0x47
+#define MageC 0x48
+#define Sage 0x49
+#define SageF 0x4A
+#define MageKnight 0x4B
+#define MageKnightF 0x4C
+#define DarkFlier 0x4D
+#define Shaman 0x4E
+#define ShamanF 0x4F
+#define Druid 0x50
+#define Phantom 0x51
+#define DruidF 0x52
+#define Mimi 0x53
+#define Monk 0x54
+#define Priest 0x55
+#define ClericG 0x56
+#define Cleric 0x57
+#define Bishop 0x58
+#define BishopF 0x59
+#define Troubadour 0x5A
+#define Valkyrie 0x5B
+#define Supplier 0x5C
+#define Dancer 0x5D
+#define Manakete 0x5E
+#define MageDragon 0x5F
+#define EclipseKnight 0x60
+#define TwilightKnight 0x61
+#define Slugger 0x62
+#define Driver 0x63
+#define Duelist 0x64
+#define Lodestar 0x65
+
+
+//Label Battle Animations
+//#ifndef ClassAnimTable
+//    #define ClassAnimTable (0xc00008-0x20)
+//#endif
+//#define AnimTableEntry(index) "ORG ClassAnimTable - 0x20 + (index * 0x20)"
+
+#define Item 0x9
+#define SwordAnim(Animation) "BYTE Swords 0x01 ; SHORT Animation"
+#define SpearAnim(Animation) "BYTE Spears 0x01 ; SHORT Animation"
+#define Spears Lances
+#define LanceAnim(Animation) "BYTE Spears 0x1 ; SHORT Animation"
+#define AxeAnim(Animation) "BYTE Axes 0x01 ; SHORT Animation"
+#define HandAxeAnim(Animation) "BYTE HandAxe 0x00 ; SHORT Animation ; BYTE Tomahawk 0x00 ; SHORT Animation ; BYTE ShortAxe 0x00 ; SHORT Animation"
+#define BowAnim(Animation) "BYTE Bows 0x01 ; SHORT Animation"
+#define StaffAnim(Animation) "BYTE Staves 0x01 ; SHORT Animation"
+#define AnimaAnim(Animation) "BYTE Anima 0x01 ; SHORT Animation"
+#define LightAnim(Animation) "BYTE Light 0x01 ; SHORT Animation"
+#define DarkAnim(Animation) "BYTE Dark 0x01 ; SHORT Animation"
+#define UnarmedAnim(Animation) "BYTE Item 0x01 ; SHORT Animation"
+#define SpecialAnim(Animation,Weapon) "BYTE Weapon 0x00 ; SHORT Animation"

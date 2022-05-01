@@ -1,0 +1,80 @@
+EventPointerTable(0x07,ThisChapter)
+
+
+ThisChapter:
+POIN TurnBasedEvents
+POIN CharacterBasedEvents
+POIN LocationBasedEvents        
+POIN MiscBasedEvents         
+POIN Dunno Dunno Dunno         
+POIN Tutorial         
+POIN TrapData TrapData         
+POIN Units Units         
+POIN $0 $0 $0 $0 $0 $0         
+POIN BeginningScene EndingScene             
+
+Units:         
+UNIT             
+
+TurnBasedEvents:         
+END_MAIN           
+
+CharacterBasedEvents:         
+END_MAIN            
+
+LocationBasedEvents:      
+Seize(0x0,EndingScene,5,5)   
+END_MAIN             
+
+MiscBasedEvents:         
+CauseGameOverIfLordDies         
+END_MAIN             
+
+Dunno:         
+//DO NOT TOUCH         
+WORD $00             
+
+Tutorial:         
+//DO NOT TOUCH        
+WORD $00             
+
+TrapData:         
+END_MAIN             
+ALIGN 4             
+
+BeginningScene:         
+LOAD1 0x1 MeNTheBois
+LOAD1 0x1 TheTrueSelf
+ENUN
+EVBIT_T 0x7
+ENDA             
+
+EndingScene:   
+MNC2 0x1    
+ENDA             
+
+// Events             
+
+// Manual Movement             
+
+// Scripted Fights             
+
+// Units
+MeNTheBois:
+UNIT Ben Commander 0x00 Level(1, Ally, 0) [19,18] 0x00 0x00 0x0 0x00 [0x20, 0x01] NoAI 
+UNIT Zo Tactician 0x00 Level(1, Ally, 0) [18,18] 0x00 0x00 0x0 0x00 [0xe2, 0xb1] NoAI 
+UNIT
+
+TheTrueSelf:
+UNIT 0x40 Fighter 0x00 Level(1, Enemy, 0) [19,16] 0x00 0x00 0x0 0x00 [0x47] NoAI
+UNIT 0x80 Commander 0x00 Level(1, Enemy, 0) [19,15] 0x00 0x00 0x0 0x00 [0x01] NoAI
+UNIT 0x80 Commander 0x00 Level(1, Enemy, 0) [19,14] 0x00 0x00 0x0 0x00 [0x01] NoAI 
+UNIT 0x80 Commander 0x00 Level(1, Enemy, 0) [19,13] 0x00 0x00 0x0 0x00 [0x01] NoAI 
+UNIT 0x80 Tactician 0x00 Level(1, Enemy, 0) [19,12] 0x00 0x00 0x0 0x00 [0xb1] NoAI 
+UNIT 0x80 Tactician 0x00 Level(1, Enemy, 0) [19,11] 0x00 0x00 0x0 0x00 [0xb1] NoAI 
+UNIT 0x80 Tactician 0x00 Level(1, Enemy, 0) [19,10] 0x00 0x00 0x0 0x00 [0xb1] NoAI 
+UNIT
+
+// Shop Data             
+
+MESSAGE Events end at offset currentOffset

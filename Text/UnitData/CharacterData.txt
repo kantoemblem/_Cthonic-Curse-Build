@@ -1,0 +1,405 @@
+## BenName
+Ben[X]
+
+## ZoName
+Zo[X]
+
+## AphiName
+Aphi[X]
+
+## TedName
+Ted[X]
+
+## HexName
+Hex[X]
+
+## NateName
+Nate[X]
+
+## MaeName
+Mae[X]
+
+## NanaName
+Nana[X]
+
+## JadeName
+Jade[X]
+
+## CasimirName
+Casimir[X]
+
+## MordredName
+Mordred[X]
+
+## JamieName
+Jamie[X]
+
+## GuinName
+Guinivere[X]
+
+## YokoName
+Yoko[X]
+
+## ChaseName
+Chase[X]
+
+## AshleighName
+Ashleigh[X]
+
+## SashaName
+Sasha[X]
+
+## ElizabethName
+Elizabeth[X]
+
+## RyzaName
+Ryza[X]
+
+## DiarmuidName
+Diarmuid[X]
+
+## LavName
+Lavender[X]
+
+## OstravaName
+Ostrava[X]
+
+## ChloeName
+Chloe[X]
+
+## RotaName
+Rota[X]
+
+## IlariaName
+Ilaria[X]
+
+## FayinaName
+Fayina[X]
+
+## ErastusName
+Erastus[X]
+
+## MarieName
+Marie[X]
+
+## UlyName
+Ulyaoth[X]
+
+## DianaName
+Diana[X]
+
+## MimiName
+Mimi[X]
+
+## MarthName
+Marth[X]
+
+## DogaName
+Draug[X]
+
+## GordinName
+Gordin[X]
+
+## SilqueName
+Silque[X]
+
+## ForsythName
+Forsyth[X]
+
+## MidirName
+Midir[X]
+
+## GalzusName
+Galzus[X]
+
+## SainName
+Sain[X]
+
+## BoydName
+Boyd[X]
+
+## NephName
+Nephenee[X]
+
+## BasilioName
+Basilio[X]
+
+## OwainFireEmblemName
+Owain[X]
+
+## CynthiaName
+Cynthia[X]
+
+## OrochiName
+Orochi[X]
+
+## NinaName
+Nina[X]
+
+## FerdinandVonAegirName
+Ferdinand[X]
+
+## AsheName
+Ashe[X]
+
+## LysitheaName
+Lysithea[X]
+
+## ConstanceName
+Constance[X]
+
+## DaManName
+Junpei[X]
+
+## ZekeVonGenbuName
+Zeke[X]
+
+## ThatsDunbanOverThereName
+Dunban[X]
+
+
+## BenDesc
+An eccentric swordsman. Leader of[NL]
+Ben and Zo's Mercenary Co.[NL]
+Goes by the name "Bringer of Chaos!"[X]
+
+## ZoDesc
+A half-blood from West Fioria and[NL]
+co-founder of Ben and Zo's[NL]
+Mercenary Co. Dedicated to her work.[X]
+
+## AphiDesc
+A magical prodigy and researcher.[NL]
+Eccentric and hardworking.[X]
+
+## TedDesc
+A nonchalant wyvern breeder with[NL]
+a unique sense of humor and[NL]
+dedication.[X]
+
+## HexDesc
+A powerful warrior and Arencian[NL]
+war hero. Sarcastic, but[NL]
+motherly and kind.[X]
+
+## NateDesc
+An upbeat mage and Ben's brother.[NL]
+Eager to prove himself.[X]
+
+## MaeDesc
+A Lancashiran archer. Has a bubbly[NL]
+personality and is a crack-shot with[NL]
+a bow. Known as the Red Sun.[X]
+
+## NanaDesc
+A humble young woman of Burto Village,[NL]
+comes from a large family of merchants.[NL]
+Eccentric and determined.[X]
+
+## JadeDesc
+A Shaman hailing from Burto Village.[NL]
+Has an odd sense of humor and[NL]
+healthy dose of perspective.[X]
+
+## CasimirDesc
+A veteran knight of the Gortalan military.[NL]
+Stalwart and experienced.[X]
+
+## MordredDesc
+A young monk from Nogada Priory.[NL]
+Protective of his friends.[X]
+
+## JamieDesc
+An inexperienced free-knight[NL]
+with outstandingly good luck.[NL]
+Seeks purpose.[X]
+
+## GuinDesc
+A cleric of Nogada Priory.[NL]
+Motherly and sincere with a[NL]
+fiery, passionate side.[X]
+
+## YokoDesc
+A swordswoman of Hisocho.[NL]
+Kind-hearted and noble.[X]
+
+## ChaseDesc
+A young boy whose unfortunate[NL]
+circumstances resign him to thievery.[NL]
+Naive, but determined.[X]
+
+## AshleighDesc
+A well-traveled pegasus knight who[NL]
+delivers packages. Worldly and[NL]
+good-humored.[X]
+
+## SashaDesc
+Leader of a small band of[NL]
+mercenaries based in Zefir.[NL]
+Seeks the true meaning of life.[X]
+
+## ElizabethDesc
+A sharp-tongued free-knight[NL]
+travelling with Sasha.[NL]
+Devoted to Sasha's cause.[X]
+
+## RyzaDesc
+A Bisquan lumberjack travelling[NL]
+with Sasha. Pragmatic and experienced.[X]
+
+## DiarmuidDesc
+A calm and collected sellsword[NL]
+hailing from Lancashire.[NL]
+Popular with women, to his chagrin.[X]
+
+## LavDesc
+_[X]
+
+## OstravaDesc
+_[X]
+
+## ChloeDesc
+A corsair of the Meuniere Pirates.[NL]
+Daring and confident in her abilities.[X]
+
+## RotaDesc
+Ben's childhood friend. A hyperactive,[NL]
+yet talented hunter.[NL]
+Goofy and affectionate.[X]
+
+## IlariaDesc
+A beautiful Arencian dancer with[NL]
+manakete heritage. Known as "Bellezza"[NL]
+for her inspiring performances.[X]
+
+## FayinaDesc
+A wyvern knight of Zefir and[NL]
+notorious femme fatale.[NL]
+Very good at getting her way.[X]
+
+## ErastusDesc
+Magistrate of Burto Village[NL]
+and alumni of the Wellington[NL]
+University of Magic. Wise and fair.[X]
+
+## MarieDesc
+An outgoing and passionate young woman[NL]
+who has an affinity for horse care.[NL]
+Often mixes up idioms.[X]
+
+## UlyDesc
+The ambitious and pragmatic prince of[NL]
+Zefir, as powerful as he is arrogant.[NL]
+Diana's brother.[X]
+
+## DianaDesc
+The graceful and strong-willed princess[NL]
+of Zefir, takes great pride in her skills.[NL]
+Ulyaoth's sister.[X]
+
+## MimiDesc
+A friendly traveler from another[NL]
+continent. Tends to be secretive.[X]
+
+## MarthDesc
+Prince of Altea and The legendary Hero[NL]
+King. Inheritor of the Hero[NL]
+Anri's blade.[X]
+
+## DogaDesc
+An armored knight of Altea who serves[NL]
+as the Hero King's shield.[NL]
+Very sincere.[X]
+
+## GordinDesc
+An Altean archer who is[NL]
+masterful with his bow.[NL]
+Looks younger than he actually is.[X]
+
+## SilqueDesc
+A cleric from Novis.[NL]
+Has a sweet but serious personality.[X]
+
+## ForsythDesc
+A straightforward, passionate man[NL]
+with great devotion to Zofia and[NL]
+the Deliverance.[X]
+
+## MidirDesc
+A knight in the service of Grannvale's[NL]
+House Yngvi. Dedicated to it's lady, Edain.[X]
+
+## GalzusDesc
+The disgraced prince of Isaac. Lives the[NL]
+life of a mercenary, searching for[NL]
+his daughter. Descendant of Od.[X]
+
+## SainDesc
+A knight in service to House Caelin.[NL]
+A bit of a scoundrel.[X]
+
+## BoydDesc
+A member of the Greil Mercenaries.[NL]
+His brash character contrasts that[NL]
+of his brothers.[X]
+
+## NephDesc
+A militia member from the Crimean[NL]
+countryside. Since she's quiet, people[NL]
+think she's shy, but...[X]
+
+## BasilioDesc
+The capable but slapdash[NL]
+West-Khan of Regna Ferox.[X]
+
+## OwainFireEmblemDesc
+An enigmatic swordsman who[NL]
+tends toward theatrics.[X]
+
+## CynthiaDesc
+An enigmatic pegasus knight[NL]
+who yearns to be a hero.[X]
+
+## OrochiDesc
+A Hoshidan noble, former retainer of[NL]
+the late queen Mikoto.[NL]
+A mischievous merrymaker.[X]
+
+## NinaDesc
+Niles's daughter. Calm and[NL]
+intelligent, but prone to intense[NL]
+bouts of daydreaming.[X]
+
+## FerdinandVonAegirDesc
+Son and heir of Duke Aegir. Accomplished[NL]
+in literary and military arts. Works[NL]
+hard to live nobly.[X]
+
+## AsheDesc
+A serious young man who trains[NL]
+and studies hard so he can become[NL]
+an outstanding adult[X]
+
+## LysitheaDesc
+A determined high achiever who[NL]
+hates being treated like a child.[X]
+
+## ConstanceDesc
+A young lady of the Imperial house of[NL]
+Nuvelle. Has an overbearing attitude until[NL]
+she's somewhere with sunlight.[X]
+
+## DaManDesc
+A member of an organazation called[NL]
+SEES. Hard-headed and a bit of[NL]
+a romantic.[X]
+
+## ZekeVonGenbuDesc
+An otherworldy fighter who's dramatic[NL]
+persona belies a wise and noble soul.[NL]
+Frequent victim of his own bad luck.[X]
+
+## ThatsDunbanOverThereDesc
+A powerful swordsman from another world.[NL]
+The former wielder of a legendary[NL]
+blade and hero of his people.[X]

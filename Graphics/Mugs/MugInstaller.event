@@ -1,0 +1,804 @@
+#include "Tools/Tool Helpers.txt"
+//this file defines the macro:
+//setMugEntry(number, data, mouth_x, mouth_y, eye_x, eye_y)
+
+
+//Playables
+Ben_Mug:
+#incext PortraitFormatter "Playables/0Ben.png"
+setMugEntry(0x2, Ben_Mug,2,5,3,3)
+
+//Ben_Promo:
+//#incext PortraitFormatter "Playables/0Ben.png"
+//setMugEntry(0x3, Ben_Promo,2,5,3,3)
+
+Zo_Mug:
+#incext PortraitFormatter "Playables/0Zo.png"
+setMugEntry(0x4, Zo_Mug,2,6,3,4)
+
+//Zo_Promo:
+//#incext PortraitFormatter "Playables/0Zo.png"
+//setMugEntry(0x5, Zo_Promo,2,6,3,4)
+
+Aphi_Mug:
+#incext PortraitFormatter "Playables/1Aphi.png"
+setMugEntry(0x6, Aphi_Mug,3,5,3,3)
+
+Aphi_GoCrazy:
+#incext PortraitFormatter "Playables/1Aphi2.png"
+setMugEntry(0x7, Aphi_GoCrazy,3,5,3,3)
+
+Aphi_GoStupid:
+#incext PortraitFormatter "Playables/1Aphi3.png"
+setMugEntry(0x8, Aphi_GoStupid,3,5,3,3)
+
+Ted_Mug:
+#incext PortraitFormatter "Playables/1Ted.png"
+setMugEntry(0x9, Ted_Mug,3,5,3,3)
+
+Hex_Mug:
+#incext PortraitFormatter "Playables/1Hex.png"
+setMugEntry(0xA, Hex_Mug,3,5,3,3)
+
+Nate_Mug:
+#incext PortraitFormatter "Playables/1Nate.png"
+setMugEntry(0xB, Nate_Mug,3,6,3,4)
+
+Mae_Mug:
+#incext PortraitFormatter "Playables/1Mae.png"
+setMugEntry(0xC, Mae_Mug,3,5,3,3)
+
+Nana_Mug:
+#incext PortraitFormatter "Playables/1Nana.png"
+setMugEntry(0xD, Nana_Mug,2,5,2,3)
+
+Jade_Mug:
+#incext PortraitFormatter "Playables/1Jade.png"
+setMugEntry(0xE, Jade_Mug,2,5,3,3)
+
+Casimir_Mug:
+#incext PortraitFormatter "Playables/1Casimir.png"
+setMugEntry(0xF, Casimir_Mug,3,5,3,3)
+
+Mordred_Mug:
+#incext PortraitFormatter "Playables/1Mordred.png"
+setMugEntry(0x10, Mordred_Mug,2,5,3,3)
+
+Jamie_Mug:
+#incext PortraitFormatter "Playables/1Jamie.png"
+setMugEntry(0x11, Jamie_Mug,2,6,3,4)
+
+Guin_Mug:
+#incext PortraitFormatter "Playables/1Guinivere.png"
+setMugEntry(0x12, Guin_Mug,2,6,3,4)
+
+Yoko_Mug:
+#incext PortraitFormatter "Playables/1Yoko.png"
+setMugEntry(0x13, Yoko_Mug,2,5,3,3)
+
+Chase_Mug:
+#incext PortraitFormatter "Playables/1Chase.png"
+setMugEntry(0x14, Chase_Mug,3,6,3,4)
+
+Ashleigh_Mug:
+#incext PortraitFormatter "Playables/1Ashleigh.png"
+setMugEntry(0x15, Ashleigh_Mug,2,5,3,3)
+
+//Sasha_Mug:
+//#incext PortraitFormatter "Playables/1Sasha.png"
+//setMugEntry(0x16, Sasha_Mug,3,5,3,3)
+
+Elizabeth_Mug:
+#incext PortraitFormatter "Playables/1Elizabeth.png"
+setMugEntry(0x17, Elizabeth_Mug,2,5,3,3)
+
+Ryza_Mug:
+#incext PortraitFormatter "Playables/1Ryza.png"
+setMugEntry(0x18, Ryza_Mug,2,5,3,3)
+
+Diarmuid_Mug:
+#incext PortraitFormatter "Playables/1Diarmuid.png"
+setMugEntry(0x19, Diarmuid_Mug,2,5,3,2)
+
+Lavender_Mug:
+#incext PortraitFormatter "Playables/1Lavender.png"
+setMugEntry(0x1A, Lavender_Mug,3,6,3,4)
+
+Lavender_Young:
+#incext PortraitFormatter "Playables/Alts/1LavenderYoung.png"
+setMugEntry(0x1B, Lavender_Young,4,5,4,3)
+
+Ostrava_Mug:
+#incext PortraitFormatter "Playables/1Ostrava.png"
+setMugEntry(0x1C, Ostrava_Mug,3,6,3,4)
+
+Ostrava_Alt:
+#incext PortraitFormatter "Playables/1Ostrava2.png"
+setMugEntry(0x1D, Ostrava_Alt,2,5,2,3)
+
+Chloe_Mug:
+#incext PortraitFormatter "Playables/1Chloe.png"
+setMugEntry(0x1E, Chloe_Mug,3,5,3,3)
+
+Rota_Mug:
+#incext PortraitFormatter "Playables/1Rota.png"
+setMugEntry(0x1F, Rota_Mug,3,5,3,3)
+
+Ilaria_Mug:
+#incext PortraitFormatter "Playables/1Ilaria.png"
+setMugEntry(0x20, Ilaria_Mug,3,5,3,3)
+
+Fayina_Mug:
+#incext PortraitFormatter "Playables/1Fayina.png"
+setMugEntry(0x21, Fayina_Mug,2,5,3,3)
+
+Larachel_Mug:
+#incext PortraitFormatter "Playables/2LArachel.png"
+setMugEntry(0x22, Larachel_Mug,2,6,3,4)
+
+Erastus_Mug:
+#incext PortraitFormatter "Playables/1Erastus.png"
+setMugEntry(0x23, Erastus_Mug,2,5,2,3)
+
+Marie_Mug:
+#incext PortraitFormatter "Playables/1Marie.png"
+setMugEntry(0x24, Marie_Mug,2,6,2,4)
+
+Ulyaoth_Mug:
+#incext PortraitFormatter "Playables/1Ulyaoth.png"
+setMugEntry(0x25, Ulyaoth_Mug,2,4,3,2)
+
+Diana_Mug:
+#incext PortraitFormatter "Playables/1Diana.png"
+setMugEntry(0x26, Diana_Mug,2,4,3,2)
+
+Mimi_Mug:
+#incext PortraitFormatter "Playables/1Mimi.png"
+setMugEntry(0x27, Mimi_Mug,3,6,3,4)
+
+Marth_Mug:
+#incext PortraitFormatter "Playables/2Marth.png"
+setMugEntry(0x28, Marth_Mug,3,5,3,3)
+
+Doga_Mug:
+#incext PortraitFormatter "Playables/2Doga.png"
+setMugEntry(0x29, Doga_Mug,2,5,3,3)
+
+Gordin_Mug:
+#incext PortraitFormatter "Playables/2FivePoints.png"
+setMugEntry(0x2A, Gordin_Mug,2,5,3,3)
+
+Silque_Mug:
+#incext PortraitFormatter "Playables/2Silque.png"
+setMugEntry(0x2B, Silque_Mug,2,6,3,4)
+
+Forsyth_Mug:
+#incext PortraitFormatter "Playables/2Forsyth.png"
+setMugEntry(0x2C, Forsyth_Mug,3,5,3,3)
+
+Midir_Mug:
+#incext PortraitFormatter "Playables/2Midir.png"
+setMugEntry(0x2D, Midir_Mug,3,5,3,3)
+
+Galzus_Mug:
+#incext PortraitFormatter "Playables/2Galzus.png"
+setMugEntry(0x2E, Galzus_Mug,2,5,3,3)
+
+Sain_Mug:
+#incext PortraitFormatter "Playables/2Sain.png"
+setMugEntry(0x2F, Sain_Mug,2,5,3,3)
+
+Boyd_Mug:
+#incext PortraitFormatter "Playables/2Boyd.png"
+setMugEntry(0x30, Boyd_Mug,3,5,3,3)
+
+Neph_Mug:
+#incext PortraitFormatter "Playables/2Nephenee.png"
+setMugEntry(0x31, Neph_Mug,3,5,3,3)
+
+Basilio_Mug:
+#incext PortraitFormatter "Playables/2Basilio.png"
+setMugEntry(0x32, Basilio_Mug,2,4,2,2)
+
+Owain_Mug:
+#incext PortraitFormatter "Playables/2Owain.png"
+setMugEntry(0x33, Owain_Mug,2,6,3,4)
+
+Cynthia_Mug:
+#incext PortraitFormatter "Playables/2Cynthia.png"
+setMugEntry(0x34, Cynthia_Mug,2,5,3,3)
+
+Orochi_Mug:
+#incext PortraitFormatter "Playables/2Orochi.png"
+setMugEntry(0x35, Orochi_Mug,3,6,3,4)
+
+Nina_Mug:
+#incext PortraitFormatter "Playables/2Nina.png"
+setMugEntry(0x36, Nina_Mug,4,6,4,4)
+
+FerdinandVonAegir_Mug:
+#incext PortraitFormatter "Playables/2Ferdinand.png"
+setMugEntry(0x37, FerdinandVonAegir_Mug,2,5,3,3)
+
+Ashe_Mug:
+#incext PortraitFormatter "Playables/2Ashe.png"
+setMugEntry(0x38, Ashe_Mug,3,5,3,3)
+
+Lysithea_Mug:
+#incext PortraitFormatter "Playables/2Lysithea.png"
+setMugEntry(0x39, Lysithea_Mug,2,6,2,4)
+
+Constance_Mug:
+#incext PortraitFormatter "Playables/2Constance.png"
+setMugEntry(0x3A, Constance_Mug,2,6,2,4)
+
+//Constance_Sad:
+//#incext PortraitFormatter "Playables/2ConstanceSad.png"
+//setMugEntry(0x3B, Constance_Sad,2,6,2,4)
+
+DaMan_Mug:
+#incext PortraitFormatter "Playables/2TADADADATADADADATADADADATADADADATADADADATADADADATADADADATADADADATADADADATADADADATADADADATADADADATADADADA.png"
+setMugEntry(0x3C, DaMan_Mug,2,5,2,3)
+
+DunbanOverThere_Mug:
+#incext PortraitFormatter "Playables/2ThatsDunbanOverThere.png"
+setMugEntry(0x3D, DunbanOverThere_Mug,2,4,2,2)
+
+ZekeVonGenbu_Mug:
+#incext PortraitFormatter "Playables/2ZekeVonGenbu.png"
+setMugEntry(0x3E, ZekeVonGenbu_Mug,3,5,3,3)
+
+//////////////////////////////
+
+//Alts
+Ben_Flip:
+#incext PortraitFormatter "Playables/Alts/0BenFlipped.png"
+setMugEntry(0x100, Ben_Flip,2,5,3,3)
+
+Ben_Sad:
+#incext PortraitFormatter "Playables/Alts/0BenSad.png"
+setMugEntry(0x101, Ben_Sad,2,5,3,3)
+
+Ben_Sad_Flip:
+#incext PortraitFormatter "Playables/Alts/0BenSadFlipped.png"
+setMugEntry(0x102, Ben_Sad_Flip,2,5,3,3)
+
+Ben_Mad:
+#incext PortraitFormatter "Playables/Alts/0BenMad.png"
+setMugEntry(0x103, Ben_Mad,2,5,3,3)
+
+Ben_Mad_Flip:
+#incext PortraitFormatter "Playables/Alts/0BenMadFlipped.png"
+setMugEntry(0x104, Ben_Mad_Flip,2,5,3,3)
+
+Benos_Mug:
+#incext PortraitFormatter "Playables/Alts/0Benos.png"
+setMugEntry(0x105, Benos_Mug,2,5,3,3)
+
+//Ben_Promo_Sad:
+//#incext PortraitFormatter "Playables/0Ben.png"
+//setMugEntry(0x106, Ben_Promo_Sad,2,5,3,3)
+
+//Ben_Promo_Mad:
+//#incext PortraitFormatter "Playables/0Ben.png"
+//setMugEntry(0x107, Ben_Promo_Mad,2,5,3,3)
+
+Zo_Sad:
+#incext PortraitFormatter "Playables/Alts/0ZoSad.png"
+setMugEntry(0x108, Zo_Sad,2,6,3,4)
+
+//Zo_Mad:
+//#incext PortraitFormatter "Playables/0Zo.png"
+//setMugEntry(0x109, Zo_Mad,2,6,3,4)
+
+//Zo_Promo_Sad:
+//#incext PortraitFormatter "Playables/0Zo.png"
+//setMugEntry(0x10A, Zo_Promo_Sad,2,6,3,4)
+
+//Zo_Promo_Mad:
+//#incext PortraitFormatter "Playables/0Zo.png"
+//setMugEntry(0x10B, Zo_Promo_Mad,2,6,3,4)
+
+//Ted_Flip:
+//##incext PortraitFormatter "Playables/Alts/1Ted_Flip.png"
+//setMugEntry(0x10C, Zo_Mad,2,6,3,4)
+
+Hex_Flip:
+#incext PortraitFormatter "Playables/Alts/1HexFlipped.png"
+setMugEntry(0x10D, Hex_Flip,3,5,3,3)
+
+Mae_Flip:
+#incext PortraitFormatter "Playables/Alts/1MaeFlipped.png"
+setMugEntry(0x10E, Mae_Flip,3,5,3,3)
+
+Mae_NoArmor:
+#incext PortraitFormatter "Playables/Alts/1MaeNoArmor.png"
+setMugEntry(0x10F, Mae_NoArmor,3,5,3,3)
+
+//Jamie_Flip:
+//#incext PortraitFormatter "Playables/Alts/1JamieFlip.png"
+//setMugEntry(0x110, Elizabeth_Mug,2,5,3,3)
+
+//Elizabeth_Flip:
+//#incext PortraitFormatter "Playables/Alts/1ElizabethFlip.png"
+//setMugEntry(0x111, Elizabeth_Mug,2,5,3,3)
+
+//Chloe_Flip:
+//#incext PortraitFormatter "Playables/1ChloeFlip.png"
+//setMugEntry(0x112, Chloe_Mug,3,5,3,3)
+
+Ilaria_Flip:
+#incext PortraitFormatter "Playables/Alts/1Homophobia.png"
+setMugEntry(0x113, Ilaria_Flip,3,5,3,3)
+
+//Ulyaoth_Flip:
+//#incext PortraitFormatter "Playables/Alts/1UlyaothFlip.png"
+//setMugEntry(0x114, Ulyaoth_Flip,3,5,3,2)
+
+//Ulyaoth_Mad:
+//#incext PortraitFormatter "Playables/Alts/1UlyaothMad.png"
+//setMugEntry(0x115, Ulyaoth_Mad,3,5,3,2)
+
+//Basilio_Flip:
+//#incext PortraitFormatter "Playables/2BasilioFlip.png"
+//setMugEntry(0x116, Basilio_Flip,3,5,3,3)
+
+//ZekeVonGenbu_Flip:
+//#incext PortraitFormatter "Playables/2ZekeVonGenbuFlip.png"
+//setMugEntry(0x117, ZekeVonGenbu_Flip,3,5,3,3)
+
+Pandoria_Mug:
+#incext PortraitFormatter "Playables/3Pandoria.png"
+setMugEntry(0x118, Pandoria_Mug,3,6,3,4)
+
+Pandoria_Alt:
+#incext PortraitFormatter "Playables/3Pandoria2.png"
+setMugEntry(0x119, Pandoria_Alt,3,6,3,4)
+
+///////////////////////////////////////////////////////////////////////////
+
+//Bosses
+
+
+//NPCS
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+//Menu Guys
+Anna:
+#incext PortraitFormatter "MenuGuys/Anna.png"
+setMugEntry(0x64, Anna,2,6,3,4)
+
+Armory:
+#incext PortraitFormatter "MenuGuys/Armory.png"
+setMugEntry(0x65, Armory,3,2,2,0)
+
+Vendor:
+#incext PortraitFormatter "MenuGuys/Vendor.png"
+setMugEntry(0x66, Vendor,3,3,2,0)
+
+Arena:
+#incext PortraitFormatter "MenuGuys/Arena.png"
+setMugEntry(0x67, Arena,3,2,2,0)
+
+SecretShop:
+#incext PortraitFormatter "MenuGuys/SecretShop.png"
+setMugEntry(0x68, SecretShop,3,3,2,0)
+
+Convoy:
+#incext PortraitFormatter "Playables/1Nana.png"
+setMugEntry(0xAB, Nana_Mug,2,5,2,3)
+
+
+//////////////////////////////////////////////////////////////////////////
+
+
+//Class Cards
+MercM_Card:
+#incext Png2Dmp "ClassCards/01MercenaryM.png" --lz77
+MercM_Card_Palette:
+#incext Png2Dmp "ClassCards/01MercenaryM.png" --palette-only
+setCardEntry(0xBC, MercM_Card,MercM_Card_Palette)
+
+MercF_Card:
+#incext Png2Dmp "ClassCards/02MercenaryF.png" --lz77
+MercF_Card_Palette:
+#incext Png2Dmp "ClassCards/02MercenaryF.png" --palette-only
+setCardEntry(0xBD, MercF_Card,MercF_Card_Palette)
+
+HeroM_Card:
+#incext Png2Dmp "ClassCards/03HeroM.png" --lz77
+HeroM_Card_Palette:
+#incext Png2Dmp "ClassCards/03HeroM.png" --palette-only
+setCardEntry(0xBE, HeroM_Card,HeroM_Card_Palette)
+
+HeroF_Card:
+#incext Png2Dmp "ClassCards/04HeroF.png" --lz77
+HeroF_Card_Palette:
+#incext Png2Dmp "ClassCards/04HeroF.png" --palette-only
+setCardEntry(0xBF, HeroF_Card,HeroF_Card_Palette)
+
+Fighter_Card:
+#incext Png2Dmp "ClassCards/05Fighter.png" --lz77
+Fighter_Card_Palette:
+#incext Png2Dmp "ClassCards/05Fighter.png" --palette-only
+setCardEntry(0xC0, Fighter_Card,Fighter_Card_Palette)
+
+Warrior_Card:
+#incext Png2Dmp "ClassCards/06Warrior.png" --lz77
+Warrior_Card_Palette:
+#incext Png2Dmp "ClassCards/06Warrior.png" --palette-only
+setCardEntry(0xC1, Warrior_Card,Warrior_Card_Palette)
+
+Soldier_Card:
+#incext Png2Dmp "ClassCards/07Soldier.png" --lz77
+Soldier_Card_Palette:
+#incext Png2Dmp "ClassCards/07Soldier.png" --palette-only
+setCardEntry(0xC2, Soldier_Card,Soldier_Card_Palette)
+
+Halberdier_Card:
+#incext Png2Dmp "ClassCards/08Halberdier.png" --lz77
+Halberdier_Card_Palette:
+#incext Png2Dmp "ClassCards/08Halberdier.png" --palette-only
+setCardEntry(0xC3, Halberdier_Card,Halberdier_Card_Palette)
+
+ArcherM_Card:
+#incext Png2Dmp "ClassCards/09ArcherM.png" --lz77
+ArcherM_Card_Palette:
+#incext Png2Dmp "ClassCards/09ArcherM.png" --palette-only
+setCardEntry(0xC4, ArcherM_Card,ArcherM_Card_Palette)
+
+ArcherF_Card:
+#incext Png2Dmp "ClassCards/10ArcherF.png" --lz77
+ArcherF_Card_Palette:
+#incext Png2Dmp "ClassCards/10ArcherF.png" --palette-only
+setCardEntry(0xC5, ArcherF_Card,ArcherF_Card_Palette)
+
+SniperM_Card:
+#incext Png2Dmp "ClassCards/11SniperM.png" --lz77
+SniperM_Card_Palette:
+#incext Png2Dmp "ClassCards/11SniperM.png" --palette-only
+setCardEntry(0xC6, SniperM_Card,SniperM_Card_Palette)
+
+SniperF_Card:
+#incext Png2Dmp "ClassCards/12SniperF.png" --lz77
+SniperF_Card_Palette:
+#incext Png2Dmp "ClassCards/12SniperF.png" --palette-only
+setCardEntry(0xC7, SniperF_Card,SniperF_Card_Palette)
+
+SwordKnight_Card:
+#incext Png2Dmp "ClassCards/13KnightSword.png" --lz77
+SwordKnight_Card_Palette:
+#incext Png2Dmp "ClassCards/13KnightSword.png" --palette-only
+setCardEntry(0xC8, SwordKnight_Card,SwordKnight_Card_Palette)
+
+LanceKnight_Card:
+#incext Png2Dmp "ClassCards/14KnightLance.png" --lz77
+LanceKnight_Card_Palette:
+#incext Png2Dmp "ClassCards/14KnightLance.png" --palette-only
+setCardEntry(0xC9, LanceKnight_Card,LanceKnight_Card_Palette)
+
+AxeKnight_Card:
+#incext Png2Dmp "ClassCards/15KnightAxe.png" --lz77
+AxeKnight_Card_Palette:
+#incext Png2Dmp "ClassCards/15KnightAxe.png" --palette-only
+setCardEntry(0xCA, AxeKnight_Card,AxeKnight_Card_Palette)
+
+General_Card:
+#incext Png2Dmp "ClassCards/16General.png" --lz77
+General_Card_Palette:
+#incext Png2Dmp "ClassCards/16General.png" --palette-only
+setCardEntry(0xCB, General_Card,General_Card_Palette)
+
+Greatknight_Card:
+#incext Png2Dmp "ClassCards/17GreatKnight.png" --lz77
+Greatknight_Card_Palette:
+#incext Png2Dmp "ClassCards/17GreatKnight.png" --palette-only
+setCardEntry(0xCC, Greatknight_Card,Greatknight_Card_Palette)
+
+CavM_Card:
+#incext Png2Dmp "ClassCards/18CavalierM.png" --lz77
+CavM_Card_Palette:
+#incext Png2Dmp "ClassCards/18CavalierM.png" --palette-only
+setCardEntry(0xCD, CavM_Card,CavM_Card_Palette)
+
+CavF_Card:
+#incext Png2Dmp "ClassCards/19CavalierF.png" --lz77
+CavF_Card_Palette:
+#incext Png2Dmp "ClassCards/19CavalierF.png" --palette-only
+setCardEntry(0xCE, CavF_Card,CavF_Card_Palette)
+
+PaladinM_Card:
+#incext Png2Dmp "ClassCards/20PaladinM.png" --lz77
+PaladinM_Card_Palette:
+#incext Png2Dmp "ClassCards/20PaladinM.png" --palette-only
+setCardEntry(0xCF, PaladinM_Card,PaladinM_Card_Palette)
+
+PaladinF_Card:
+#incext Png2Dmp "ClassCards/21PaladinF.png" --lz77
+PaladinF_Card_Palette:
+#incext Png2Dmp "ClassCards/21PaladinF.png" --palette-only
+setCardEntry(0xD0, PaladinF_Card,PaladinF_Card_Palette)
+
+BladeCavM_Card:
+#incext Png2Dmp "ClassCards/22BladeCavalierM.png" --lz77
+BladeCavM_Card_Palette:
+#incext Png2Dmp "ClassCards/22BladeCavalierM.png" --palette-only
+setCardEntry(0xD1, BladeCavM_Card,BladeCavM_Card_Palette)
+
+BladeCavF_Card:
+#incext Png2Dmp "ClassCards/23BladeCavalierF.png" --lz77
+BladeCavF_Card_Palette:
+#incext Png2Dmp "ClassCards/23BladeCavalierF.png" --palette-only
+setCardEntry(0xD2, BladeCavF_Card,BladeCavF_Card_Palette)
+
+BladePaladinM_Card:
+#incext Png2Dmp "ClassCards/24BladePaladinM.png" --lz77
+BladePaladinM_Card_Palette:
+#incext Png2Dmp "ClassCards/24BladePaladinM.png" --palette-only
+setCardEntry(0xD3, BladePaladinM_Card,BladePaladinM_Card_Palette)
+
+BladePaladinF_Card:
+#incext Png2Dmp "ClassCards/25BladePaladinF.png" --lz77
+BladePaladinF_Card_Palette:
+#incext Png2Dmp "ClassCards/25BladePaladinF.png" --palette-only
+setCardEntry(0xD4, BladePaladinF_Card,BladePaladinF_Card_Palette)
+
+BowCavM_Card:
+#incext Png2Dmp "ClassCards/26BowCavalierM.png" --lz77
+BowCavM_Card_Palette:
+#incext Png2Dmp "ClassCards/26BowCavalierM.png" --palette-only
+setCardEntry(0xD5, BowCavM_Card,BowCavM_Card_Palette)
+
+BowCavF_Card:
+#incext Png2Dmp "ClassCards/27BowCavalierF.png" --lz77
+BowCavF_Card_Palette:
+#incext Png2Dmp "ClassCards/27BowCavalierF.png" --palette-only
+setCardEntry(0xD6, BowCavF_Card,BowCavF_Card_Palette)
+
+RangerM_Card:
+#incext Png2Dmp "ClassCards/28RangerM.png" --lz77
+RangerM_Card_Palette:
+#incext Png2Dmp "ClassCards/28RangerM.png" --palette-only
+setCardEntry(0xD7, RangerM_Card,RangerM_Card_Palette)
+
+RangerF_Card:
+#incext Png2Dmp "ClassCards/29RangerF.png" --lz77
+RangerF_Card_Palette:
+#incext Png2Dmp "ClassCards/29RangerF.png" --palette-only
+setCardEntry(0xD8, RangerF_Card,RangerF_Card_Palette)
+
+PegaSUSKnight_Card:
+#incext Png2Dmp "ClassCards/30PegasusKnight.png" --lz77
+PegaSUSKnight_Card_Palette:
+#incext Png2Dmp "ClassCards/30PegasusKnight.png" --palette-only
+setCardEntry(0xD9, PegaSUSKnight_Card,PegaSUSKnight_Card_Palette)
+
+Falcoknight_Card:
+#incext Png2Dmp "ClassCards/31Falcoknight.png" --lz77
+Falcoknight_Card_Palette:
+#incext Png2Dmp "ClassCards/31Falcoknight.png" --palette-only
+setCardEntry(0xDA, Falcoknight_Card,Falcoknight_Card_Palette)
+
+WyvernRiderM_Card:
+#incext Png2Dmp "ClassCards/32WyvernRiderM.png" --lz77
+WyvernRiderM_Card_Palette:
+#incext Png2Dmp "ClassCards/32WyvernRiderM.png" --palette-only
+setCardEntry(0xDB, WyvernRiderM_Card,WyvernRiderM_Card_Palette)
+
+WyvernRiderF_Card:
+#incext Png2Dmp "ClassCards/33WyvernRiderF.png" --lz77
+WyvernRiderF_Card_Palette:
+#incext Png2Dmp "ClassCards/33WyvernRiderF.png" --palette-only
+setCardEntry(0xDC, WyvernRiderF_Card,WyvernRiderF_Card_Palette)
+
+WyvernLordM_Card:
+#incext Png2Dmp "ClassCards/34WyvernLordM.png" --lz77
+WyvernLordM_Card_Palette:
+#incext Png2Dmp "ClassCards/34WyvernLordM.png" --palette-only
+setCardEntry(0xDD, WyvernLordM_Card,WyvernLordM_Card_Palette)
+
+WyvernLordF_Card:
+#incext Png2Dmp "ClassCards/35WyvernLordF.png" --lz77
+WyvernLordF_Card_Palette:
+#incext Png2Dmp "ClassCards/35WyvernLordF.png" --palette-only
+setCardEntry(0xDE, WyvernLordF_Card,WyvernLordF_Card_Palette)
+
+MaligKnight_Card:
+#incext Png2Dmp "ClassCards/36MaligKnight.png" --lz77
+MaligKnight_Card_Palette:
+#incext Png2Dmp "ClassCards/36MaligKnight.png" --palette-only
+setCardEntry(0xDF, MaligKnight_Card,MaligKnight_Card_Palette)
+
+MyrmidonM_Card:
+#incext Png2Dmp "ClassCards/37MyrmidonM.png" --lz77
+MyrmidonM_Card_Palette:
+#incext Png2Dmp "ClassCards/37MyrmidonM.png" --palette-only
+setCardEntry(0xE0, MyrmidonM_Card,MyrmidonM_Card_Palette)
+
+MyrmidonF_Card:
+#incext Png2Dmp "ClassCards/38MyrmidonF.png" --lz77
+MyrmidonF_Card_Palette:
+#incext Png2Dmp "ClassCards/38MyrmidonF.png" --palette-only
+setCardEntry(0xE1, MyrmidonF_Card,MyrmidonF_Card_Palette)
+
+SwordmasterM_Card:
+#incext Png2Dmp "ClassCards/39SwordmasterM.png" --lz77
+SwordmasterM_Card_Palette:
+#incext Png2Dmp "ClassCards/39SwordmasterM.png" --palette-only
+setCardEntry(0xE2, SwordmasterM_Card,SwordmasterM_Card_Palette)
+
+SwordmasterF_Card:
+#incext Png2Dmp "ClassCards/40SwordmasterF.png" --lz77
+SwordmasterF_Card_Palette:
+#incext Png2Dmp "ClassCards/40SwordmasterF.png" --palette-only
+setCardEntry(0xE3, SwordmasterF_Card,SwordmasterF_Card_Palette)
+
+Dreadfighter_Card:
+#incext Png2Dmp "ClassCards/41DreadFighter.png" --lz77
+Dreadfighter_Card_Palette:
+#incext Png2Dmp "ClassCards/41DreadFighter.png" --palette-only
+setCardEntry(0xE4, Dreadfighter_Card,Dreadfighter_Card_Palette)
+
+Brigand_Card:
+#incext Png2Dmp "ClassCards/42Brigand.png" --lz77
+Brigand_Card_Palette:
+#incext Png2Dmp "ClassCards/42Brigand.png" --palette-only
+setCardEntry(0xE5, Brigand_Card,Brigand_Card_Palette)
+
+Pirate_Card:
+#incext Png2Dmp "ClassCards/43Pirate.png" --lz77
+Pirate_Card_Palette:
+#incext Png2Dmp "ClassCards/43Pirate.png" --palette-only
+setCardEntry(0xE6, Pirate_Card,Pirate_Card_Palette)
+
+Berserker_Card:
+#incext Png2Dmp "ClassCards/44Berserker.png" --lz77
+Berserker_Card_Palette:
+#incext Png2Dmp "ClassCards/44Berserker.png" --palette-only
+setCardEntry(0xE7, Berserker_Card,Berserker_Card_Palette)
+
+HunterM_Card:
+#incext Png2Dmp "ClassCards/45HunterM.png" --lz77
+HunterM_Card_Palette:
+#incext Png2Dmp "ClassCards/45HunterM.png" --palette-only
+setCardEntry(0xE8, HunterM_Card,HunterM_Card_Palette)
+
+HunterF_Card:
+#incext Png2Dmp "ClassCards/46HunterF.png" --lz77
+HunterF_Card_Palette:
+#incext Png2Dmp "ClassCards/46HunterF.png" --palette-only
+setCardEntry(0xE9, HunterF_Card,HunterF_Card_Palette)
+
+Deserter_Card:
+#incext Png2Dmp "ClassCards/47Deserter.png" --lz77
+Deserter_Card_Palette:
+#incext Png2Dmp "ClassCards/47Deserter.png" --palette-only
+setCardEntry(0xEA, Deserter_Card,Deserter_Card_Palette)
+
+Thief_Card:
+#incext Png2Dmp "ClassCards/48Thief.png" --lz77
+Thief_Card_Palette:
+#incext Png2Dmp "ClassCards/48Thief.png" --palette-only
+setCardEntry(0xEB, Thief_Card,Thief_Card_Palette)
+
+Assassin_Card:
+#incext Png2Dmp "ClassCards/49Assassin.png" --lz77
+Assassin_Card_Palette:
+#incext Png2Dmp "ClassCards/49Assassin.png" --palette-only
+setCardEntry(0xEC, Assassin_Card,Assassin_Card_Palette)
+
+Rogue_Card:
+#incext Png2Dmp "ClassCards/50Rogue.png" --lz77
+Rogue_Card_Palette:
+#incext Png2Dmp "ClassCards/50Rogue.png" --palette-only
+setCardEntry(0xED, Rogue_Card,Rogue_Card_Palette)
+
+MageM_Card:
+#incext Png2Dmp "ClassCards/51MageM.png" --lz77
+MageM_Card_Palette:
+#incext Png2Dmp "ClassCards/51MageM.png" --palette-only
+setCardEntry(0xEE, MageM_Card,MageM_Card_Palette)
+
+MageF_Card:
+#incext Png2Dmp "ClassCards/52MageF.png" --lz77
+MageF_Card_Palette:
+#incext Png2Dmp "ClassCards/52MageF.png" --palette-only
+setCardEntry(0xEF, MageF_Card,MageF_Card_Palette)
+
+SageM_Card:
+#incext Png2Dmp "ClassCards/53SageM.png" --lz77
+SageM_Card_Palette:
+#incext Png2Dmp "ClassCards/53SageM.png" --palette-only
+setCardEntry(0xF0, SageM_Card,SageM_Card_Palette)
+
+SageF_Card:
+#incext Png2Dmp "ClassCards/54SageF.png" --lz77
+SageF_Card_Palette:
+#incext Png2Dmp "ClassCards/54SageF.png" --palette-only
+setCardEntry(0xF1, SageF_Card,SageF_Card_Palette)
+
+MageKnightM_Card:
+#incext Png2Dmp "ClassCards/55MageKnightM.png" --lz77
+MageKnightM_Card_Palette:
+#incext Png2Dmp "ClassCards/55MageKnightM.png" --palette-only
+setCardEntry(0xF2, MageKnightM_Card,MageKnightM_Card_Palette)
+
+MageKnightF_Card:
+#incext Png2Dmp "ClassCards/56MageKnightF.png" --lz77
+MageKnightF_Card_Palette:
+#incext Png2Dmp "ClassCards/56MageKnightF.png" --palette-only
+setCardEntry(0xF3, MageKnightF_Card,MageKnightF_Card_Palette)
+
+ShamanM_Card:
+#incext Png2Dmp "ClassCards/57ShamanM.png" --lz77
+ShamanM_Card_Palette:
+#incext Png2Dmp "ClassCards/57ShamanM.png" --palette-only
+setCardEntry(0xF4, ShamanM_Card,ShamanM_Card_Palette)
+
+ShamanF_Card:
+#incext Png2Dmp "ClassCards/58ShamanF.png" --lz77
+ShamanF_Card_Palette:
+#incext Png2Dmp "ClassCards/58ShamanF.png" --palette-only
+setCardEntry(0xF5, ShamanF_Card,ShamanF_Card_Palette)
+
+DruidM_Card:
+#incext Png2Dmp "ClassCards/59DruidM.png" --lz77
+DruidM_Card_Palette:
+#incext Png2Dmp "ClassCards/59DruidM.png" --palette-only
+setCardEntry(0xF6, DruidM_Card,DruidM_Card_Palette)
+
+DruidF_Card:
+#incext Png2Dmp "ClassCards/60DruidF.png" --lz77
+DruidF_Card_Palette:
+#incext Png2Dmp "ClassCards/60DruidF.png" --palette-only
+setCardEntry(0xF7, DruidF_Card,DruidF_Card_Palette)
+
+Monk_Card:
+#incext Png2Dmp "ClassCards/61Monk.png" --lz77
+Monk_Card_Palette:
+#incext Png2Dmp "ClassCards/61Monk.png" --palette-only
+setCardEntry(0xF8, Monk_Card,Monk_Card_Palette)
+
+Priest_Card:
+#incext Png2Dmp "ClassCards/62PriestM.png" --lz77
+Priest_Card_Palette:
+#incext Png2Dmp "ClassCards/62PriestM.png" --palette-only
+setCardEntry(0xF9, Priest_Card,Priest_Card_Palette)
+
+Cleric_Card:
+#incext Png2Dmp "ClassCards/63ClericF.png" --lz77
+Cleric_Card_Palette:
+#incext Png2Dmp "ClassCards/63ClericF.png" --palette-only
+setCardEntry(0xFA, Cleric_Card,Cleric_Card_Palette)
+
+BishopM_Card:
+#incext Png2Dmp "ClassCards/64BishopM.png" --lz77
+BishopM_Card_Palette:
+#incext Png2Dmp "ClassCards/64BishopM.png" --palette-only
+setCardEntry(0xFB, BishopM_Card,BishopM_Card_Palette)
+
+BishopF_Card:
+#incext Png2Dmp "ClassCards/65BishopF.png" --lz77
+BishopF_Card_Palette:
+#incext Png2Dmp "ClassCards/65BishopF.png" --palette-only
+setCardEntry(0xFC, BishopF_Card,BishopF_Card_Palette)
+
+Troub_Card:
+#incext Png2Dmp "ClassCards/66Troubadour.png" --lz77
+Troub_Card_Palette:
+#incext Png2Dmp "ClassCards/66Troubadour.png" --palette-only
+setCardEntry(0xFD, Troub_Card,Troub_Card_Palette)
+
+Valk_Card:
+#incext Png2Dmp "ClassCards/67Valkyrie.png" --lz77
+Valk_Card_Palette:
+#incext Png2Dmp "ClassCards/67Valkyrie.png" --palette-only
+setCardEntry(0xFE, Valk_Card,Valk_Card_Palette)
+
+Mamkute_Card:
+#incext Png2Dmp "ClassCards/68Mamkute.png" --lz77
+Mamkute_Card_Palette:
+#incext Png2Dmp "ClassCards/68Mamkute.png" --palette-only
+setCardEntry(0xFF, Mamkute_Card,Mamkute_Card_Palette)

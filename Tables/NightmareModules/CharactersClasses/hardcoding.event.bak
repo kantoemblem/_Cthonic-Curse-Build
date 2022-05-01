@@ -1,0 +1,18 @@
+PUSH
+ORG 0x074FB4 //Armor Triangle Attack Class Range From
+BYTE 0x19
+
+ORG 0x74FC8 //Armor Triangle Attack Class UnPromoted1
+BYTE 0x19
+ORG 0x75034 //Armor Triangle Attack Class UnPromoted1
+BYTE 0x19
+
+ORG 0x74FD0
+BYTE 0x1B
+ORG 0x7503C
+BYTE 0x1B 
+
+
+ORG 0x40C6A //Class ID that determines that the AI can use Rogue lockpick skill
+BYTE 0x44
+POP 

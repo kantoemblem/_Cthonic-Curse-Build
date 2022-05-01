@@ -1,0 +1,59 @@
+#include "Tilesets/TilesetInstaller.event"
+#include "Mugs/MugInstaller.event"
+#include "Animations/AnimationReference.event"
+#include "Animations/Master_Animation_Installer.event"
+#include "MapSprites/MapSpriteInstaller.event"
+#include "ItemIcons/ItemIconInstaller.event"
+#include "SystemIconInstaller.event"
+
+ALIGN 4
+StatScreen:
+#incbin "StatScreen3.png.dmp"
+StatScreenPal:
+#incbin "StatScreen3.png.pal.dmp"
+StatScreenTsa:
+#incbin "StatScreen3.png.tsa.dmp"
+
+ALIGN 4
+SaveScreen:
+#incbin "SaveScreen.png.dmp"
+SaveScreenPal:
+#incbin "SaveScreen.png.pal.dmp"
+SaveScreenTsa:
+#incbin "SaveScreen.png.tsa.dmp"
+
+
+
+//Status Screen
+PUSH 
+ORG $88590
+WORD 0 
+ORG $88638
+POIN StatScreen 
+ORG $88640
+POIN StatScreenPal 
+ORG $88644
+POIN StatScreenTsa 
+POP
+
+
+//Save Screen
+//PUSH
+//ORG $3840C
+//POIN SaveScreen
+//ORG $38410
+//POIN SaveScreenPal
+//ORG $38414
+//POIN SaveScreenTsa
+//POP
+
+
+
+
+
+
+
+
+
+
+

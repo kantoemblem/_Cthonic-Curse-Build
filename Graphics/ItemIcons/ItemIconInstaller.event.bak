@@ -1,0 +1,14 @@
+
+PUSH
+ORG $5926F4 
+#incbin "SwordSheet.dmp"
+#incbin "LanceSheet.dmp"
+#incbin "AxeSheet.dmp"
+#incbin "BowSheet.dmp"
+#incbin "AnimaSheet.dmp"
+#incbin "LightSheet.dmp"
+#incbin "DarkSheet.dmp"
+#incbin "StaffSheet.dmp"
+#incbin "StatBoosterSheet.dmp"
+#incbin "PromotionItemSheet.dmp"
+POP 

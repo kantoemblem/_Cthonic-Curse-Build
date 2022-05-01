@@ -1,0 +1,167 @@
+## CommanderName
+Commander[X]
+
+## CommanderDesc
+A sword fighter whose armor choice[NL]
+is as bizarre as his fighting style.[X]
+
+## TacticianName
+Tactician[X]
+
+## TacticianDesc
+A tactician-in-training who wields[NL]
+potent anima magic.[X]
+
+## AcolyteName
+Acolyte[X]
+
+## AcolyteDesc
+An adept capable of wielding light[NL]
+and dark spells.[X]
+
+## ChaosBringerName ^
+Chaos Bringer[X]
+
+## ChaosBringerDesc
+The title given to chaotic warriors[NL]
+who embody justice and chaos.[X]
+
+## TruthBringerName ^
+Truth Bringer[X]
+
+## TruthBringerDesc
+A tactician gifted with exceptional[NL]
+commanding ability.[NL]
+Embodies truth and virtue.[X]
+
+## MageFighterName ^
+Mage Fighter[X]
+
+## MageFighterDesc
+A maiden who has mastered[NL]
+the path of a mage fighter.[X]
+
+## MercDesc
+Professional sword-wielders with[NL]
+excellent abilities all around.[X]
+
+## HeroDesc
+Battle-hardened warriors who possess[NL]
+exceptional skill.[NL]
+Can wield axes in addition to swords.[X]
+
+## FighterDesc
+Savages who fight with axes and dish[NL]
+out mighty blows with their high strength.[X]
+
+## WarriorDesc
+A fighter whose might is second to none.[NL]
+Can wield bows in addition to axes.[X]
+
+## SoldierDesc
+Well-trained lance fighters who balance[NL]
+power with accuracy.[X]
+
+## HalberdierName
+Halberdier[X]
+
+## HalberdierDesc
+Veteran soldiers with exemplary[NL]
+power and skill.[X]
+
+## ArcherDesc
+Bow-fighters who attack from a short[NL]
+distance away.[X]
+
+## SniperDesc
+An expert bowman who has mastered[NL]
+the bow. Possesses exceptional skill.[X]
+
+## KnightDesc
+Knights encased in heavy armour. Has[NL]
+high defence, but is weak against magic.[X]
+
+## GeneralDesc
+Armoured knights who possess[NL]
+overpowering defence and offence.[NL]
+Can wield swords, axes, and lances.[X]
+
+## GreatKnightDesc
+An experienced and dignified knight,[NL]
+possessing high mobility and defense.[X]
+
+## CavalierDesc
+Horseback knights who wield swords[NL]
+and lances in combat. A well[NL]
+balanced class.[X]
+
+## BladeCavalierName ^
+Blade Cavalier[X]
+
+## BladeCavalierDesc
+Horseback knights who wield swords[NL]
+and axes in combat. A well[NL]
+balanced class.[X]
+
+## BowCavalierName
+Bow Cavalier[X]
+
+## BowCavalierDesc
+Horseback knights who wield swords[NL]
+bows in combat. A well[NL]
+balanced class.[X]
+
+## BladePaladinName ^
+Blade Paladin[X]
+
+## PaladinDesc
+An experienced and dignified knight,[NL]
+possessing high mobility and resistance.[X]
+
+## RangerDesc
+An archer knight who rains arrows while[NL]
+riding on horseback.[NL]
+Can wield both swords and bows.[X]
+
+## PegasusKnightDesc
+Knights who soar the skies astride a[NL]
+pegasus. Strong against magic,[NL]
+but weak against bows.[X]
+
+## FalcoKnightDesc
+Knights who control falcons with great[NL]
+mastery. Can wield swords, and[NL]
+staves in addition to lances.[X]
+
+## FalcoKnightDesc2
+Knights who control falcons with great[NL]
+mastery. Can wield lances, and[NL]
+staves in addition to bows.[X]
+
+## WyvernRiderDesc
+Knights who soar the skies astride a[NL]
+wyvern. Vulnerable only to bows[NL]
+and magic.[X]
+
+## WyvernLordDesc
+Knights who pride their wyvern-riding[NL]
+abilities. Can wield swords in[NL]
+addition to axes.[X]
+
+## WyvernLordDesc2
+Knights who pride their wyvern-riding[NL]
+abilities. Can wield bows in[NL]
+addition to axes.[X]
+
+## WyvernLordDesc3
+Knights who pride their wyvern-riding[NL]
+abilities. Can wield swords in[NL]
+addition to lances.[X]
+
+## MaligKnightName ^
+Malig Knight[X]
+
+## MaligKnightDesc
+Knights who command a mage dragon.[NL]
+With their lances and magic,[NL]
+they trample over enemy forces.[X]

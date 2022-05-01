@@ -1,0 +1,129 @@
+INLINE MiscMapSprites,Animation pointer,Another pointer
+Commander,CommanderMove|0x8000000,0x81c3d7c
+Tactician,TacticianMove|IsPointer,0x81c3d7c
+Acolyte,MageFMove|IsPointer,0x81D8668
+Chaos Bringer,CommanderMove|0x8000000,0x81c5e84
+Truth Bringer,TacticianMove|IsPointer,0x81c692c
+Mage Fighter,SageFMove|IsPointer,0x81c692c
+Mercenary,MercMMove|IsPointer,0x81CAA20
+Mercenary (F),MercFMove|IsPointer,0x81CAA20
+Hero,HeroMMove|IsPointer,0x81CBD94
+Hero (F),HeroFMove|IsPointer,0x81CC874
+Fighter,FighterMMove|IsPointer,0x81E4340
+Fighter (F),FighterFMove|IsPointer,0x81E4340
+Warrior,HeroMMove|IsPointer,0x81E4EA4
+Warrior (F),HeroFMove|IsPointer,0x81E4EA4
+Soldier,SoldierMMove|IsPointer,0x81EDBC4
+Soldier (F),SoldierFMove|IsPointer,0x81EDBC4
+Soldier (D),SoldierMMove|IsPointer,0x81EDBC4
+Halberdier,HalberdierMMove|IsPointer,0x81C3D7C
+Halberdier (F),HalberdierFMove|IsPointer,0x81C3D7C
+Archer,ArcherMMove|IsPointer,0x81C3D7C
+Archer (F),ArcherFMove|IsPointer,0x81D13C8
+Archer (A),ArcherMMove|IsPointer,0x81D0A7C
+Sniper,SniperMMove|IsPointer,0x81D1D48
+Sniper (F),SniperFMove|IsPointer,0x81D2714
+Knight (S),KnightSMove|IsPointer,0x81C7E74
+Knight (L),KnightLMove|IsPointer,0x81C7E74
+Knight (A),KnightAMove|IsPointer,0x81C7E74
+General,GeneralMove|IsPointer,0x81C8A80
+Greatknight,GreatKnightMove|IsPointer,0x81E058C
+Cavalier,CavalierMMove|IsPointer,0x81C692C
+Cavalier (F),CavalierFMove|IsPointer,0x81C692C
+Paladin,PaladinMMove|IsPointer,0x81C7428
+Paladin (F),PaladinFMove|IsPointer,0x81C7428
+Blade Cavalier,BladeCavalierMMove|IsPointer,0x81C692C
+Blade Cavalier (F),BladeCavalierFMove|IsPointer,0x81C692C
+Blade Paladin,BladePaladinMMove|IsPointer,0x81C7428
+Blade Paladin (F),BladePaladinFMove|IsPointer,0x81C7428
+Bow Cavalier,BowCavalierMMove|IsPointer,0x81C692C
+Bow Cavalier (F),BowCavalierFMove|IsPointer,0x81C692C
+Ranger,RangerMMove|IsPointer,0x81D3194
+Ranger (F),RangerFMove|IsPointer,0x81D3194
+Pegasus Knight (A),PegasusKnightMove|IsPointer,0x81E96F0
+Pegasus Knight (C),PegasusKnightMove|IsPointer,0x81E96F0
+Falcoknight,FalcoKnightMove|IsPointer,0x81EA5DC
+Falcoknight (E),FalcoKnightMove|IsPointer,0x81EA5DC
+Wyvern Rider,WyvernRiderMMove|IsPointer,0x81D403C
+Wyvern Rider (F),WyvernRiderFMove|IsPointer,0x81D4EEC
+Wyvern Lord,WyvernLordMMove|IsPointer,0x81D5E58
+Wyvern Lord (F),WyvernLordFMove|IsPointer,0x81D5E58
+Wyvern Lord (Bow),WyvernLordMMove|IsPointer,0x81D5E58
+MaligKnight,MaligKnightMove|IsPointer,0x81D7CC8
+Myrmidon,MyrmidonMMove|IsPointer,0x81CD1BC
+Myrmidon (F),MyrmidonFMove|IsPointer,0x81CDB58
+Swordmaster,SwordmasterMMove|IsPointer,0x81CE4FC
+Swordmaster (F),SwordmasterFMove|IsPointer,0x81CEEE0
+Dreadfighter,DreadFighterMove|IsPointer,0x81CE4FC
+Dreadfighter (F),DreadFighterMove|IsPointer,0x81CEEE0
+Brigand,BrigandMoving|IsPointer,0x81E582C
+Pirate,PirateMMove|IsPointer,0x81E62B4
+Pirate (F),PirateMMove|IsPointer,0x81E62B4
+Berserker,BerserkerMMove|IsPointer,0x81E6DF4
+Berserker (F),BerserkerFMove|IsPointer,0x81E6DF4
+Hunter,HunterMMove|IsPointer,0x81D0A7C
+Hunter (F),HunterFMove|IsPointer,0x81D13C8
+Deserter,DeserterMove|IsPointer,0x81EDBC4
+Thief,ThiefMove|IsPointer,0x81C945C
+Assassin,AssassinMove|IsPointer,0x81CF7E8
+Rogue,RogueMove|IsPointer,0x81DF548
+Adventurer,AdventurerMove|IsPointer,0x81D1D48
+Mage,MageMMove|IsPointer,0x81D8668
+Mage (F),MageFMove|IsPointer,0x81D908C
+Mage (C),MageFMove|IsPointer,0x81D908C
+Sage,SageMMove|IsPointer,0x81D9B58
+Sage (F),SageFMove|IsPointer,0x81DA694
+Mageknight,MageKnightMMove|IsPointer,0x81DB0F8
+Mageknight (F),MageKnightFMove|IsPointer,0x81DBBCC
+Dark Flier,FalcoKnightMove|IsPointer,0x81EA5DC
+Shaman,ShamanMMove|IsPointer,0x81DD888
+Shaman (F),ShamanFMove|IsPointer,0x81DD888
+Druid,DruidMMove|IsPointer,0x81DE2C4
+Summon,DreadFighterMove|IsPointer,0x81ef5cc
+Druid (F),DruidFMove|IsPointer,0x81DE2C4
+Mimi,DruidMMove|IsPointer,0x81DE2C4
+Monk,MonkMove|IsPointer,0x81E7638
+Priest,PriestMove|IsPointer,0x81E7F58
+Cleric (G),ClericMove|IsPointer,0x81EAEA0
+Cleric (S),ClericMove|IsPointer,0x81EAEA0
+Bishop,BishopMMove|IsPointer,0x81DC590
+Bishop (F),BishopFMove|IsPointer,0x81DCF44
+Troubadour,TroubadourMove|IsPointer,0x81EB99C
+Valkyrie,ValkyrieMove|IsPointer,0x81EC4FC
+Supplier,SupplierMove|IsPointer,0x81EDBC4
+Dancer,DancerMove|IsPointer,0x81ED1C8
+Manakete,ManaketeMove|IsPointer,0x81E39EC
+Mage Dragon,ManaketeMove|IsPointer,0x81E39EC
+Eclipse Knight,CommanderMove|0x8000000,0x81C3D7C
+Twilight Knight,TwilightKnightMove|IsPointer,0x81C46CC
+Slugger,CommanderMove|0x8000000,0x81C3D7C
+Driver,CommanderMove|0x8000000,0x81C3D7C
+Duelist,CommanderMove|0x8000000,0x81C3D7C
+Lodestar,CommanderMove|0x8000000,0x81C3D7C
+Demon King,0x81fbfbc,0x81fd028
+Archer on Ballista,0x81fd180,0x81fd808
+Archer on Iron Ballista,0x81fd960,0x81fdfe8
+Archer on Killer Ballista,0x81fe140,0x81fe7c8
+Ballista,0x81fe920,0x81fee74
+Iron Ballista,0x81fefdc,0x81ff4c8
+Killer Ballista,0x81ff620,0x81ffbbc
+Civilian,FighterMMove|IsPointer,0x8200348
+Civilian (F),0x82004a0,0x8200afc
+Civilian,0x8200c54,0x8201338
+Civilian (F),0x8201490,0x8201b84
+Civilian,0x81ffd24,0x8200348
+Civilian (F),0x82004a0,0x8200afc
+Peer,0x8201cdc,0x8202558
+Queen,0x82026b0,0x8202c04
+Prince,0x8202d5c,0x8203368
+Queen,0x82034c0,0x82039a0
+(empty),0x8203af8,0x8203e8c
+Fallen Prince,0x8203fe4,0x82043c8
+Tent,0x8204520,0x8204940
+Pontifex,0x8204a98,0x8205068
+Dead Peer,0x82051c0,0x82055a8
+Cyclops,0x81f40f8,0x81f49b8
+Elder Bael,0x81f38ec,0x81f3fa0
+Trainee Fighter (2),0x81e0f98,0x81e173c
+Trainee Mage (2),0x81e189c,0x81e2088
+0x80,0x81e640c,0x81e6df4
