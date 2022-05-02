@@ -13,7 +13,7 @@ after combat.[N]
 (3 Durability Per Hit)[X]
 
 ## UM_Mercy
- Mercy[X]
+ Weaken[X]
 
 ## UM_MercyDesc
 Leave opponent with[N]

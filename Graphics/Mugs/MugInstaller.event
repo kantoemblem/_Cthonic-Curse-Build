@@ -287,9 +287,9 @@ Zo_Sad:
 #incext PortraitFormatter "Playables/Alts/0ZoSad.png"
 setMugEntry(0x108, Zo_Sad,2,6,3,4)
 
-//Zo_Mad:
-//#incext PortraitFormatter "Playables/0Zo.png"
-//setMugEntry(0x109, Zo_Mad,2,6,3,4)
+Zo_Mad:
+#incext PortraitFormatter "Playables/0Zo.png"
+setMugEntry(0x109, Zo_Mad,2,6,3,4)
 
 //Zo_Promo_Sad:
 //#incext PortraitFormatter "Playables/0Zo.png"

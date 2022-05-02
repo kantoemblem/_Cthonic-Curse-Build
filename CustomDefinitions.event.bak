@@ -48,10 +48,81 @@
 #define setCardEntry(cardEntry,cardLocation,cardPaletteLocation) "PUSH; ORG PortraitTable+cardEntry*0x1C; POIN 0 0 cardPaletteLocation 0 cardLocation; POP"
 
 
-//Character Definitions
-#define Ben Eirika
-#define Zo Seth
-
+//Player Character Definitions
+#define Ben 0x1
+#define Zo 0x2
+#define Aphi 0x3
+#define Ted 0x4
+#define Bails 0x5
+#define Nate 0x6
+#define Mae 0x7
+#define Nana 0x8
+#define Jade 0x9
+#define Casimir 0xA
+#define Cas Casimir
+#define Mordred 0xB
+#define Mordy Mordred
+#define Jamie 0xC
+#define Guinivere 0xD
+#define Guin Guinivere
+#define Yoko 0xE
+#define Chase 0xF
+#define Ashleigh 0x10
+#define Ash Ashleigh 
+#define Sasha 0x11
+#define Elizabeth 0x12
+#define Liz Elizabeth
+#define Ryza 0x13
+#define Diarmuid 0x14
+#define Dia Diarmuid
+#define Lavender 0x15
+#define Lav Lavender
+#define Ostrava 0x16
+#define Ost Ostrava
+#define Chloe 0x17
+#define Rota 0x18
+#define Mako Rota
+#define L'Arachel 0x19
+#define Larachel L'Arachel
+#define Ilaria 0x1A
+#define Fayina 0x1B
+#define Erastus 0x1C
+#define Marie 0x1D
+#define Ulyaoth 0x1E
+#define Uly Ulyaoth
+#define Diana 0x1F
+#define Mimi 0x20
+#define Mimir Mimi
+#define Marth 0x21
+#define Mars
+#define Draug 0x22
+#define Doga Draug
+#define Gordin 0x23
+#define Silque 0x24
+#define Forsyth 0x25
+#define Midir 0x26
+#define Galzus 0x27
+#define Sain 0x28
+#define Boyd 0x29
+#define Nephenee 0x2A
+#define Basilio 0x2B
+#define Owain 0x2C
+#define Cynthia 0x2D
+#define Orochi 0x2E
+#define Nina 0x2F
+#define Fujoshi Nina
+#define Fujo Fujoshi
+#define Ferdinand 0x30
+#define FerdinandVonAegir Ferdinand
+#define Ashe 0x31
+#define Lysithea 0x32
+#define Constance 0x33
+#define Junpei 0x34
+#define DaMan Junpei
+#define Zeke 0x35
+#define ZekeVonGenbuBringerOfChaos Zeke
+#define Dunban 0x36
+#define DunbanOverThere Dunban
 
 //Class Definitions 
 #define Commander 0x1
@@ -163,6 +234,7 @@
 //#endif
 //#define AnimTableEntry(index) "ORG ClassAnimTable - 0x20 + (index * 0x20)"
 
+#define Item 0x9
 #define SwordAnim(Animation) "BYTE Swords 0x01 ; SHORT Animation"
 #define SpearAnim(Animation) "BYTE Spears 0x01 ; SHORT Animation"
 #define Spears Lances
@@ -174,5 +246,5 @@
 #define AnimaAnim(Animation) "BYTE Anima 0x01 ; SHORT Animation"
 #define LightAnim(Animation) "BYTE Light 0x01 ; SHORT Animation"
 #define DarkAnim(Animation) "BYTE Dark 0x01 ; SHORT Animation"
-#define UnarmedAnim(Animation) "BYTE Item 0x9 0x01 ; SHORT Animation"
+#define UnarmedAnim(Animation) "BYTE Item 0x01 ; SHORT Animation"
 #define SpecialAnim(Animation,Weapon) "BYTE Weapon 0x00 ; SHORT Animation"

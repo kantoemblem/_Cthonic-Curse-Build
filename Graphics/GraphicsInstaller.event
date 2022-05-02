@@ -5,6 +5,8 @@
 #include "MapSprites/MapSpriteInstaller.event"
 #include "ItemIcons/ItemIconInstaller.event"
 #include "SystemIconInstaller.event"
+#include "BattleScreen/BattleScreenInstaller.event"
+
 
 ALIGN 4
 StatScreen:

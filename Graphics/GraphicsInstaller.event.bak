@@ -38,14 +38,14 @@ POP
 
 
 //Save Screen
-PUSH
-ORG $8A216
-POIN SaveScreen
-ORG $8A25E
-POIN SaveScreenPal
-ORG $8A25D
-POIN SaveScreenTsa
-POP
+//PUSH
+//ORG $3840C
+//POIN SaveScreen
+//ORG $38410
+//POIN SaveScreenPal
+//ORG $38414
+//POIN SaveScreenTsa
+//POP
 
 
 
