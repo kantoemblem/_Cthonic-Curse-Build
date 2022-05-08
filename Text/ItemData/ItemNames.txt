@@ -105,8 +105,8 @@ Saunion[X]
 ## MerchantsLanceName ^
 Merchant's Lance[X]
 
-## GaeBuindeName
-Gae Buinde[X]
+## GaeDeargName
+Gae Dearg[X]
 
 ## LanceOfRuinName ^
 Lance of Ruin[X]
@@ -263,8 +263,8 @@ Dark Spikes T[X]
 ## AgravainName
 Agravain[X]
 
-## SDarkName
-_[X]
+## MoralltachName ^
+Moralltach[X]
 
 ## AphiDarkName
 _[X]
@@ -392,7 +392,7 @@ Def and Res +5[X]
 ## MerchantsLanceDesc ^
 Nana's stalwart bodyguard. Grants: Pass[X]
 
-## GaeBuindeDesc ^
+## GaeDeargDesc ^
 Diarmuid's Lance. +2 Mt and +10% Crit vs mages.[X]
 
 ## LanceOfRuinDesc ^
@@ -562,7 +562,7 @@ Dark magic. Effective against cavalry.[X]
 ## AgravainDesc ^
 Dark magic. Grants great power at a price.[X]
 
-## SDarkDesc
+## MoralltachDesc
 _[X]
 
 ## AphiDarkDesc
