@@ -303,7 +303,7 @@ VoiceDirect(MusicVoices,0x52,0x3c,GSTriangle,0x0,0x0,0x0,0xff,0x0,0xff,0xb0)
 VoiceDirect(MusicVoices,0x53,0x3c,GSSaw,0x0,0x0,0x0,0xff,0x0,0xff,0x80)
 //VoiceDummy(MusicVoices,0x53)
 //84
-VoiceDummy(MusicVoices,0x54)
+VoiceDirect(MusicVoices,0x54,0x3C,BiSSynth,0x0,0x0,0x0,0xff,0x0,0xff,0x40)
 //85 choir aah c4 (use 52 instead) - C4
 VoiceDirect(MusicVoices,0x55,0x3c,0x028CD70,0x0,0x0,0x0,0xff,0x0,0xff,0xa5)
 //86 a slightly shorter version of the trombone (use 57 instead) - C3
@@ -526,11 +526,15 @@ GSSquareMacro(0x20,0xf0,0x20,0x80)
 //SampleHeader macro for .sb samples converted from .wav
 #define SampleHeader(IsSampleLooped,SamplePitchAdjustment,SampleLoopPoint,SampleLength) "BYTE $00 $00 $00 IsSampleLooped*0x40; WORD SamplePitchAdjustment; WORD SampleLoopPoint; WORD SampleLength"
 
-
+ALIGN 4
 BiSOrchestraHits:
 SampleHeader(0x0,0x01588800,0x00005F19,0x00005F1A)
 #incbin "samples/OrchestraHitsBiS.sb"
 
+ALIGN 4
+BiSSynth:
+SampleHeader(0x1,0x01588800,0x00002681,0x00002681)
+#incbin "samples/BiSynth.sb"
 
 
 #else
