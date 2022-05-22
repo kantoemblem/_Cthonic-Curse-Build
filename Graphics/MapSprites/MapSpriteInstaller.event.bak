@@ -164,7 +164,7 @@ PegasusKnightMove:
 #incext Png2Dmp "PegasusKnight/PegasusMove.png" --lz77
 FalcoKnightStand:
 #incext Png2Dmp "FalcoKnight/FalcoStand.png" --lz77
-FacloKnightMove:
+FalcoKnightMove:
 #incext Png2Dmp "FalcoKnight/FalcoMove.png" --lz77
 //FalcoKnightBowStand:
 //#incext Png2Dmp "FalcoKnight/BowStand.png" --lz77

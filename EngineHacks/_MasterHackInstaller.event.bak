@@ -184,7 +184,7 @@ POP
   
   //MovementSoundEditor
   ALIGN 4
-  #include "ExternalHacks/FE8WalkingSoundsFix/FE8-WalkingSoundsEA.txt"
+  #include "ExternalHacks/FE8WalkingSoundsFix/FE8-Walking Sounds EA.txt"
   
   //Crit Cap
   #ifdef CRIT_CAP

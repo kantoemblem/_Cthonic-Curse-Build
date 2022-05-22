@@ -11,8 +11,8 @@ Hero,HeroMMove|IsPointer,0x81CBD94
 Hero (F),HeroFMove|IsPointer,0x81CC874
 Fighter,FighterMMove|IsPointer,0x81E4340
 Fighter (F),FighterFMove|IsPointer,0x81E4340
-Warrior,HeroMMove|IsPointer,0x81E4EA4
-Warrior (F),HeroFMove|IsPointer,0x81E4EA4
+Warrior,WarriorMMove|IsPointer,0x81C3D7C
+Warrior (F),WarriorFMove|IsPointer,0x81C3D7C
 Soldier,SoldierMMove|IsPointer,0x81EDBC4
 Soldier (F),SoldierFMove|IsPointer,0x81EDBC4
 Soldier (D),SoldierMMove|IsPointer,0x81EDBC4

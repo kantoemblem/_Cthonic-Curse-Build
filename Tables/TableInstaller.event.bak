@@ -54,6 +54,10 @@
 
 #include "NightmareModules\PointerList\Pointer_table_editor.event"
 
+#include "NightmareModules\QuoteEditors\Boss Quote Editor.event"
+
+#include "NightmareModules\QuoteEditors\Death Quote Editor.event"
+
 #include "NightmareModules\Skills\CharacterLevelUpSkillEditor.event"
 
 #include "NightmareModules\Skills\ClassLevelUpSkillEditor.event"

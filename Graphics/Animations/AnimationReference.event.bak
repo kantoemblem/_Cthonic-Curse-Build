@@ -1,6 +1,6 @@
 ALIGN 4
 CommanderAnim:
-SwordAnim(0x1)
+SwordAnim(0x103)
 SpecialAnim(0x2,0x20)
 UnarmedAnim(0x3)
 WORD 0x0 0x0 
@@ -419,7 +419,7 @@ WORD 0x0 0x0
 ALIGN 4
 MyrmidonOwainAnim:
 SwordAnim(0x94)
-Unarmed(0x95)
+UnarmedAnim(0x95)
 WORD 0x0 0x0 
 
 ALIGN 4
@@ -805,7 +805,7 @@ LightAnim(0xF6)
 UnarmedAnim(0xF6)
 WORD 0x0 0x0 
 
-ALIGN 4:
+ALIGN 4
 EclipseKnightAnim:
 SwordAnim(0xF7)
 AnimaAnim(0xF8)
@@ -826,7 +826,7 @@ SwordAnim(0xFB)
 AnimaAnim(0xFC)
 LightAnim(0xFC)
 DarkAnim(0xFC)
-Unarmed(0xFC)
+UnarmedAnim(0xFC)
 WORD 0x0 0x0 
 
 ALIGN 4

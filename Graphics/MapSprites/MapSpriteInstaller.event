@@ -46,14 +46,14 @@ FighterFStand:
 #incext Png2Dmp "FighterF/FighterStand.png" --lz77
 FighterFMove:
 #incext Png2Dmp "FighterF/FighterMove.png" --lz77
-//WarriorMStand:
-//#incext Png2Dmp "WarriorM/WarriorStand.png" --lz77
-//WarriorMMove:
-//#incext Png2Dmp "WarriorM/WarriorMove.png" --lz77
-//WarriorFStand:
-//#incext Png2Dmp "WarriorF/WarriorStand.png" --lz77
-//WarriorFMove:
-//#incext Png2Dmp "WarriorF/WarriorMove.png" --lz77
+WarriorMStand:
+#incext Png2Dmp "WarriorM/WarriorStand.png" --lz77
+WarriorMMove:
+#incext Png2Dmp "WarriorM/WarriorMove.png" --lz77
+WarriorFStand:
+#incext Png2Dmp "WarriorF/WarriorStand.png" --lz77
+WarriorFMove:
+#incext Png2Dmp "WarriorF/WarriorMove.png" --lz77
 SoldierMStand:
 #incext Png2Dmp "SoldierM/SoldierStand.png" --lz77
 SoldierMMove:

@@ -253,107 +253,131 @@ setMugEntry(0x3E, ZekeVonGenbu_Mug,3,5,3,3)
 //Alts
 Ben_Flip:
 #incext PortraitFormatter "Playables/Alts/0BenFlipped.png"
-setMugEntry(0x100, Ben_Flip,2,5,3,3)
+setMugEntry(0x101, Ben_Flip,2,5,3,3)
 
 Ben_Sad:
 #incext PortraitFormatter "Playables/Alts/0BenSad.png"
-setMugEntry(0x101, Ben_Sad,2,5,3,3)
+setMugEntry(0x102, Ben_Sad,2,5,3,3)
 
 Ben_Sad_Flip:
 #incext PortraitFormatter "Playables/Alts/0BenSadFlipped.png"
-setMugEntry(0x102, Ben_Sad_Flip,2,5,3,3)
+setMugEntry(0x103, Ben_Sad_Flip,2,5,3,3)
 
 Ben_Mad:
 #incext PortraitFormatter "Playables/Alts/0BenMad.png"
-setMugEntry(0x103, Ben_Mad,2,5,3,3)
+setMugEntry(0x104, Ben_Mad,2,5,3,3)
 
 Ben_Mad_Flip:
 #incext PortraitFormatter "Playables/Alts/0BenMadFlipped.png"
-setMugEntry(0x104, Ben_Mad_Flip,2,5,3,3)
+setMugEntry(0x105, Ben_Mad_Flip,2,5,3,3)
 
 Benos_Mug:
 #incext PortraitFormatter "Playables/Alts/0Benos.png"
-setMugEntry(0x105, Benos_Mug,2,5,3,3)
+setMugEntry(0x106, Benos_Mug,2,5,3,3)
 
 //Ben_Promo_Sad:
 //#incext PortraitFormatter "Playables/0Ben.png"
-//setMugEntry(0x106, Ben_Promo_Sad,2,5,3,3)
+//setMugEntry(0x107, Ben_Promo_Sad,2,5,3,3)
 
 //Ben_Promo_Mad:
 //#incext PortraitFormatter "Playables/0Ben.png"
-//setMugEntry(0x107, Ben_Promo_Mad,2,5,3,3)
+//setMugEntry(0x108, Ben_Promo_Mad,2,5,3,3)
 
 Zo_Sad:
 #incext PortraitFormatter "Playables/Alts/0ZoSad.png"
-setMugEntry(0x108, Zo_Sad,2,6,3,4)
+setMugEntry(0x109, Zo_Sad,2,6,3,4)
 
 Zo_Mad:
 #incext PortraitFormatter "Playables/0Zo.png"
-setMugEntry(0x109, Zo_Mad,2,6,3,4)
+setMugEntry(0x10A, Zo_Mad,2,6,3,4)
 
 //Zo_Promo_Sad:
 //#incext PortraitFormatter "Playables/0Zo.png"
-//setMugEntry(0x10A, Zo_Promo_Sad,2,6,3,4)
+//setMugEntry(0x10B, Zo_Promo_Sad,2,6,3,4)
 
 //Zo_Promo_Mad:
 //#incext PortraitFormatter "Playables/0Zo.png"
-//setMugEntry(0x10B, Zo_Promo_Mad,2,6,3,4)
+//setMugEntry(0x10C, Zo_Promo_Mad,2,6,3,4)
+
+//Aphi_Sad:
+//#incext PortraitFormatter "Playables/Alts/1AphiSad.png"
+//setMugEntry(0x10D, Aphi_Sad,3,5,3,3)
+
+//Aphi_Mad:
+//#incext PortraitFormatter "Playables/Alts/1AphiMad.png"
+//setMugEntry(0x10E, Aphi_Sad,3,5,3,3)
+
+//Aphi_GoCrazy_Sad:
+//#incext PortraitFormatter "Playables/Alts/1AphiCrazySad.png"
+//setMugEntry(0x10F, Aphi_GoCrazy_Sad,3,5,3,3)
+
+//Aphi_GoCrazy_Mad:
+//#incext PortraitFormatter "Playables/Alts/1AphiCrazyMad.png"
+//setMugEntry(0x110, Aphi_GoCrazy_Mad,3,5,3,3)
 
 //Ted_Flip:
 //##incext PortraitFormatter "Playables/Alts/1Ted_Flip.png"
-//setMugEntry(0x10C, Zo_Mad,2,6,3,4)
+//setMugEntry(0x111, Zo_Mad,2,6,3,4)
 
 Hex_Flip:
 #incext PortraitFormatter "Playables/Alts/1HexFlipped.png"
-setMugEntry(0x10D, Hex_Flip,3,5,3,3)
+setMugEntry(0x112, Hex_Flip,3,5,3,3)
 
 Mae_Flip:
 #incext PortraitFormatter "Playables/Alts/1MaeFlipped.png"
-setMugEntry(0x10E, Mae_Flip,3,5,3,3)
+setMugEntry(0x113, Mae_Flip,3,5,3,3)
 
 Mae_NoArmor:
 #incext PortraitFormatter "Playables/Alts/1MaeNoArmor.png"
-setMugEntry(0x10F, Mae_NoArmor,3,5,3,3)
+setMugEntry(0x114, Mae_NoArmor,3,5,3,3)
+
+Mae_Bloosh:
+#incext PortraitFormatter "Playables/Alts/1MaeBloosh.png"
+setMugEntry(0x115, Mae_Bloosh,3,5,3,3)
 
 //Jamie_Flip:
 //#incext PortraitFormatter "Playables/Alts/1JamieFlip.png"
-//setMugEntry(0x110, Elizabeth_Mug,2,5,3,3)
+//setMugEntry(0x116, Elizabeth_Mug,2,5,3,3)
 
 //Elizabeth_Flip:
 //#incext PortraitFormatter "Playables/Alts/1ElizabethFlip.png"
-//setMugEntry(0x111, Elizabeth_Mug,2,5,3,3)
+//setMugEntry(0x117, Elizabeth_Mug,2,5,3,3)
 
 //Chloe_Flip:
 //#incext PortraitFormatter "Playables/1ChloeFlip.png"
-//setMugEntry(0x112, Chloe_Mug,3,5,3,3)
+//setMugEntry(0x118, Chloe_Mug,3,5,3,3)
+
+//Rota_Flip:
+//#incext PortraitFormatter "Playables/1RotaFlip.png"
+//setMugEntry(0x119, Rota_Flip,3,5,3,3)
 
 Ilaria_Flip:
 #incext PortraitFormatter "Playables/Alts/1Homophobia.png"
-setMugEntry(0x113, Ilaria_Flip,3,5,3,3)
+setMugEntry(0x11A, Ilaria_Flip,3,5,3,3)
 
 //Ulyaoth_Flip:
 //#incext PortraitFormatter "Playables/Alts/1UlyaothFlip.png"
-//setMugEntry(0x114, Ulyaoth_Flip,3,5,3,2)
+//setMugEntry(0x11B, Ulyaoth_Flip,3,5,3,2)
 
 //Ulyaoth_Mad:
 //#incext PortraitFormatter "Playables/Alts/1UlyaothMad.png"
-//setMugEntry(0x115, Ulyaoth_Mad,3,5,3,2)
+//setMugEntry(0x11C, Ulyaoth_Mad,3,5,3,2)
 
 //Basilio_Flip:
 //#incext PortraitFormatter "Playables/2BasilioFlip.png"
-//setMugEntry(0x116, Basilio_Flip,3,5,3,3)
+//setMugEntry(0x11D, Basilio_Flip,3,5,3,3)
 
 //ZekeVonGenbu_Flip:
 //#incext PortraitFormatter "Playables/2ZekeVonGenbuFlip.png"
-//setMugEntry(0x117, ZekeVonGenbu_Flip,3,5,3,3)
+//setMugEntry(0x11E, ZekeVonGenbu_Flip,3,5,3,3)
 
 Pandoria_Mug:
 #incext PortraitFormatter "Playables/3Pandoria.png"
-setMugEntry(0x118, Pandoria_Mug,3,6,3,4)
+setMugEntry(0x11F, Pandoria_Mug,3,6,3,4)
 
 Pandoria_Alt:
 #incext PortraitFormatter "Playables/3Pandoria2.png"
-setMugEntry(0x119, Pandoria_Alt,3,6,3,4)
+setMugEntry(0x120, Pandoria_Alt,3,6,3,4)
 
 ///////////////////////////////////////////////////////////////////////////
 

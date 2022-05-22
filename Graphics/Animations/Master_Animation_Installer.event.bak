@@ -105,6 +105,18 @@
 	{
 	#include "7HeroF/Unarmed/herf_un1 Installer.event"
 	}
+//	{
+//	#include "7HeroOst/Sword/herm_sw1 Installer.event"
+//	}
+//	{
+//	#include "7HeroOst/Axe/herm_ax1 Installer.event"
+//	}
+//	{
+//	#include "7HeroOst/Handaxe/herm_hx1 Installer.event"
+//	}	
+//	{
+//	#include "7HeroOst/Unarmed/herm_un1 Installer.event"
+//	}
 	{
 	#include "8FighterM/Axe/figm_ax1 Installer.event"
 	}
@@ -123,6 +135,15 @@
 	{
 	#include "8FighterF/Unarmed/figf_un1 Installer.event"
 	}
+//	{
+//	#include "8FighterOst/Axe/figm_ax1 Installer.event"
+//	}
+//	{
+//	#include "8FighterOst/Handaxe/figm_hx1 Installer.event"
+//	}
+//	{
+//	#include "8FighterOst/Unarmed/figm_un1 Installer.event"
+//	}
 //	{
 //	#include "9WarriorM/Axe/warm_ax1 Installer.event"
 //	}
@@ -146,6 +167,18 @@
 //	}
 //	{
 //	#include "9WarriorF/Unarmed/warf_un1 Installer.event"
+//	}
+//	{
+//	#include "9WarriorBasilio/Axe/warm_ax1 Installer.event"
+//	}
+//	{
+//	#include "9WarriorBasilio/Handaxe/warm_hx1 Installer.event"
+//	}
+//	{
+//	#include "9WarriorBasilio/Bow/warm_ar1 Installer.event"
+//	}
+//	{
+//	#include "9WarriorBasilio/Unarmed/warm_un1 Installer.event"
 //	}
 	{
 	#include "10SoldierM/Lance/solm_sp1 Installer.event"
@@ -300,6 +333,15 @@
 	{
 	#include "18CavalierF/Unarmed/cavf_un1 Installer.event"
 	}
+//	{
+//	#include "18CavalierJamie/Sword/cavf_sw1 Installer.event"
+//	}
+//	{
+//	#include "18CavalierJamie/Lance/cavf_sp1 Installer.event"
+//	}
+//	{
+//	#include "18CavalierJamie/Unarmed/cavf_un1 Installer.event"
+//	}
 	{
 	#include "19PaladinM/Sword/palm_sw1 Installer.event"
 	}
@@ -318,6 +360,15 @@
 	{
 	#include "19PaladinF/Unarmed/palf_un1 Installer.event"
 	}
+//	{
+//	#include "19PaladinJamie/Sword/palf_sw1 Installer.event"
+//	}
+//	{
+//	#include "19PaladinJamie/Lance/palf_sp1 Installer.event"
+//	}
+//	{
+//	#include "19PaladinJamie/Unarmed/palf_un1 Installer.event"
+//	}
 	{
 	#include "20BladePaladinM/Sword/bldm_sw1 Installer.event"
 	}
@@ -424,16 +475,16 @@
 	#include "25WyvernLord/Unarmed/wylm_un1 Installer.event"
 	}
 //	{
-//	#include "25WyvernLordTed/Sword/wylt_sw1 Installer.event"
+//	#include "25WyvernLordTed/Sword/tedl_sw1 Installer.event"
+//	}
+	{
+	#include "25WyvernLordTed/Axe/tedl_ax1 Installer.event"
+	}
+//	{
+//	#include "25WyvernLordTed/Handaxe/tedl_hx1 Installer.event"
 //	}
 //	{
-//	#include "25WyvernLordTed/Axe/wylt_ax1 Installer.event"
-//	}
-//	{
-//	#include "25WyvernLordTed/Handaxe/wylt_hx1 Installer.event"
-//	}
-//	{
-//	#include "25WyvernLordTed/Unarmed/wylt_un1 Installer.event"
+//	#include "25WyvernLordTed/Unarmed/tedl_un1 Installer.event"
 //	}
 	{
 	#include "26MaligKnight/Lance/wykm_sp1 Installer.event"
