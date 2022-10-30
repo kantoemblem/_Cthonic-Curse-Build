@@ -72,13 +72,16 @@ POP
   #include "QualityOfLife/EventWriter/EventWriter.event"
 
   //Casual Mode
-  #include "MyPatches/CasualMode/CasualModeInstaller.event"
+  #include "MyPatches/CasualModeMenu/CasualModeInstaller.event"
 
   //Movement Arrow doesn't update on allies
   #include "QualityOfLife/MovementArrowHack/MovementArrowHack.event"
 
   //Negative Stat Boosts
   #include "Necessary/NegativeStatBoosts/NegativeStatBoosts.event"
+  
+  //NewSmePromoScreen
+  #include "MyPatches/NewPromoScreenSme/NewPromoScreen.event"
 
   //Trap Rework (Dragon Veins & Heal Tiles)
   #include "ExternalHacks/TrapRework/TrapRework.event"

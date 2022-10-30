@@ -1,0 +1,391 @@
+//Event file generated from Sappy .s format.
+	#include "MPlayDef.event"
+
+	#define	song58_grp  voicegroup000
+	#define	song58_pri  0
+	#define	song58_rev  0
+	#define	song58_mvl  127
+	#define	song58_key  0
+	#define	song58_tbs  1
+	#define	song58_exg  0
+	#define	song58_cmp  1
+
+	// .rodata
+	//	song58
+	ALIGN 4
+
+
+//**************** Track 1 (Midi-Chn.0) ****************//
+
+song58_001:
+//  #01 //000   ----------------------------------------
+ BYTE   KEYSH   song58_key+0
+Label_015F488A:
+ BYTE   TEMPO   120*song58_tbs/2
+ BYTE   VOICE   68
+ BYTE   VOL   60*song58_mvl/mxv
+ BYTE   PAN   c_v+0
+ BYTE   N22  Cs3  v080
+ BYTE   W24
+ BYTE   N44  Bn3
+ BYTE   W48
+ BYTE   N23  Cs3
+ BYTE   W24
+//  #01 //001   ----------------------------------------
+ BYTE   N44  As3
+ BYTE   W48
+ BYTE   N23  Cs3
+ BYTE   W24
+ BYTE   N44  An3
+ BYTE   W48
+//  #01 //002   ----------------------------------------
+ BYTE   N23  Cs3
+ BYTE   W24
+ BYTE   N44  Gs3
+ BYTE   W48
+ BYTE   N23  Cs3
+ BYTE   W24
+//  #01 //003   ----------------------------------------
+ BYTE   N32  Fs3
+ BYTE   W36
+ BYTE   N11  En3
+ BYTE   W12
+ BYTE   N23  Ds3
+ BYTE   W24
+ BYTE   N44  En3
+ BYTE   W48
+//  #01 //004   ----------------------------------------
+ BYTE   N23  An3
+ BYTE   W24
+ BYTE   TIE  Gs3
+ BYTE   W72
+//  #01 //005   ----------------------------------------
+ BYTE   W44
+ BYTE   W01
+ BYTE   EOT
+ BYTE   W03
+ BYTE   N22  Cs3
+ BYTE   W24
+ BYTE   N44  Bn3
+ BYTE   W48
+//  #01 //006   ----------------------------------------
+ BYTE   N22  Cs3
+ BYTE   W24
+ BYTE   N44  As3
+ BYTE   W48
+ BYTE   N22  Cs3
+ BYTE   W24
+//  #01 //007   ----------------------------------------
+ BYTE   N44  An3
+ BYTE   W48
+ BYTE   N22  Cs3
+ BYTE   W24
+ BYTE   N44  Gs3
+ BYTE   W48
+//  #01 //008   ----------------------------------------
+ BYTE   N22  Cs3
+ BYTE   W24
+ BYTE   N32  Fs3
+ BYTE   W36
+ BYTE   N11  En3
+ BYTE   W12
+ BYTE   N22  Ds3
+ BYTE   W24
+//  #01 //009   ----------------------------------------
+ BYTE   N44  En3
+ BYTE   W48
+ BYTE   N22  Cn3
+ BYTE   W24
+ BYTE   TIE  Cs3
+ BYTE   W72
+//  #01 //010   ----------------------------------------
+ BYTE   W64
+ BYTE   EOT
+ BYTE   W08
+Label_015F48F4:
+ BYTE   N44  An2  v080
+ BYTE   W48
+//  #01 //011   ----------------------------------------
+ BYTE   N23  Gs3
+ BYTE   W24
+ BYTE   PEND 
+Label_015F48FC:
+ BYTE   N32  Fs3  v080
+ BYTE   W36
+ BYTE   N11  En3
+ BYTE   W12
+ BYTE   Ds3
+ BYTE   W12
+ BYTE   En3
+ BYTE   W12
+ BYTE   PEND 
+//  #01 //012   ----------------------------------------
+ BYTE   N68  Gs2
+ BYTE   W72
+ BYTE   Gs3
+ BYTE   W72
+//  #01 //013   ----------------------------------------
+ BYTE   N44  Gn3
+ BYTE   W48
+ BYTE   N23  En3
+ BYTE   W24
+ BYTE   N32  Ds3
+ BYTE   W36
+//  #01 //014   ----------------------------------------
+ BYTE   N11  Cs3
+ BYTE   W12
+ BYTE   Cn3
+ BYTE   W12
+ BYTE   Cs3
+ BYTE   W12
+ BYTE   N44  Ds3
+ BYTE   W48
+ BYTE   N11  Fs3
+ BYTE   W12
+//  #01 //015   ----------------------------------------
+ BYTE   Gn3
+ BYTE   W12
+ BYTE   N68  Gs3
+ BYTE   W72
+//  #01 //016   ----------------------------------------
+ BYTE   PATT
+  POIN2 Label_015F48F4
+//  #01 //017   ----------------------------------------
+ BYTE   PATT
+  POIN2 Label_015F48FC
+//  #01 //018   ----------------------------------------
+ BYTE   N23  Cs4  v080
+ BYTE   W24
+ BYTE   N92  Gs3
+ BYTE   W48
+ BYTE   W48
+//  #01 //019   ----------------------------------------
+ BYTE   N11  Fs3
+ BYTE   W12
+ BYTE   En3
+ BYTE   W12
+ BYTE   N23  Gn3
+ BYTE   W48
+ BYTE   En3
+ BYTE   W24
+//  #01 //020   ----------------------------------------
+ BYTE   Ds3
+ BYTE   W36
+ BYTE   N11  Cs3
+ BYTE   W12
+ BYTE   As2
+ BYTE   W12
+ BYTE   Cn3
+ BYTE   W12
+ BYTE   N68  Cs3
+ BYTE   W72
+//  #01 //021   ----------------------------------------
+ BYTE   En3
+ BYTE   N68  Cs4
+ BYTE   W72
+ BYTE   GoTo
+  POIN2 Label_015F488A
+ BYTE   FINE
+
+//**************** Track 2 (Midi-Chn.1) ****************//
+
+song58_002:
+//  #02 //000   ----------------------------------------
+ BYTE   KEYSH   song58_key+0
+Label_01047C02:
+ BYTE   VOICE   40
+ BYTE   VOL   49*song58_mvl/mxv
+ BYTE   W24
+Label_01047C07:
+ BYTE   N22  Cs3  v080
+ BYTE   W24
+ BYTE   N11  En3
+ BYTE   W24
+ BYTE   N11
+ BYTE   W24
+ BYTE   PEND 
+//  #02 //001   ----------------------------------------
+Label_01047C11:
+ BYTE   N22  Gs2  v080
+ BYTE   W24
+ BYTE   N11  En3
+ BYTE   W24
+ BYTE   N11
+ BYTE   W24
+ BYTE   PEND 
+//  #02 //002   ----------------------------------------
+ BYTE   PATT
+  POIN2 Label_01047C07
+//  #02 //003   ----------------------------------------
+Label_01047C20:
+ BYTE   N11  Gs2  v080
+ BYTE   W24
+ BYTE   N11
+ BYTE   W12
+ BYTE   An2
+ BYTE   W12
+ BYTE   N22  Gs2
+ BYTE   W24
+ BYTE   PEND 
+Label_01047C2C:
+ BYTE   N22  An2  v080
+ BYTE   W24
+//  #02 //004   ----------------------------------------
+ BYTE   N11  Cs3
+ BYTE   W24
+ BYTE   N11
+ BYTE   W24
+ BYTE   PEND 
+ BYTE   N22  En2
+ BYTE   W24
+ BYTE   N11  Cs3
+ BYTE   W24
+//  #02 //005   ----------------------------------------
+ BYTE   N11
+ BYTE   W24
+ BYTE   N22  Cn3
+ BYTE   W24
+ BYTE   N11  Ds3
+ BYTE   W24
+ BYTE   N11
+ BYTE   W24
+//  #02 //006   ----------------------------------------
+ BYTE   PATT
+  POIN2 Label_01047C20
+//  #02 //007   ----------------------------------------
+ BYTE   PATT
+  POIN2 Label_01047C07
+//  #02 //008   ----------------------------------------
+ BYTE   PATT
+  POIN2 Label_01047C11
+//  #02 //009   ----------------------------------------
+ BYTE   PATT
+  POIN2 Label_01047C07
+//  #02 //010   ----------------------------------------
+ BYTE   PATT
+  POIN2 Label_01047C20
+//  #02 //011   ----------------------------------------
+ BYTE   PATT
+  POIN2 Label_01047C2C
+//  #02 //012   ----------------------------------------
+ BYTE   N22  En2  v080
+ BYTE   W24
+ BYTE   N11  Cn3
+ BYTE   W24
+ BYTE   N11
+ BYTE   W24
+ BYTE   N22  Cs3
+ BYTE   W24
+//  #02 //013   ----------------------------------------
+ BYTE   Gs2
+ BYTE   W24
+ BYTE   En2
+ BYTE   W24
+ BYTE   Cs2
+ BYTE   W72
+//  #02 //014   ----------------------------------------
+ BYTE   An2
+ BYTE   W24
+ BYTE   N11  Cs3
+ BYTE   W24
+ BYTE   An2
+ BYTE   W24
+ BYTE   N22
+ BYTE   W24
+//  #02 //015   ----------------------------------------
+ BYTE   N11  En3
+ BYTE   W24
+ BYTE   An2
+ BYTE   W24
+ BYTE   N22  Gs2
+ BYTE   W24
+ BYTE   N11  En2
+ BYTE   W24
+//  #02 //016   ----------------------------------------
+ BYTE   Gs2
+ BYTE   W24
+ BYTE   N22  Cs3
+ BYTE   W72
+//  #02 //017   ----------------------------------------
+ BYTE   Ds3
+ BYTE   W24
+ BYTE   N11  Gn3
+ BYTE   W24
+ BYTE   Ds3
+ BYTE   W24
+ BYTE   N22  As3
+ BYTE   W24
+//  #02 //018   ----------------------------------------
+ BYTE   N11  Gn3
+ BYTE   W24
+ BYTE   Ds3
+ BYTE   W24
+ BYTE   N22  Cs3
+ BYTE   W24
+ BYTE   N11  Ds3
+ BYTE   W24
+//  #02 //019   ----------------------------------------
+ BYTE   Cs3
+ BYTE   W24
+ BYTE   N22  Cn3
+ BYTE   W24
+ BYTE   N11  Ds3
+ BYTE   W24
+ BYTE   Cn3
+ BYTE   W24
+//  #02 //020   ----------------------------------------
+ BYTE   N22  An2
+ BYTE   W24
+ BYTE   N11  En2
+ BYTE   W24
+ BYTE   An2
+ BYTE   W24
+ BYTE   N22  Cs3
+ BYTE   W24
+//  #02 //021   ----------------------------------------
+ BYTE   N11  Fs3
+ BYTE   W24
+ BYTE   En3
+ BYTE   W24
+ BYTE   N22  Cs3
+ BYTE   W24
+ BYTE   En3
+ BYTE   W24
+//  #02 //022   ----------------------------------------
+ BYTE   Gs3
+ BYTE   W24
+ BYTE   Cs4
+ BYTE   W72
+//  #02 //023   ----------------------------------------
+ BYTE   An2
+ BYTE   N22  En3
+ BYTE   N22  Gn3
+ BYTE   W72
+ BYTE   Gs2
+ BYTE   N22  Cn3
+ BYTE   N22  Ds3
+ BYTE   W72
+//  #02 //024   ----------------------------------------
+ BYTE   W72
+ BYTE   N68  Cs3
+ BYTE   W72
+//  #02 //025   ----------------------------------------
+ BYTE   GoTo
+  POIN2 Label_01047C02
+ BYTE   FINE
+
+//******************************************************//
+	ALIGN 4
+
+song58:
+	BYTE	2	// NumTrks
+	BYTE	0	// NumBlks
+	BYTE	song58_pri	// Priority
+	BYTE	song58_rev	// Reverb.
+    
+	POIN2	song58_grp
+    
+	POIN2	song58_001
+	POIN2	song58_002
+
+	

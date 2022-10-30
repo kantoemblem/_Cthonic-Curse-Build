@@ -1,0 +1,280 @@
+## AphiRetreat
+[OpenMidRight][LoadAphi][CloseEyes][MoveMidRight]Ouch[...!] [OpenEyes]Yeah[...] that's gonna leave[N]
+a mark.[.4] Sorry, everyone,[AN]
+that's about as much as I can[N]
+take for one day[...A][X]
+
+## TedRetreat
+[OpenMidRight][LoadTed][CloseEyes]Ugh[...] that's gonna hurt in the[N]
+morning.[.4] [OpenEyes]I've got to fall back[AN]
+for now.[A][X]
+
+## HexRetreat
+[OpenMidRight][LoadHex][MoveMidRight]Dammit![....] [CloseEyes]They almost have me[...A][N]
+[OpenEyes]I'm not about to fall in a place[N]
+like this[...A][N]
+Sorry, commander, I need to[N]
+fall back.[A][X]
+
+## NateRetreat
+[OpenMidRight][LoadNate][CloseEyes][MoveMidRight]Ouch![....] [OpenEyes]I've never been hit THAT[N]
+hard before[...A][N]
+I'm getting out of here.[A][X]
+
+## MaeRetreat
+[OpenMidRight][LoadMae][CloseEyes]Oof[...!] [OpenEyes]I need to get out of[N]
+here while I can still bend my[A][N]
+bow[...] [CloseEyes]My bad, guys[...A][X]
+
+## JadeRetreat
+[OpenMidRight][LoadJade]That is[...] quite a lot of blood.[.4][N]
+I may experience what I've[AN]
+foreseen for many others[AN]
+if this keeps up.[.4][N]
+Sorry, but I need to leave.[A][X]
+
+## CasimirRetreat
+[OpenMidRight][LoadCasimir]Damn my carelessness![AN]
+My apologies, [CloseEyes]but I[N]
+must retreat[...A][X]
+
+## MordredRetreat
+[OpenMidRight][LoadMordred]I can't fall here[...] [CloseEyes]Too much[...][N]
+I need to protect[...A][N]
+[OpenEyes]I'm going to withdraw[...A][X]
+
+## JamieRetreat
+[OpenMidRight][LoadJamie]A good mercenary knows[N]
+when to pull out.[AN]
+I'm getting out of here![A][X]
+
+## GuinivereRetreat
+[OpenMidRight][LoadGuinivere]This is not my place to die[...!A][N]
+I'm going to fall back.[.4][N]
+[CloseEyes]Good luck, everyone[...!A][X]
+
+## YokoRetreat
+[OpenMidRight][LoadYoko]I was careless[...][N]
+Sorry, but I'm falling back![A][X]
+
+## ChaseRetreat
+[OpenMidRight][LoadChase][CloseEyes]Tch[...] Got careless.[N]
+[OpenEyes]Time to beat feet outta here.[A][X]
+
+## AshleighRetreat
+[OpenMidRight][LoadAshleigh]Damn,[.4] [CloseEyes]they aren't fooling[N]
+around[...A][N]
+[OpenEyes]Time for me to get out of[N]
+here[...A][X]
+
+## SashaRetreat
+[OpenMidRight][LoadSasha][CloseEyes]I can't fight with a wound like[N]
+this[...A][N]
+[OpenEyes]Sorry, but I need to pull back.[A][X]
+
+## ElizabethRetreat
+[OpenMidRight][LoadElizabeth][CloseEyes]One more wound like that[N]
+and I'm history.[AN]
+[HalfCloseEyes][ToggleSmile]Sorry, loves, [OpenEyes][ToggleSmile]but I need[N]
+to retreat.[A][X]
+
+## RyzaRetreat
+[OpenMidRight][LoadRyza][CloseEyes]I know better than to stick[N]
+around when the fight's lost.[AN]
+[OpenEyes]Sorry, boss, I'm scootin'.[A][X]
+
+## DiarmuidRetreat
+[OpenMidRight][LoadDiarmuid][CloseEyes][MoveMidRight]Rgh[...!] [OpenEyes]I ain't dying like this.[N]
+She wouldn't approve.[AN]
+Sorry, but I'm falling back.[A][X]
+
+## LavRetreat
+[OpenMidRight][LoadLav][CloseEyes]Ngh[...] [OpenEyes]I've got more important[N]
+things to do than take a[AN]
+beating like this.[AN]
+Apologies, but I'm going to[N]
+retreat.[A][X]
+
+## OstRetreat
+[OpenMidRight][LoadOst]Oh well this is just terrific[...A][N]
+I'd love to stay and die, but[N]
+I got better things to do than[AN]
+spill my shmutz for you bloody[N]
+Maydaks![A][X]
+
+## ChloeRetreat
+[OpenMidRight][LoadChloe]Graaagh![.4] Dammit![.4] [CloseEyes]Can't keep[N]
+fighting with these injuries[...A][N]
+[OpenEyes]Consider yourselves lucky![A][X]
+
+## RotaRetreat
+[OpenMidRight][LoadRota]Aw, [CloseEyes]fiddlesticks![....] That really[N]
+hurt[...!A][N]
+[OpenEyes]I've never hemorrhaged blood[N]
+like THIS before[...A][N]
+[CloseEyes]I'm gonna retreat now[...A][X]
+
+## IlariaRetreat
+[OpenMidRight][LoadIlaria][MoveMidRight][CloseEyes]Gah[...!] [OpenEyes]I can barely move with a[N]
+wound like this[...]let alone dance![AN]
+Sorry, everyone[...] [CloseEyes]Time to exit[...][N]
+stage left[...A][X]
+
+## FayinaRetreat
+[OpenMidRight][LoadFayina]It's a powerful opponent[N]
+who bests me.[AN]
+I'm falling back for now.[....][N]
+[HalfCloseEyes]Be good, darlings~![A][X]
+
+## ErastusRetreat
+[OpenMidRight][LoadErastus][CloseEyes]I'm just getting in the way[...A][N]
+[OpenEyes]Sorry kids, this old man[N]
+has done about as much[AN]
+as he can for one day[...A][X]
+
+## MarieRetreat
+[OpenMidRight][LoadMarie][CloseEyes][MoveMidRight]Ow[...!] If I don't get outta here, me[N]
+or Martha might kick the pail![AN]
+Sorry, but I gotta go.[A][X]
+
+## UlyRetreat
+[OpenMidRight][LoadUly][CloseEyes]Ugh, what a joke.[.4][N]
+[OpenEyes]I concede victory for now[...A][X]
+
+## DianaRetreat
+[OpenMidRight][LoadDiana][CloseEyes]A fine retort[...A][N]
+[OpenEyes]I won't hold anything[N]
+back next time.[A][X]
+
+## MimiRetreat
+[OpenMidRight][LoadMimi][CloseEyes]That's gonna take a bit to[N]
+stitch back together[...A][N]
+[MoveMidRight][OpenEyes]S-sorry, but I gotta go![A][X]
+
+## MarthRetreat
+[OpenMidRight][LoadMarth][CloseEyes]I overestimated my skills[...][N]
+and now I must retreat[...A][N]
+[OpenEyes]May our comrades from afar[N]
+find a way to bring this land[AN]
+peace[...A][X]
+
+## DogaRetreat
+[OpenMidRight][LoadDoga]To think my armor wasn't[N]
+enough to block that[...A][N]
+[CloseEyes]Forgive me, but I'll retreat[N]
+for now[...A][X]
+
+## GordinRetreat
+[OpenMidRight][LoadGordin][CloseEyes][MoveMidRight]C-curses[...] [OpenEyes]Sorry, everyone.[.4][N]
+I don't want to drag you down[...A][N]
+[CloseEyes]I'll retreat for now[...A][X]
+
+## SilqueRetreat
+[OpenMidRight][LoadSilque][CloseEyes]Forgive me.[.4] [OpenEyes]I desperately[N]
+wish to help, but[...A][N]
+[CloseEyes]I'm afraid I'll no longer be[N]
+of use to you like this.[...A][N]
+[OpenEyes]I must escape to safety.[A][X]
+
+## ForsythRetreat
+[OpenMidRight][LoadForsyth][CloseEyes]Oh dear.[.4] [OpenEyes]I seem to have put[N]
+too much stock in my abilities.[AN]
+I'll get to safety.[N]
+Carry on without me![A][X]
+
+## MidirRetreat
+[OpenMidRight][LoadMidir][CloseEyes]Grr[...] Lady Edain[...A][N]
+[OpenEyes]Forgive me, but I[N]
+must fall back![A][X]
+
+## GalzusRetreat
+[OpenMidRight][LoadGalzus][CloseEyes]Tch[...] [OpenEyes]Being at the mercy of[N]
+an enemy[...] I've fallen so far[...A][X]
+
+## SainRetreat
+[OpenMidRight][LoadSain][CloseEyes]I'm no good to you like this[...][N]
+[OpenEyes]I'll only slow you down![AN]
+I'm sorry, but I[N]
+must retreat![A][X]
+
+## LArachelRetreat
+[OpenMidRight][LoadLArachel][MoveMidRight]Foul beast![.4] Once I recover[N]
+from my wounds,[AN]
+you shall meet your[N]
+end by my staff![A][X]
+
+## NepheneeRetreat
+[OpenMidRight][LoadNeph][CloseEyes]No[...]I cannot[...]rrgh[...] [OpenEyes]Sorry, y'all[...A][N]
+I best high-tail it outta[N]
+here while I still can[...A][X]
+
+## BasilioRetreat
+[OpenMidRight][LoadBasilio][CloseEyes]Damn[...] Pushed my luck too far[...A][N]
+[OpenEyes]Sorry, all, but this oaf[N]
+must withdraw[...A][X]
+
+## OwainRetreat
+[OpenMidRight][LoadOwain]Though it goes against every[N]
+instinct in my body,[AN]
+[CloseEyes]I fear I must retreat[...A][X]
+
+## CynthiaRetreat
+[OpenMidRight][LoadCynthia][CloseEyes]Oh, crackers[...] [OpenEyes]I hate to do[N]
+this, but I'm done for the day.[AN]
+[ToggleSmile]Good luck![A][X]
+
+## NinaRetreat
+[OpenMidRight][LoadNina]I don't stand a chance in this[N]
+fight![AN]
+But at least I can sneak off[...A][X]
+
+## FerdinandRetreat
+[OpenMidRight][LoadFerdinand]I cannot die here.[.4][N]
+[CloseEyes]For now I must retreat.[A][X]
+
+## AsheRetreat
+[OpenMidRight][LoadAshe]I-I can't fight anymore[...][N]
+[CloseEyes][...]Must retreat while I can.[A][X]
+
+## LysitheaRetreat
+[OpenMidRight][LoadLysithea]Seems[...]I may have[...][N]
+[CloseEyes]underestimated the enemy.[A][X]
+
+## ConstanceRetreat
+[OpenMidRight][LoadConstance]No, the time cannot be now.[AN]
+There is so much yet to[N]
+accomplish[...A][N]
+I have a house to restore![A][X]
+
+## ConstanceRetreat2
+[OpenMidRight][LoadConstanceSad]This is it?[.4] It is over now?[AN]
+[CloseEyes]I suppose I shall return to the[N]
+darkness and brood.[A][X]
+
+## JeritzaRetreat
+[OpenMidRight][LoadJeritza]I've indulged too much.[.....][N]
+I take my leave.[.4] For now.[A][X]
+
+## JunpeiRetreat
+[OpenMidRight][LoadDaMan]I ain't dyin' here.[.4] [CloseEyes]It's not just[N]
+me I gotta worry about now[...A][N]
+[OpenEyes]Sorry,[.4] I need to retreat.[A][X]
+
+## DunbanRetreat
+[OpenMidRight][LoadDunban][CloseEyes]Was this the wrong[...] tactical[N]
+decision?[AN]
+[OpenEyes]I need to fall back, now![A][X]
+
+## ZekeRetreat
+[OpenMidRight][LoadZeke]Damn![....] [CloseEyes]These blighters are[N]
+bloody intense.[A][CloseSpeechSlow][ClearFace][LoadPandoria][MoveMidRight]My Prince![.4] This looks bad,[N]
+I can't lose you![A][CloseSpeechSlow][ClearFace][LoadZeke][CloseEyes]Yeah[...] [OpenEyes]I'm jolly sorry to do this,[AN]
+but the Zekenator needs[N]
+to make a[...] tactical retreat![A][X]
+
+## ZekeRetreat2
+[OpenMidRight][LoadZeke]Damn![....] [CloseEyes]These blighters are[N]
+bloody intense.[A][CloseSpeechSlow][ClearFace][LoadPandoria2][MoveMidRight]My Prince![.4] This looks bad,[N]
+I can't lose you![A][CloseSpeechSlow][ClearFace][LoadZeke][CloseEyes]Yeah[...] [OpenEyes]I'm jolly sorry to do this,[AN]
+but the Zekenator needs[N]
+to make a[...] tactical retreat![A][X]

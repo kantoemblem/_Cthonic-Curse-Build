@@ -36,10 +36,10 @@ BYTE $F8 $67 $FF $7F $19 $5F $52 $42 $A5 $14 $7F $13 $18 $00 $A2 $71 $EE $49 $D6
 POP 
 
 //Weapon Icon Palette
-PUSH
-ORG 0x599714 //Weapon Icon Palette
-BYTE $F8 $67 $84 $10 $EF $3D $29 $25 $C6 $18 $B1 $19 $BB $04 $FF $11 $BE $3B $DE $7F $56 $16 $E3 $0A $EF $4B $E2 $7D $4A $59 $36 $7B
-POP
+//PUSH
+//ORG 0x599714 //Weapon Icon Palette
+//BYTE $F8 $67 $84 $10 $EF $3D $29 $25 $C6 $18 $B1 $19 $BB $04 $FF $11 $BE $3B $DE $7F $56 $16 $E3 $0A $EF $4B $E2 $7D $4A $59 $36 $7B
+//POP
 
 //Arrow palette
 PUSH

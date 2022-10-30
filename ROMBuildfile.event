@@ -14,7 +14,7 @@
     MESSAGE Used table space ends at currentOffset
 
 	//Extra Stuff/Table add-ons
-	#include Tables/NightmareModules/CharactersClasses/SupportBonuses.event
+	#include "Tables/NightmareModules/CharactersClasses/SupportBonuses.event"
 	#include "Tables/NightmareModules/CharactersClasses/MovementCosts.event"
 	#include "Tables/NightmareModules/hardcoding.event"
 	#include "Tables/NightmareModules/Items/StatBoosts.event"
@@ -32,6 +32,8 @@
 	
 	//Graphics
 	#include "Graphics/GraphicsInstaller.event"
+	#include "Tables/NightmareModules/BattlePaletteEditors/FE8 Palette Association Editor.event"
+	#include "Tables/NightmareModules/BattlePaletteEditors/FE8 Palette Association Editor Part 2.event"
 
     //Maps
     #include "Maps/MasterMapInstaller.event"

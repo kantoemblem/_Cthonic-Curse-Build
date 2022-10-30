@@ -1,22 +1,23 @@
 ## BenDeath
-[OpenRight][LoadBen]I felt that more than I[NL]
+[OpenRight][LoadBenSad]I felt that more than I[NL]
 should've[...] Sorry, everyone[...A][NL]
 [CloseEyes]I'm done for[...][A][X]
 
 ## ZoDeath
-[OpenRight][LoadZo]N-no[...] I can't[...] go on.[NL] 
+[OpenRight][LoadZoSad]N-no[...] I can't[...] go on.[NL]
 Everyone, [CloseEyes]I'm sorry[...A][X]
 
 ## AphiDeath
-[OpenRight][LoadAphi][CloseEyes]Oof[...] Sorry guys, I need[NL]
+[OpenRight][LoadAphi][CloseEyes]Oof[...] [OpenEyes]Sorry guys, I need[NL]
 to pull back, else I'll die.[A][NL]
 See ya[...A][X]
 
 ## TedDeath
-[OpenMidRight][LoadTed]Mona can't take much[NL]
-more of this, and soon[ANL]
-neither will I.[....] I have to[NL]
-retreat while I still can.[A][X]
+[OpenMidRight][LoadTed]Mona can't take much more[N]
+of this.[AN]
+[CloseEyes]And soon neither will I.[AN]
+I have to retreat while I[N]
+still can![A][X]
 
 ## HexDeath
 [OpenMidRight][LoadHex]Gah[...] You can break me[...][NL]
@@ -28,7 +29,7 @@ Get out of here![....] Fall back![A][CloseSpeechSlow][ClearFace][OpenMidRight][L
 careless now.[A][X]
 
 ## NateDeath
-[OpenMidRight][LoadNate][CloseEyes]Urgh[...] [OpenEyes]N-No[...!] Sorry bro,[NL]
+[OpenMidRight][LoadNate][CloseEyes]Urgh[...] N-No[...!] [OpenEyes]Sorry bro,[NL]
 but I've gotta pull back![A][X]
 
 ## MaeDeath
@@ -37,9 +38,9 @@ but I've gotta pull back![A][X]
 my legs give out[...] Good luck[...!][A][X]
 
 ## NanaDeath
-[OpenMidRight][LoadNana]Rrrgh[...!] Damn you![NL]
-YOU'LL PAY FOR THAT![A][CloseSpeechSlow][ClearFace][OpenMidRight][LoadBenMad]Nana![....] Get out of here![A][NL]
-Now![A][CloseSpeechSlow][ClearFace][OpenMidRight][LoadNana][CloseEyes]Ugh[...][HalfCloseEyes]Fine! [ToggleSmile]Good luck,[NL]
+[OpenMidRight][LoadNana][MoveMidRight][MoveMidRight]Rrrgh[...!] Damn you![NL]
+[MoveMidRight]YOU'LL PAY FOR THAT![A][CloseSpeechSlow][ClearFace][OpenMidRight][LoadBenMad]Nana![....] Get out of here![A][NL]
+[MoveMidRight]Now![A][CloseSpeechSlow][ClearFace][OpenMidRight][LoadNana][CloseEyes]Ugh[...][MoveMidRight]Fine![....] [ToggleSmile][OpenEyes]Good luck,[NL]
 guys!~[A][X]
 
 ## JadeDeath
@@ -58,7 +59,7 @@ is through[...A][CloseEyes][X]
 ## MordredDeath
 [OpenMidRight][LoadMordred]No![....] [CloseEyes]I-It's not[...] supposed to[NL]
 end[...]like this[...] [OpenEyes]Guinevere[...A][NL]
-I'm so sorry[...A][CloseEyes][X]
+[CloseEyes]I'm so sorry[...A][X]
 
 ## JamieDeath
 [OpenMidRight][LoadJamie]Looks like my luck[...][NL]
@@ -71,7 +72,7 @@ Stay[...] [CloseEyes]strong[...A][X]
 ## YokoDeath
 [OpenMidRight][LoadYoko][CloseEyes]How could I have been so[NL]
 careless?[....] [OpenEyes]I'm sorry,[ANL]
-[CloseEyes]but I can't afford to fall here[...][NL]
+[CloseEyes]but I can't fall here[...][NL]
 [OpenEyes]I'm going to retreat[NL]
 while I still can![A][X]
 
@@ -85,14 +86,14 @@ would end[...][CloseEyes]like this[...A][X]
 
 ## SashaDeath
 [OpenMidRight][LoadSasha][CloseEyes]Perhaps in death[...] I'll find[NL]
-my answer[...] [OpenEyes]Ryza[...] Elizabeth[...A][NL]
-I'm sorry[...A][CloseEyes][X]
+my answer[...] Ryza[...] Elizabeth[...A][NL]
+I'm sorry[...A][X]
 
 ## ElizabethDeath
 [OpenMidRight][LoadLiz]Damn[...] Really mucked that[NL]
 one up[...A][NL]
 Sorry[...]darling.[....] This is where[NL]
-we[...]part ways[...A][X]
+we[...][CloseEyes]part ways[...A][X]
 
 ## RyzaDeath
 [OpenMidRight][LoadRyza]I think my time[...]is up[...A][NL]
@@ -109,28 +110,32 @@ Guess it makes sense that[NL]
 I'd[...] eventually die[...] [CloseEyes]too[...A][X]
 
 ## OstravaDeath
-[OpenMidRight][LoadOstrava]So that's how it goes[...] what a[NL]
-shameful ending[...] [CloseEyes]to our story[...A][X]
+[OpenMidRight][LoadOstrava][CloseEyes]So that's how it goes[...][ANL]
+What a shameful ending[...][NL]
+to our story[...A][X]
 
 ## ChloeDeath
-[OpenMidRight][LoadChloe]This is[...] [CloseEyes]what I deserve[...] aye[...A][X]
+[OpenMidRight][LoadChloe]This[...] is it, huh[...?] [ToggleSmile][CloseEyes]Heheh[...A][N]
+I know[...] my comrades will[N]
+avenge me[...A][N]
+[OpenEyes]You best start running[...A][X]
 
 ## RotaDeath
 _[X]
 
 ## IlariaDeath
-[OpenMidRight][LoadIlaria]Wh-what a shame[...] We hadn't[NL]
+[OpenMidRight][LoadIlaria]Wh-what a shame[...] [CloseEyes]We hadn't[NL]
 even reached[...]the climax[...A][X]
 
 ## FayinaDeath
 [OpenMidRight][LoadFayina][CloseEyes]Gah[...!] [OpenEyes]Can't do much about[NL]
-that[...] Sorry[...] Danica[...A][NL]
-This is[...] farewell[...A][CloseEyes][X]
+that[...] Sorry[...] [CloseEyes]Danica[...A][NL]
+This is[...] farewell[...A][X]
 
 ## ErastusDeath
-[OpenMidRight][LoadErastus]To fall here would be foolish[...][NL]
+[OpenMidRight][LoadErastus][CloseEyes]To fall here would be foolish[...][NL]
 I've a village to protect.[ANL]
-Sorry, everyone.[....] I need to[NL]
+[OpenEyes]Sorry, everyone.[....] I need to[NL]
 pull back[...!A][CloseEyes][X]
 
 ## MarieDeath
@@ -162,7 +167,7 @@ but to retreat[...A][CloseEyes][X]
 [OpenMidRight][LoadSilque]Mother Mila,[....] my spirit is yours[NL]
 again[...] Do with it as you will.[ANL]
 I only ask you keep my friends[...][NL]
-safe from harm[...A][CloseEyes][X]
+[CloseEyes]safe from harm[...A][X]
 
 ## ForsythDeath
 [OpenMidRight][LoadForsyth]It appears I'm done for[...A][NL]
@@ -174,16 +179,11 @@ Forgive me[...][NL]
 [CloseEyes]I'm so sorry[...A][CloseEyes][X]
 
 ## GalzusDeath
-[OpenMidRight][LoadGalzus][CloseEyes]Ugh[...] [OpenEyes]Mareeta[...] I'm[...A][CloseEyes][X]
+[OpenMidRight][LoadGalzus][CloseEyes]Ugh[...] Mareeta[...] I'm[...A][CloseEyes][X]
 
 ## SainDeath
 [OpenMidRight][LoadSain]Ah[...] What a shame[...] I[...][NL]
 was[...] [CloseEyes]so happy[...A][X]
-
-## BoydDeath
-[OpenMidRight][LoadBoyd]Blast![....] [CloseEyes]I'm not[...A][NL]
-I'm not supposed to[...][NL] 
-Oscar[...] Rolf[...] [CloseEyes]Forgive[...]me.[A][CloseEyes][X]
 
 ## NepheneeDeath
 [OpenMidRight][LoadNeph][HalfCloseEyes]The world[...] It grows[...][NL]
@@ -196,19 +196,15 @@ and I ain't wastin' it[...A][NL]
 Sorry, but I'm gone![A][X]
 
 ## OwainDeath
-[OpenMidRight][LoadOwain]Argh[...] I see the Stygian dark[...][NL]
-C-Can't feel my[...]sword hand[...A][CloseEyes][X]
+[OpenMidRight][LoadOwain]Argh[...] [CloseEyes]I see the Stygian dark[...][NL]
+C-Can't feel my[...]sword hand[...A][X]
 
 ## CynthiaDeath
 [OpenMidRight][LoadCynthia]I just[...] [CloseEyes]wanted to be a hero[...A][CloseEyes][X]
 
-## OrochiDeath
-[OpenMidRight][LoadOrochi]So the death[...]I foresaw this[NL]
-morning[...] was my own[...A][X]
-
 ## NinaDeath
-[OpenMidRight][LoadNina]Now my dreams will never[NL]
-come true[...A][CloseEyes][X]
+[OpenMidRight][LoadNina][CloseEyes]Now my dreams will never[NL]
+come true[...A][X]
 
 ## FerdinandDeath
 [OpenMidRight][LoadFerdinand]This is as far as I go[...][NL]
@@ -230,15 +226,20 @@ achievement[...A][X]
 
 ## ConstanceDeathTwo
 [OpenMidRight][LoadConstanceSad]Will anyone remember all that I[NL]
-worked for?[....] All that I tried for?[ANL]
-[CloseEyes]Perhaps I shall go unmourned[...A][X]
+worked for?[....] All that I tried[ANL]
+for?[....] [CloseEyes]Perhaps I shall go[N]
+unmourned[...A][X]
+
+## JeritzaDeath
+[OpenMidRight][LoadJeritza][CloseEyes]If only I could return to those[N]
+days once more[...A][X]
 
 ## JunpeiDeath
-[OpenMidRight][LoadDaMan]Man[...] I guess this is it huh?[.4][NL] 
+[OpenMidRight][LoadDaMan]Man[...] I guess this is it huh?[.4][NL]
 [CloseEyes]Chidori[...A][X]
 
 ## ZekeDeath
 [OpenMidRight][LoadZeke]You guys just[...] [CloseEyes]clean up here[...A][X]
 
 ## DunbanDeath
-[OpenMidRight][LoadDunbanOverThere]This can't be[...A][X]
+[OpenMidRight][LoadDunbanOverThere][CloseEyes]This can't be[...A][X]

@@ -2,6 +2,7 @@
 #include "Mugs/MugInstaller.event"
 #include "Animations/AnimationReference.event"
 #include "Animations/Master_Animation_Installer.event"
+#include "Palettes/Palette Setup.event"
 #include "MapSprites/MapSpriteInstaller.event"
 #include "ItemIcons/ItemIconInstaller.event"
 #include "SystemIconInstaller.event"

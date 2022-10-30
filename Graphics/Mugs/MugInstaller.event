@@ -34,7 +34,7 @@ setMugEntry(0x8, Aphi_GoStupid,3,5,3,3)
 
 Ted_Mug:
 #incext PortraitFormatter "Playables/1Ted.png"
-setMugEntry(0x9, Ted_Mug,3,5,3,3)
+setMugEntry(0x9, Ted_Mug,3,4,3,2)
 
 Hex_Mug:
 #incext PortraitFormatter "Playables/1Hex.png"
@@ -66,7 +66,7 @@ setMugEntry(0x10, Mordred_Mug,2,5,3,3)
 
 Jamie_Mug:
 #incext PortraitFormatter "Playables/1Jamie.png"
-setMugEntry(0x11, Jamie_Mug,2,6,3,4)
+setMugEntry(0x11, Jamie_Mug,3,5,3,3)
 
 Guin_Mug:
 #incext PortraitFormatter "Playables/1Guinivere.png"
@@ -82,11 +82,11 @@ setMugEntry(0x14, Chase_Mug,3,6,3,4)
 
 Ashleigh_Mug:
 #incext PortraitFormatter "Playables/1Ashleigh.png"
-setMugEntry(0x15, Ashleigh_Mug,2,5,3,3)
+setMugEntry(0x15, Ashleigh_Mug,2,6,2,4)
 
-//Sasha_Mug:
-//#incext PortraitFormatter "Playables/1Sasha.png"
-//setMugEntry(0x16, Sasha_Mug,3,5,3,3)
+Sasha_Mug:
+#incext PortraitFormatter "Playables/1Sasha.png"
+setMugEntry(0x16, Sasha_Mug,3,5,3,3)
 
 Elizabeth_Mug:
 #incext PortraitFormatter "Playables/1Elizabeth.png"
@@ -138,7 +138,7 @@ setMugEntry(0x22, Larachel_Mug,2,6,3,4)
 
 Erastus_Mug:
 #incext PortraitFormatter "Playables/1Erastus.png"
-setMugEntry(0x23, Erastus_Mug,2,5,2,3)
+setMugEntry(0x23, Erastus_Mug,2,4,2,2)
 
 Marie_Mug:
 #incext PortraitFormatter "Playables/1Marie.png"
@@ -182,71 +182,69 @@ setMugEntry(0x2D, Midir_Mug,3,5,3,3)
 
 Galzus_Mug:
 #incext PortraitFormatter "Playables/2Galzus.png"
-setMugEntry(0x2E, Galzus_Mug,2,5,3,3)
+setMugEntry(0x2E, Galzus_Mug,3,5,3,3)
 
 Sain_Mug:
 #incext PortraitFormatter "Playables/2Sain.png"
 setMugEntry(0x2F, Sain_Mug,2,5,3,3)
 
-Boyd_Mug:
-#incext PortraitFormatter "Playables/2Boyd.png"
-setMugEntry(0x30, Boyd_Mug,3,5,3,3)
-
 Neph_Mug:
 #incext PortraitFormatter "Playables/2Nephenee.png"
-setMugEntry(0x31, Neph_Mug,3,5,3,3)
+setMugEntry(0x30, Neph_Mug,3,5,3,3)
 
 Basilio_Mug:
 #incext PortraitFormatter "Playables/2Basilio.png"
-setMugEntry(0x32, Basilio_Mug,2,4,2,2)
+setMugEntry(0x31, Basilio_Mug,2,4,2,2)
 
 Owain_Mug:
 #incext PortraitFormatter "Playables/2Owain.png"
-setMugEntry(0x33, Owain_Mug,2,6,3,4)
+setMugEntry(0x32, Owain_Mug,2,6,3,4)
 
 Cynthia_Mug:
 #incext PortraitFormatter "Playables/2Cynthia.png"
-setMugEntry(0x34, Cynthia_Mug,2,5,3,3)
-
-Orochi_Mug:
-#incext PortraitFormatter "Playables/2Orochi.png"
-setMugEntry(0x35, Orochi_Mug,3,6,3,4)
+setMugEntry(0x33, Cynthia_Mug,2,5,3,3)
 
 Nina_Mug:
 #incext PortraitFormatter "Playables/2Nina.png"
-setMugEntry(0x36, Nina_Mug,4,6,4,4)
+setMugEntry(0x34, Nina_Mug,4,6,4,4)
 
 FerdinandVonAegir_Mug:
 #incext PortraitFormatter "Playables/2Ferdinand.png"
-setMugEntry(0x37, FerdinandVonAegir_Mug,2,5,3,3)
+setMugEntry(0x35, FerdinandVonAegir_Mug,2,5,3,3)
 
 Ashe_Mug:
 #incext PortraitFormatter "Playables/2Ashe.png"
-setMugEntry(0x38, Ashe_Mug,3,5,3,3)
+setMugEntry(0x36, Ashe_Mug,3,5,3,3)
 
 Lysithea_Mug:
 #incext PortraitFormatter "Playables/2Lysithea.png"
-setMugEntry(0x39, Lysithea_Mug,2,6,2,4)
+setMugEntry(0x37, Lysithea_Mug,2,6,2,4)
 
 Constance_Mug:
 #incext PortraitFormatter "Playables/2Constance.png"
-setMugEntry(0x3A, Constance_Mug,2,6,2,4)
+setMugEntry(0x38, Constance_Mug,2,6,2,4)
 
 //Constance_Sad:
 //#incext PortraitFormatter "Playables/2ConstanceSad.png"
-//setMugEntry(0x3B, Constance_Sad,2,6,2,4)
+//setMugEntry(0x39, Constance_Sad,2,6,2,4)
+
+//Jeritza_Mug
+//#incext PortraitFormatter "Playables/2Jeritza.png"
+//setMugEntry(0x3A, Jeritza_Mug,2,6,2,4)
 
 DaMan_Mug:
 #incext PortraitFormatter "Playables/2TADADADATADADADATADADADATADADADATADADADATADADADATADADADATADADADATADADADATADADADATADADADATADADADATADADADA.png"
-setMugEntry(0x3C, DaMan_Mug,2,5,2,3)
+setMugEntry(0x3B, DaMan_Mug,2,5,2,3)
+
+ZekeVonGenbu_Mug:
+#incext PortraitFormatter "Playables/2ZekeVonGenbu.png"
+setMugEntry(0x3C, ZekeVonGenbu_Mug,3,5,3,3)
 
 DunbanOverThere_Mug:
 #incext PortraitFormatter "Playables/2ThatsDunbanOverThere.png"
 setMugEntry(0x3D, DunbanOverThere_Mug,2,4,2,2)
 
-ZekeVonGenbu_Mug:
-#incext PortraitFormatter "Playables/2ZekeVonGenbu.png"
-setMugEntry(0x3E, ZekeVonGenbu_Mug,3,5,3,3)
+
 
 //////////////////////////////
 
@@ -335,9 +333,9 @@ Mae_Bloosh:
 #incext PortraitFormatter "Playables/Alts/1MaeBloosh.png"
 setMugEntry(0x115, Mae_Bloosh,3,5,3,3)
 
-//Jamie_Flip:
-//#incext PortraitFormatter "Playables/Alts/1JamieFlip.png"
-//setMugEntry(0x116, Elizabeth_Mug,2,5,3,3)
+Jamie_Flip:
+#incext PortraitFormatter "Playables/Alts/1JamieFlipped.png"
+setMugEntry(0x116, Elizabeth_Mug,3,5,3,3)
 
 //Elizabeth_Flip:
 //#incext PortraitFormatter "Playables/Alts/1ElizabethFlip.png"

@@ -1,7 +1,7 @@
 INLINE MiscMapSprites,Animation pointer,Another pointer
 Commander,CommanderMove|0x8000000,0x81c3d7c
 Tactician,TacticianMove|IsPointer,0x81c3d7c
-Acolyte,MageFMove|IsPointer,0x81D8668
+Acolyte,AcolyteMove|IsPointer,0x81c3d7c
 Chaos Bringer,CommanderMove|0x8000000,0x81c5e84
 Truth Bringer,TacticianMove|IsPointer,0x81c692c
 Mage Fighter,SageFMove|IsPointer,0x81c692c
@@ -100,7 +100,7 @@ Slugger,CommanderMove|0x8000000,0x81C3D7C
 Driver,CommanderMove|0x8000000,0x81C3D7C
 Duelist,CommanderMove|0x8000000,0x81C3D7C
 Lodestar,CommanderMove|0x8000000,0x81C3D7C
-Demon King,0x81fbfbc,0x81fd028
+Demon King,Bye_Jacob|IsPointer,0x81C3D7C
 Archer on Ballista,0x81fd180,0x81fd808
 Archer on Iron Ballista,0x81fd960,0x81fdfe8
 Archer on Killer Ballista,0x81fe140,0x81fe7c8

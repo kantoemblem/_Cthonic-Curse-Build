@@ -92,9 +92,8 @@
 #define Uly Ulyaoth
 #define Diana 0x1F
 #define Mimi 0x20
-#define Mimir Mimi
 #define Marth 0x21
-#define Mars
+#define Mars Marth
 #define Draug 0x22
 #define Doga Draug
 #define Gordin 0x23
@@ -103,25 +102,25 @@
 #define Midir 0x26
 #define Galzus 0x27
 #define Sain 0x28
-#define Boyd 0x29
-#define Nephenee 0x2A
-#define Basilio 0x2B
-#define Owain 0x2C
-#define Cynthia 0x2D
-#define Orochi 0x2E
-#define Nina 0x2F
+#define Nephenee 0x29
+#define Basilio 0x2A
+#define Owain 0x2B
+#define Cynthia 0x2C
+#define Nina 0x2D
 #define Fujoshi Nina
 #define Fujo Fujoshi
-#define Ferdinand 0x30
+#define Ferdinand 0x2E
 #define FerdinandVonAegir Ferdinand
-#define Ashe 0x31
-#define Lysithea 0x32
-#define Constance 0x33
-#define Junpei 0x34
+#define Ashe 0x2F
+#define Lysithea 0x30
+#define Constance 0x31
+#define Jeritza 0x32
+#define DeathKnight Jeritza
+#define Junpei 0x33
 #define DaMan Junpei
-#define Zeke 0x35
+#define Zeke 0x34
 #define ZekeVonGenbuBringerOfChaos Zeke
-#define Dunban 0x36
+#define Dunban 0x35
 #define DunbanOverThere Dunban
 
 //Class Definitions 
@@ -207,7 +206,7 @@
 #define Druid 0x50
 #define Phantom 0x51
 #define DruidF 0x52
-#define Mimi 0x53
+#define Mimir 0x53
 #define Monk 0x54
 #define Priest 0x55
 #define ClericG 0x56

@@ -1,0 +1,2151 @@
+//Event file generated from Sappy .s format.
+	#include "MPlayDef.event"
+
+	#define	song3F_grp  voicegroup000
+	#define	song3F_pri  0
+	#define	song3F_rev  0
+	#define	song3F_mvl  127
+	#define	song3F_key  0
+	#define	song3F_tbs  1
+	#define	song3F_exg  0
+	#define	song3F_cmp  1
+
+	// .rodata
+	//	song3F
+	ALIGN 4
+
+
+//**************** Track 1 (Midi-Chn.0) ****************//
+
+song3F_001:
+//  #01 //000   ----------------------------------------
+ BYTE   KEYSH   song3F_key+0
+ BYTE   TEMPO   94*song3F_tbs/2
+ BYTE   VOICE   41
+ BYTE   PAN   c_v-20
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   N23  Fn3  v096
+ BYTE   N23  Fn4  v073
+ BYTE   W01
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   42*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   N90  Ds3  v093
+ BYTE   N90  Ds4  v070
+ BYTE   W01
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   42*song3F_mvl/mxv
+ BYTE   W19
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W04
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W01
+//  #01 //001   ----------------------------------------
+ BYTE   W02
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   22*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   TEMPO   86*song3F_tbs/2
+ BYTE   N44  Cn3  v062  gtp3
+ BYTE   N42  Ds3  v074  gtp1
+ BYTE   W06
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W04
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   42*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   N44  Cn3  v062  gtp3
+ BYTE   N44  Ds3  v074  gtp1
+ BYTE   W14
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W04
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W01
+//  #01 //002   ----------------------------------------
+ BYTE   W04
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   N44  Cn3  v063  gtp3
+ BYTE   N44  Ds3  v075
+ BYTE   W08
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   42*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   N44  Bn2  v062  gtp3
+ BYTE   N44  Dn3  v078  gtp1
+ BYTE   W14
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W04
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W01
+//  #01 //003   ----------------------------------------
+ BYTE   W03
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W01
+Label_012A7659:
+ BYTE   N44  Cn3  v075  gtp3
+ BYTE   N44  Ds3  v090  gtp1
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W15
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   N44  Cn3  v077  gtp3
+ BYTE   Ds3  v094
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W03
+//  #01 //004   ----------------------------------------
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   42*song3F_mvl/mxv
+ BYTE   W12
+ BYTE   N44  Cn3  v077  gtp3
+ BYTE   N48  Fn3  v092
+ BYTE   W17
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W04
+ BYTE   TEMPO   82*song3F_tbs/2
+ BYTE   N92  As2  v076  gtp1
+ BYTE   N22  Ds3  v094
+ BYTE   W02
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   TEMPO   80*song3F_tbs/2
+ BYTE   W05
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W01
+//  #01 //005   ----------------------------------------
+ BYTE   TEMPO   78*song3F_tbs/2
+ BYTE   N23  Dn3  v093
+ BYTE   W02
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   TEMPO   76*song3F_tbs/2
+ BYTE   W02
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   42*song3F_mvl/mxv
+ BYTE   W08
+ BYTE   TEMPO   72*song3F_tbs/2
+ BYTE   N24  Cn3  v095  gtp2
+ BYTE   W11
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   TEMPO   70*song3F_tbs/2
+ BYTE   W05
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   TEMPO   68*song3F_tbs/2
+ BYTE   N22  Dn3
+ BYTE   W02
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   TEMPO   64*song3F_tbs/2
+ BYTE   W01
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   TEMPO   86*song3F_tbs/2
+ BYTE   N44  Cn3  v062  gtp3
+ BYTE   N42  Ds3  v074  gtp1
+ BYTE   W09
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W03
+//  #01 //006   ----------------------------------------
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   42*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   N44  Cn3  v062  gtp3
+ BYTE   N44  Ds3  v074  gtp1
+ BYTE   W14
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W04
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   N44  Cn3  v063  gtp3
+ BYTE   N44  Ds3  v075
+ BYTE   W08
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W01
+//  #01 //007   ----------------------------------------
+ BYTE   W02
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   42*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   N44  Bn2  v062  gtp3
+ BYTE   N44  Dn3  v078  gtp1
+ BYTE   W15
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   GoTo
+  POIN2 Label_012A7659
+//  #01 //008   ----------------------------------------
+ BYTE   W02
+ BYTE   FINE
+
+//**************** Track 2 (Midi-Chn.1) ****************//
+
+song3F_002:
+//  #02 //000   ----------------------------------------
+ BYTE   KEYSH   song3F_key+0
+ BYTE   VOICE   105
+ BYTE   PAN   c_v+19
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   N23  As2  v109
+ BYTE   N23  Gs3  v076
+ BYTE   W01
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   42*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   45*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   49*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   54*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   59*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   58*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   57*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   55*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   53*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   48*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   47*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   45*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   N90  Gn2  v104
+ BYTE   N90  Ds3  v087
+ BYTE   W01
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   42*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   44*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   45*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   47*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   48*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   50*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   54*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   56*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   58*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   60*song3F_mvl/mxv
+ BYTE   W16
+ BYTE   VOL   59*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   58*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   57*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   56*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   55*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   54*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   53*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   50*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   49*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   47*song3F_mvl/mxv
+ BYTE   W01
+//  #02 //001   ----------------------------------------
+ BYTE   W01
+ BYTE   VOL   46*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   44*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   42*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   21*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   17*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   12*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   7*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   0*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   TIE  Ds2  v072
+ BYTE   TIE  Gn2
+ BYTE   W06
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   42*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   43*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   44*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   45*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   46*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   47*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   48*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   49*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   50*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   W03
+//  #02 //002   ----------------------------------------
+ BYTE   VOL   53*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   54*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   55*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   57*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   60*song3F_mvl/mxv
+ BYTE   W23
+ BYTE   VOL   59*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   58*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   57*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   56*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   55*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   EOT
+ BYTE   Ds2
+ BYTE   W01
+ BYTE   N44  Dn2  v066  gtp3
+ BYTE   W02
+ BYTE   VOL   54*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   53*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   51*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   50*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   49*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   48*song3F_mvl/mxv
+ BYTE   W01
+//  #02 //003   ----------------------------------------
+ BYTE   W02
+ BYTE   VOL   47*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   46*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   45*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   43*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   EOT
+ BYTE   Gn2
+Label_012A7898:
+ BYTE   N92  Ds2  v066  gtp3
+ BYTE   Gn2  v072
+ BYTE   W10
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W12
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   42*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   43*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   44*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   45*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   46*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   47*song3F_mvl/mxv
+ BYTE   W02
+//  #02 //004   ----------------------------------------
+ BYTE   W04
+ BYTE   VOL   48*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   49*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   51*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   54*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   55*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   57*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   N44  Fn2  v067  gtp3
+ BYTE   N48  Gs2  v067  gtp1
+ BYTE   W01
+ BYTE   VOL   59*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   60*song3F_mvl/mxv
+ BYTE   W44
+ BYTE   W02
+ BYTE   N24  Ds2  v068
+ BYTE   N90  Fn2
+ BYTE   W10
+ BYTE   VOL   59*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   58*song3F_mvl/mxv
+ BYTE   W05
+//  #02 //005   ----------------------------------------
+ BYTE   N24  Dn2
+ BYTE   W01
+ BYTE   VOL   57*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   56*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   55*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   54*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   N24  Cn2
+ BYTE   W04
+ BYTE   VOL   53*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   51*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   50*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   49*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   48*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   N24  Dn2  v063
+ BYTE   W01
+ BYTE   VOL   47*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   46*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   45*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   44*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   42*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   TIE  Ds2  v072
+ BYTE   TIE  Gn2
+ BYTE   W06
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W06
+//  #02 //006   ----------------------------------------
+ BYTE   W03
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   42*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   43*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   44*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   45*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   46*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   47*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   48*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   49*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   50*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   53*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   54*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   55*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   57*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   60*song3F_mvl/mxv
+ BYTE   W23
+ BYTE   VOL   59*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   58*song3F_mvl/mxv
+ BYTE   W04
+//  #02 //007   ----------------------------------------
+ BYTE   W05
+ BYTE   VOL   57*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   56*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   55*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   EOT
+ BYTE   Ds2
+ BYTE   W01
+ BYTE   N44  Dn2  v066  gtp3
+ BYTE   W02
+ BYTE   VOL   54*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   53*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   51*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   50*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   49*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   48*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   47*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   46*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   45*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   43*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   EOT
+ BYTE   Gn2
+ BYTE   GoTo
+  POIN2 Label_012A7898
+//  #02 //008   ----------------------------------------
+ BYTE   W02
+ BYTE   FINE
+
+//**************** Track 3 (Midi-Chn.2) ****************//
+
+song3F_003:
+//  #03 //000   ----------------------------------------
+ BYTE   KEYSH   song3F_key+0
+ BYTE   VOICE   49
+ BYTE   PAN   c_v+17
+ BYTE   N23  Gs3  v096
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   N90  Ds3  v088
+ BYTE   W06
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W16
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W01
+//  #03 //001   ----------------------------------------
+ BYTE   W01
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   21*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   19*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   17*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   14*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   12*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   8*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   5*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   N44  Cn3  v070  gtp3
+ BYTE   W10
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W15
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   N44  As2  v070  gtp3
+ BYTE   W04
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W02
+//  #03 //002   ----------------------------------------
+ BYTE   W01
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W21
+ BYTE   N44  Gs2  v070  gtp3
+ BYTE   W14
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W15
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   N44  Gn2  v071  gtp3
+ BYTE   W08
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W04
+//  #03 //003   ----------------------------------------
+ BYTE   W02
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W01
+Label_012A7A41:
+ BYTE   N44  Cn3  v074  gtp3
+ BYTE   W14
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W12
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W12
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   N44  As2  v071  gtp3
+ BYTE   W08
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W01
+//  #03 //004   ----------------------------------------
+ BYTE   W05
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W04
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   N44  Gs2  v074  gtp3
+ BYTE   W44
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W04
+ BYTE   N88  As2  v073  gtp1
+ BYTE   W02
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W07
+//  #03 //005   ----------------------------------------
+ BYTE   W02
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   22*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   21*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   19*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   18*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   16*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   N44  Cn3  v070  gtp3
+ BYTE   W12
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W12
+//  #03 //006   ----------------------------------------
+ BYTE   W03
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   N44  As2  v070  gtp3
+ BYTE   W06
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W21
+ BYTE   N44  Gs2  v070  gtp3
+ BYTE   W14
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W10
+//  #03 //007   ----------------------------------------
+ BYTE   W05
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   N44  Gn2  v071  gtp3
+ BYTE   W08
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W10
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   GoTo
+  POIN2 Label_012A7A41
+//  #03 //008   ----------------------------------------
+ BYTE   W02
+ BYTE   FINE
+
+//**************** Track 4 (Midi-Chn.3) ****************//
+
+song3F_004:
+//  #04 //000   ----------------------------------------
+ BYTE   KEYSH   song3F_key+0
+ BYTE   VOICE   2
+ BYTE   PAN   c_v+16
+ BYTE   N23  Ds1  v096
+ BYTE   VOL   21*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   43*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   46*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   47*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   49*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   53*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   55*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   54*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   53*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   49*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   47*song3F_mvl/mxv
+ BYTE   N90  Ds1  v089
+ BYTE   W09
+ BYTE   VOL   48*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   49*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   50*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   51*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   53*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   55*song3F_mvl/mxv
+ BYTE   W19
+ BYTE   VOL   54*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   53*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   51*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   50*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   49*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   48*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   46*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   45*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   44*song3F_mvl/mxv
+ BYTE   W01
+//  #04 //001   ----------------------------------------
+ BYTE   W01
+ BYTE   VOL   43*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   19*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   16*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   11*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   7*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   0*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   42*song3F_mvl/mxv
+ BYTE   N44  Cn1  v077  gtp3
+ BYTE   W03
+ BYTE   VOL   43*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   44*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   45*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   46*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   47*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   48*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   49*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   50*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   51*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   53*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   54*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   N44  As0  v076  gtp3
+ BYTE   VOL   55*song3F_mvl/mxv
+ BYTE   W24
+//  #04 //002   ----------------------------------------
+ BYTE   W24
+ BYTE   N44  Gs0  v076  gtp3
+ BYTE   W48
+ BYTE   Gn0  v078
+ BYTE   W24
+//  #04 //003   ----------------------------------------
+ BYTE   W24
+Label_012A7B99:
+ BYTE   N44  Cn1  v086  gtp3
+ BYTE   W48
+ BYTE   As0  v078
+ BYTE   W24
+//  #04 //004   ----------------------------------------
+ BYTE   W24
+ BYTE   Gs0  v086
+ BYTE   W48
+ BYTE   N92  As0  v083  gtp3
+ BYTE   W24
+//  #04 //005   ----------------------------------------
+ BYTE   W30
+ BYTE   VOL   54*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   53*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   51*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   50*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   49*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   48*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   47*song3F_mvl/mxv
+ BYTE   N44  Cn1  v077  gtp3
+ BYTE   W03
+ BYTE   VOL   48*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   49*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   50*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   51*song3F_mvl/mxv
+ BYTE   W03
+//  #04 //006   ----------------------------------------
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   53*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   54*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   55*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   N44  As0  v076  gtp3
+ BYTE   W48
+ BYTE   Gs0
+ BYTE   W24
+//  #04 //007   ----------------------------------------
+ BYTE   W24
+ BYTE   Gn0  v078
+ BYTE   W48
+ BYTE   GoTo
+  POIN2 Label_012A7B99
+//  #04 //008   ----------------------------------------
+ BYTE   W02
+ BYTE   FINE
+
+//**************** Track 5 (Midi-Chn.4) ****************//
+
+song3F_005:
+//  #05 //000   ----------------------------------------
+ BYTE   KEYSH   song3F_key+0
+ BYTE   VOICE   14
+ BYTE   PAN   c_v+17
+ BYTE   VOL   15*song3F_mvl/mxv
+ BYTE   W15
+ BYTE   VOL   16*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   17*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   18*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   19*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   20*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   21*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   N80  Ds2  v080
+ BYTE   W02
+ BYTE   VOL   22*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W36
+ BYTE   W02
+//  #05 //001   ----------------------------------------
+ BYTE   W96
+//  #05 //002   ----------------------------------------
+ BYTE   W96
+//  #05 //003   ----------------------------------------
+ BYTE   W24
+Label_012A7C25:
+ BYTE   W72
+//  #05 //004   ----------------------------------------
+ BYTE   W96
+//  #05 //005   ----------------------------------------
+ BYTE   W96
+//  #05 //006   ----------------------------------------
+ BYTE   W96
+//  #05 //007   ----------------------------------------
+ BYTE   W72
+ BYTE   GoTo
+  POIN2 Label_012A7C25
+//  #05 //008   ----------------------------------------
+ BYTE   W02
+ BYTE   FINE
+
+//**************** Track 6 (Midi-Chn.5) ****************//
+
+song3F_006:
+//  #06 //000   ----------------------------------------
+ BYTE   KEYSH   song3F_key+0
+ BYTE   VOICE   6
+ BYTE   PAN   c_v-14
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   N30  Fn3  v065
+ BYTE   W09
+ BYTE   VOL   49*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   47*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   46*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   43*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   42*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   22*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   N88  Ds3  v120  gtp1
+ BYTE   W03
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W04
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   34*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   35*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   36*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   39*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   40*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   42*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   43*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   44*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   46*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   47*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   49*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   51*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   52*song3F_mvl/mxv
+ BYTE   W03
+//  #06 //001   ----------------------------------------
+ BYTE   W08
+ BYTE   VOL   51*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   VOL   50*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   49*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   48*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   47*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   45*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   44*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   41*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   38*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   37*song3F_mvl/mxv
+ BYTE   N44  Cn2  v048  gtp3
+ BYTE   W72
+//  #06 //002   ----------------------------------------
+ BYTE   W96
+//  #06 //003   ----------------------------------------
+ BYTE   W24
+Label_012A7CB3:
+ BYTE   W72
+//  #06 //004   ----------------------------------------
+ BYTE   W96
+//  #06 //005   ----------------------------------------
+ BYTE   W96
+//  #06 //006   ----------------------------------------
+ BYTE   W96
+//  #06 //007   ----------------------------------------
+ BYTE   W72
+ BYTE   GoTo
+  POIN2 Label_012A7CB3
+//  #06 //008   ----------------------------------------
+ BYTE   W02
+ BYTE   FINE
+
+//**************** Track 7 (Midi-Chn.6) ****************//
+
+song3F_007:
+//  #07 //000   ----------------------------------------
+ BYTE   KEYSH   song3F_key+0
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   VOICE   11
+ BYTE   W03
+ BYTE   PAN   c_v+63
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   N23  Fn3  v096
+ BYTE   N23  Fn4  v073
+ BYTE   W01
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   22*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   19*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   N90  Ds3  v093
+ BYTE   N90  Ds4  v070
+ BYTE   W04
+ BYTE   VOL   20*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   VOL   21*song3F_mvl/mxv
+ BYTE   W04
+ BYTE   VOL   22*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W23
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W01
+//  #07 //001   ----------------------------------------
+ BYTE   W04
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   22*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   21*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   19*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   18*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   17*song3F_mvl/mxv
+ BYTE   N44  Cn3  v062  gtp3
+ BYTE   N42  Ds3  v074  gtp1
+ BYTE   W03
+ BYTE   VOL   18*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   19*song3F_mvl/mxv
+ BYTE   W04
+ BYTE   VOL   20*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   VOL   21*song3F_mvl/mxv
+ BYTE   W04
+ BYTE   VOL   22*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   N44  Cn3  v062  gtp3
+ BYTE   N44  Ds3  v074  gtp1
+ BYTE   W17
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W04
+//  #07 //002   ----------------------------------------
+ BYTE   W02
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W04
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   22*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   N44  Cn3  v063  gtp3
+ BYTE   N44  Ds3  v075
+ BYTE   W05
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W07
+ BYTE   N44  Bn2  v062  gtp3
+ BYTE   N44  Dn3  v078  gtp1
+ BYTE   W17
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W04
+//  #07 //003   ----------------------------------------
+ BYTE   W02
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W04
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W03
+Label_012A7DB5:
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   N44  Cn3  v075  gtp3
+ BYTE   N44  Ds3  v090  gtp1
+ BYTE   VOL   21*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   22*song3F_mvl/mxv
+ BYTE   W15
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W12
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   N44  Cn3  v077  gtp3
+ BYTE   Ds3  v094
+ BYTE   W03
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W06
+//  #07 //004   ----------------------------------------
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W12
+ BYTE   N44  Cn3  v077  gtp3
+ BYTE   N48  Fn3  v092
+ BYTE   W23
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W04
+ BYTE   N92  As2  v076  gtp1
+ BYTE   N22  Ds3  v094
+ BYTE   W11
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W01
+//  #07 //005   ----------------------------------------
+ BYTE   W02
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   N23  Dn3  v093
+ BYTE   W05
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W10
+ BYTE   N24  Cn3  v095  gtp2
+ BYTE   W16
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   N22  Dn3
+ BYTE   W04
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   22*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   N44  Cn3  v062  gtp3
+ BYTE   N42  Ds3  v074  gtp1
+ BYTE   W06
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W06
+//  #07 //006   ----------------------------------------
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   N44  Cn3  v062  gtp3
+ BYTE   N44  Ds3  v074  gtp1
+ BYTE   W17
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W05
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W04
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W02
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   VOL   22*song3F_mvl/mxv
+ BYTE   W01
+ BYTE   N44  Cn3  v063  gtp3
+ BYTE   N44  Ds3  v075
+ BYTE   W05
+ BYTE   VOL   23*song3F_mvl/mxv
+ BYTE   W09
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   25*song3F_mvl/mxv
+ BYTE   W04
+//  #07 //007   ----------------------------------------
+ BYTE   W02
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   33*song3F_mvl/mxv
+ BYTE   W07
+ BYTE   N44  Bn2  v062  gtp3
+ BYTE   N44  Dn3  v078  gtp1
+ BYTE   W18
+ BYTE   VOL   32*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   31*song3F_mvl/mxv
+ BYTE   W06
+ BYTE   VOL   30*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   29*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   28*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   27*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   26*song3F_mvl/mxv
+ BYTE   W03
+ BYTE   VOL   24*song3F_mvl/mxv
+ BYTE   GoTo
+  POIN2 Label_012A7DB5
+//  #07 //008   ----------------------------------------
+ BYTE   W02
+ BYTE   FINE
+
+//******************************************************//
+	ALIGN 4
+
+song3F:
+	BYTE	7	// NumTrks
+	BYTE	0	// NumBlks
+	BYTE	song3F_pri	// Priority
+	BYTE	song3F_rev	// Reverb.
+    
+	POIN2	song3F_grp
+    
+	POIN2	song3F_001
+	POIN2	song3F_002
+	POIN2	song3F_003
+	POIN2	song3F_004
+	POIN2	song3F_005
+	POIN2	song3F_006
+	POIN2	song3F_007
+
+	

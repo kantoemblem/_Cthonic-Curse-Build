@@ -115,9 +115,6 @@ Galzus[X]
 ## SainName
 Sain[X]
 
-## BoydName
-Boyd[X]
-
 ## NephName
 Nephenee[X]
 
@@ -129,9 +126,6 @@ Owain[X]
 
 ## CynthiaName
 Cynthia[X]
-
-## OrochiName
-Orochi[X]
 
 ## NinaName
 Nina[X]
@@ -147,6 +141,9 @@ Lysithea[X]
 
 ## ConstanceName
 Constance[X]
+
+## JeritzaName
+Jeritza[X]
 
 ## DaManName
 Junpei[X]
@@ -338,11 +335,6 @@ his daughter. Descendant of Od.[X]
 A knight in service to House Caelin.[NL]
 A bit of a scoundrel.[X]
 
-## BoydDesc
-A member of the Greil Mercenaries.[NL]
-His brash character contrasts that[NL]
-of his brothers.[X]
-
 ## NephDesc
 A militia member from the Crimean[NL]
 countryside. Since she's quiet, people[NL]
@@ -359,11 +351,6 @@ tends toward theatrics.[X]
 ## CynthiaDesc
 An enigmatic pegasus knight[NL]
 who yearns to be a hero.[X]
-
-## OrochiDesc
-A Hoshidan noble, former retainer of[NL]
-the late queen Mikoto.[NL]
-A mischievous merrymaker.[X]
 
 ## NinaDesc
 Niles's daughter. Calm and[NL]
@@ -388,6 +375,11 @@ hates being treated like a child.[X]
 A young lady of the Imperial house of[NL]
 Nuvelle. Has an overbearing attitude until[NL]
 she's somewhere with sunlight.[X]
+
+## JeritzaDesc
+A noble with a troubled past. Has an[NL]
+alternate identity known as the[NL]
+"Death Knight."[X]
 
 ## DaManDesc
 A member of an organazation called[NL]

@@ -40,28 +40,143 @@ POP
 
 {
 SongTable(0x1,multisampledemo,0)
-#include "songs/multisampledemo.event"
+#include "songs/Done/.event/multisampledemo.event"
 }
 {
-SongTable(0x9,song01,1)
-#include "songs/AJobThatNeedsDoing.event"
+SongTable(0x2,song02,0)
+#include "songs/Done/.event/02TitleTheme.event"
 }
 {
-SongTable(0x45,feb20211224165509,1)
-#include "songs/thegrandfinale.event"
+SongTable(0x4,song04,0)
+#include "songs/Done/.event/04TogetherWeRide!.event"
 }
 {
-SongTable(0x2,YWKON,1)
-#include "songs/YWKON.event"
+SongTable(0x5,song05,0)
+#include "songs/Done/.event/05JoinUs!.event"
 }
 {
-SongTable(0x3,aOioP,1)
-#include "songs/aOioP.event"
+SongTable(0x7,song07,0)
+#include "songs/Done/.event/07AWelcomeEncounter.event"
 }
 {
-SongTable(0x4,GamersGamingOnEndGame,1)
-#include "songs/GamersGamingOnEndGame.event"
+SongTable(0x9,song09,1)
+#include "songs/Done/.event/09AJobThatNeedsDoing.event"
 }
+{
+SongTable(0xA,song0A,1)
+#include "songs/Done/.event/10EndlessBattle.event"
+}
+{
+SongTable(0xD,song0D,1)
+#include "songs/Done/.event/13WhatLiesAtTheEnd.event"
+}
+{
+SongTable(0x13,song13,1)
+#include "songs/Done/.event/19TurfWar.event"
+}
+{
+SongTable(0x14,song14,1)
+#include "songs/Done/.event/20PerkusEnemyPhase.event"
+}
+{
+SongTable(0x19,song19,0)
+#include "songs/Done/.event/25TimeToFight!.event"
+}
+{
+SongTable(0x1A,song1A,0)
+#include "songs/Done/.event/26LateInititiative.event"
+}
+{
+SongTable(0x1B,song1B,0)
+#include "songs/Done/.event/27ThoseWhoFightFurther.event"
+}
+{
+SongTable(0x1C,song1C,0)
+#include "songs/Done/.event/28Vs.Solaris.event"
+}
+{
+SongTable(0x1D,song1D,0)
+#include "songs/Done/.event/29TheMotherOfAll.event"
+}
+{
+SongTable(0x24,song24,0)
+#include "songs/Done/.event/Advance.event"
+}
+{
+SongTable(0x2A,song2A,1)
+#include "songs/Done/.event/42RiiR.event"
+}
+{
+SongTable(0x45,song45,1)
+#include "songs/Done/.event/47Endgame.event"
+}
+{
+SongTable(0x2f,song2F,0)
+#include "songs/Done/.event/49FangsBaredAtGod.event"
+}
+{
+SongTable(0x34,song34,0)
+#include "songs/Done/.event/54PrepareforBattle.event"
+}
+{
+SongTable(0x36,song36,1)
+#include "songs/Done/.event/56Armory.event"
+}
+{
+SongTable(0x37,song37,1)
+#include "songs/Done/.event/57BondsMenu.event"
+}
+{
+SongTable(0x39,song39,1)
+#include "songs/Done/.event/59ArenaTheme.event"
+}
+{
+SongTable(0x3F,song3F,1)
+#include "songs/Done/.event/65SoThatsHowitGoes.event"
+}
+{
+SongTable(0x57,song57,0)
+#include "songs/Done/.event/Germaine.event"
+}
+{
+SongTable(0x58,song58,0)
+#include "songs/Done/.event/GermaineSadge.event"
+}
+{
+SongTable(0x59,song59,0)
+#include "songs/Done/.event/PerkusTheme.event"
+}
+{
+SongTable(0x5D,song5D,0)
+#include "songs/Done/.event/SomewhereToBelong.event"
+}
+{
+SongTable(0x5E,song5E,0)
+#include "songs/Done/.event/SteelGiants.event"
+}
+{
+SongTable(0x5F,song5F,0)
+#include "songs/Done/.event/Vs.Diana.event"
+}
+{
+SongTable(0x62,song62,0)
+#include "songs/Done/.event/Vs.Germaine.event"
+}
+{
+SongTable(0x63,song63,0)
+#include "songs/Done/.event/Vs.Germaine2.event"
+}
+{
+SongTable(0x64,song64,0)
+#include "songs/Done/.event/Vs.Perkus.event"
+}
+{
+SongTable(0x92,song92,0)
+#include "songs/Done/.event/ZoTactics.event"
+}
+
+
+
 
 
 
@@ -154,7 +269,7 @@ VoiceDummy(MusicVoices,0x9)
 //10 music box - C4
 VoiceDirect(MusicVoices,0xa,0x3c,0x02C0D0C,0x0,0x0,0x0,0xff,0x0,0xff,0xe0)
 //11 vibraphone (same sample as celesta? recommend use 8 instead) - C4
-VoiceDirect(MusicVoices,0xb,0x3c,0x04C4758C,0x0,0x0,0x0,0xff,0xf0,0x0,0xcc)
+VoiceDirect(MusicVoices,0xb,0x3c,0x04C4758,0x0,0x0,0x0,0xff,0xf0,0x0,0xcc)
 //12
 VoiceDummy(MusicVoices,0xc)
 //13 xylophone - C3
@@ -245,7 +360,7 @@ VoiceDirect(MusicVoices,0x36,0x3c,0x028CD70,0x0,0x0,0x0,0x32,0x0,0xff,0xd0)
 //55  Orchestra Hits :)
 VoiceDirect(MusicVoices,0x37,0x3C,BiSOrchestraHits,0x0,0x0,0x0,0xff,0xfa,0xf,0xc8)
 //56 trumpet - C4-C5
-VoiceMulti(MusicVoices,0x38,TrumpetTable,C4toC5Chart)
+VoiceDirect(MusicVoices,0x38,0x3c,KSSUTrumpet,0x0,0x0,0x0,0xff,0x0,0xff,0xa5)
 //57 trombone - C3
 VoiceDirect(MusicVoices,0x39,0x3c,0x0274F48,0x0,0x0,0x0,0xff,0x0,0xff,0xa5)
 //58 tuba - C3
@@ -535,6 +650,11 @@ ALIGN 4
 BiSSynth:
 SampleHeader(0x1,0x01588800,0x00002681,0x00002681)
 #incbin "samples/BiSynth.sb"
+
+ALIGN 4
+KSSUTrumpet:
+SampleHeader(0x1,0x01588800,0x000007e1,0x00002681)
+#incbin "samples/TrumpetKSSU.sb"
 
 
 #else

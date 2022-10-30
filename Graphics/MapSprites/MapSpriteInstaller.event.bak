@@ -6,10 +6,10 @@ TacticianStand:
 #incext Png2Dmp "_Tactician/TacticianStand.png" --lz77
 TacticianMove:
 #incext Png2Dmp "_Tactician/TacticianMove.png" --lz77
-//AcolyteStand:
-//#incext Png2Dmp "_Acolyte/AcolyteStand.png" --lz77
-//AcolyteMove:
-//#incext Png2Dmp "_Acolyte/AcolyteMove.png" --lz77
+AcolyteStand:
+#incext Png2Dmp "_Acolyte/Aphi_Idle.png" --lz77
+AcolyteMove:
+#incext Png2Dmp "_Acolyte/Aphi_Moves.png" --lz77
 //ChaosBringerStand:
 //#incext Png2Dmp "_ChaosBringer/ChaosBringerStand.png" --lz77
 //ChaosBringerMove:
@@ -46,14 +46,14 @@ FighterFStand:
 #incext Png2Dmp "FighterF/FighterStand.png" --lz77
 FighterFMove:
 #incext Png2Dmp "FighterF/FighterMove.png" --lz77
-//WarriorMStand:
-//#incext Png2Dmp "WarriorM/WarriorStand.png" --lz77
-//WarriorMMove:
-//#incext Png2Dmp "WarriorM/WarriorMove.png" --lz77
-//WarriorFStand:
-//#incext Png2Dmp "WarriorF/WarriorStand.png" --lz77
-//WarriorFMove:
-//#incext Png2Dmp "WarriorF/WarriorMove.png" --lz77
+WarriorMStand:
+#incext Png2Dmp "WarriorM/WarriorStand.png" --lz77
+WarriorMMove:
+#incext Png2Dmp "WarriorM/WarriorMove.png" --lz77
+WarriorFStand:
+#incext Png2Dmp "WarriorF/WarriorStand.png" --lz77
+WarriorFMove:
+#incext Png2Dmp "WarriorF/WarriorMove.png" --lz77
 SoldierMStand:
 #incext Png2Dmp "SoldierM/SoldierStand.png" --lz77
 SoldierMMove:
@@ -374,6 +374,12 @@ TwilightKnightMove:
 //#incext Png2Dmp "Lodestar/LodestarStand.png" --lz77
 //LodestarMove:
 //#incext Png2Dmp "Lodestar/LodestarStand.png" --lz77
+Hi_Jacob:
+#incext Png2Dmp "DemonKing/Hi_Jacob.png" --lz77
+Bye_Jacob:
+#incext Png2Dmp "Lodestar/Bye_Jacob.png" --lz77
+
+
 
 
 //➖➖🟪🟪
