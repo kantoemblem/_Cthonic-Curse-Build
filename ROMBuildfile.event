@@ -24,6 +24,7 @@
     MESSAGE Used hax space ends at currentOffset
 
     //Events
+	#include "Events/SnekREDAs.event"
 	#include "Events/ChapterEventInstaller.event"
     #include "Events/WorldMapEvents.event"
 	
