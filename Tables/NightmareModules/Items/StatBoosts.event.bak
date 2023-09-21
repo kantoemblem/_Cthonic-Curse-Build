@@ -33,7 +33,7 @@ StatBonus(0,0,0,0,0,0,0,0,0,0)
 SBow:
 StatBonus(0,0,0,0,0,0,0,0,0,0)
 TruthsPyre:
-StatBonus(0,0,3,0,0,0,5,0,0,0)
+StatBonus(0,0,0,3,0,0,0,0,0,0)
 Veritas:
 StatBonus(0,0,0,0,0,0,0,0,0,0)
 STomeOfDeath:

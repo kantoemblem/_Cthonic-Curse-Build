@@ -25,34 +25,28 @@ POIN CustomAnimeTable
 
 CustomAnimeTable:
 BYTE 0x07  //Mae
-BYTE 0x18  //Sniper
+BYTE 0x17  //Sniper
 BYTE 0x00  //dummy
 BYTE 0x00  //dummy
 POIN MaeAnim // REF ID
 
-BYTE 0x23  //Gordin
-BYTE 0x17  //Sniper
+BYTE 0x1C  //Roshal
+BYTE 0x16  //Sniper
 BYTE 0x00  //dummy
 BYTE 0x00  //dummy
-POIN SniperGordinAnim  //REF ID
+POIN SniperRoshalAnim  //REF ID
 
 BYTE 0x04  //Ted
-BYTE 0x2E  //Wyvern Rider
+BYTE 0x2C  //Wyvern Rider
 BYTE 0x00  //dummy
 BYTE 0x00  //dummy
 POIN WyvernRiderTedAnim  //REF ID
 
 BYTE 0x04  //Ted
-BYTE 0x30  //Wyvern Lord
+BYTE 0x2E  //Wyvern Lord
 BYTE 0x00  //dummy
 BYTE 0x00  //dummy
 POIN WyvernLordTedAnim  //REF ID
-
-BYTE 0x2B  //Owain
-BYTE 0x34  //Myrmidon
-BYTE 0x00  //dummy
-BYTE 0x00  //dummy
-POIN MyrmidonOwainAnim  //REF ID
 
 BYTE 0x0E  //Yoko
 BYTE 0x37  //Swordmaster
@@ -60,27 +54,27 @@ BYTE 0x00  //dummy
 BYTE 0x00  //dummy
 POIN SwordmasterYokoAnim  //REF ID
 
+BYTE 0x20  //Owain
+BYTE 0x33  //Swordmaster
+BYTE 0x00  //dummy
+BYTE 0x00  //dummy
+POIN SwordmasterAntonAnim  //REF ID
+
 BYTE 0x06  //Nate
-BYTE 0x46  //Mage
+BYTE 0x42  //Mage
 BYTE 0x00  //dummy
 BYTE 0x00  //dummy
 POIN NateMageAnim  //REF ID
 
 BYTE 0x06  //Nate
-BYTE 0x49  //Sage
+BYTE 0x44  //Sage
 BYTE 0x00  //dummy
 BYTE 0x00  //dummy
 POIN NateSageAnim  //REF ID
 
 BYTE 0x0B  //Mordred
-BYTE 0x58  //Bishop
+BYTE 0x52  //Bishop
 BYTE 0x00  //dummy
 BYTE 0x00  //dummy
 POIN MordredBishopAnim  //REF ID
-
-BYTE 0x19  //L'Arachel
-BYTE 0x5B  //Valkyrie
-BYTE 0x00  //dummy
-BYTE 0x00  //dummy
-POIN LArachelAnim  //REF ID
 

@@ -3,11 +3,77 @@
 
 ALIGN 4
 
-# char{0x1} "Hex_BladePaladin" set{Hex, 0x1, 0x25} auto{1}
+Hex_BladePaladin:
+	#incbin "./_palettes/Hex_BladePaladin.lzpal" 
 
-	//this is a comment
-	auto //autofill this one with the enemy palette
-	344FB55EFF5BFE3EB12DFB7FF362ED49CE494A39E728796DD258AB440535A514
-	344FB55EFF5BFE3EB12DFB7FF362ED49CE494A39E728796DD258AB440535A514 
-	344FB55EFF5BFE3EB12DFB7FF362ED49CE494A39E728796DD258AB440535A514
-	344FB55EFF5BFE3EB12DFB7FF362ED49CE494A39E728796DD258AB440535A514
+Jade_Shaman:
+	#incbin "./_palettes/Jade_Shaman.lzpal" 
+
+Jade_Dreadfighter:
+	#incbin "./_palettes/Jade_Dreadfighter.lzpal" 
+
+Casimir_Knight:
+	#incbin "./_palettes/Casimir_Knight.lzpal" 
+
+Casimir_GKnight:
+	#incbin "./_palettes/Casimir_GKnight.lzpal" 
+
+Guinivere_Cleric:
+	#incbin "./_palettes/Guinivere_Cleric.lzpal" 
+
+Guinivere_Sage:
+	#incbin "./_palettes/Guinivere_Sage.lzpal" 
+
+Yoko_Myrmidon:
+	#incbin "./_palettes/Yoko_Myrmidon.lzpal" 
+
+Chase_Thief:
+	#incbin "./_palettes/Chase_Thief.lzpal" 
+
+Chase_Assassin:
+	#incbin "./_palettes/Chase_Assassin.lzpal" 
+
+Ashleigh_Pegasus:
+	#incbin "./_palettes/Ashleigh_Pegasus.lzpal" 
+
+Ashleigh_WyvernLord:
+	#incbin "./_palettes/Ashleigh_WyvernLord.lzpal" 
+
+Sasha_Merc:
+	#incbin "./_palettes/Sasha_Merc.lzpal" 
+
+Sasha_Hero:
+	#incbin "./_palettes/Sasha_Hero.lzpal" 
+
+Elizabeth_Cav:
+	#incbin "./_palettes/Elizabeth_Cav.lzpal" 
+
+Elizabeth_Falcoknight:
+	#incbin "./_palettes/Elizabeth_Falcoknight.lzpal" 
+
+Ryza_Fighter:
+	#incbin "./_palettes/Ryza_Fighter.lzpal" 
+
+Ryza_Warrior:
+	#incbin "./_palettes/Ryza_Warrior.lzpal" 
+
+Diarmuid_Halberdier:
+	#incbin "./_palettes/Diarmuid_Halberdier.lzpal" 
+
+Rota_Hunter:
+	#incbin "./_palettes/Rota_Hunter.lzpal" 
+
+Rota_Ranger:
+	#incbin "./_palettes/Rota_Ranger.lzpal" 
+
+Fayina_Wyvern:
+	#incbin "./_palettes/Fayina_Wyvern.lzpal" 
+
+Fayina_Malig:
+	#incbin "./_palettes/Fayina_Malig.lzpal" 
+
+Erastus_MKnight:
+	#incbin "./_palettes/Erastus_MKnight.lzpal" 
+
+Marie_Ranger:
+	#incbin "./_palettes/Marie_Ranger.lzpal" 

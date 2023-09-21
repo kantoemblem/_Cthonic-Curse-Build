@@ -108,8 +108,8 @@ Merchant's Lance[X]
 ## GaeDeargName
 Gae Dearg[X]
 
-## LanceOfRuinName ^
-Lance of Ruin[X]
+## FafnirName
+Fafnir[X]
 
 ## LegLanceName
 _[X]
@@ -184,7 +184,7 @@ Training Bow[X]
 ## MaePrfName
 _[X]
 
-## BowGunName
+## RoshalPrfName
 Bow Gun[X]
 
 ## SBowName
@@ -395,7 +395,7 @@ Nana's stalwart bodyguard. Grants: Pass[X]
 ## GaeDeargDesc ^
 Diarmuid's Lance. +2 Mt and +10% Crit vs mages.[X]
 
-## LanceOfRuinDesc ^
+## FafnirDesc ^
 Hero's Relic of House Gautier.[X]
 
 ## LegLanceDesc
@@ -447,7 +447,7 @@ A bow designed for training. Grants: Weaken[X]
 ## MaePrfDesc
 _[X]
 
-## BowGunDesc ^
+## RoshalPrfDesc ^
 Doubles as close-ranged attack. Gordin's Bow.[X]
 
 ## SBowDesc

@@ -242,10 +242,14 @@ DeserterStand:
 #incext Png2Dmp "Deserter/DeserterStand.png" --lz77
 DeserterMove:
 #incext Png2Dmp "Deserter/DeserterMove.png" --lz77
-ThiefStand:
-#incext Png2Dmp "Thief/ThiefStand.png" --lz77
-ThiefMove:
-#incext Png2Dmp "Thief/ThiefMove.png" --lz77
+ThiefMStand:
+#incext Png2Dmp "ThiefM/ThiefStand.png" --lz77
+ThiefMMove:
+#incext Png2Dmp "ThiefM/ThiefMove.png" --lz77
+ThiefFStand:
+#incext Png2Dmp "ThiefF/ThiefStand.png" --lz77
+ThiefFMove:
+#incext Png2Dmp "ThiefF/ThiefMove.png" --lz77
 AssassinStand:
 #incext Png2Dmp "Assassin/AssassinStand.png" --lz77
 AssassinMove:
@@ -254,10 +258,6 @@ RogueStand:
 #incext Png2Dmp "Rogue/RogueStand.png" --lz77
 RogueMove:
 #incext Png2Dmp "Rogue/RogueMove.png" --lz77
-AdventurerStand:
-#incext Png2Dmp "Adventurer/AdventurerStand.png" --lz77
-AdventurerMove:
-#incext Png2Dmp "Adventurer/AdventurerMove.png" --lz77
 MageMStand:
 #incext Png2Dmp "MageM/MageStand.png" --lz77
 MageMMove:
@@ -282,10 +282,6 @@ MageKnightFStand:
 #incext Png2Dmp "MageKnightF/MageKnightStand.png" --lz77
 MageKnightFMove:
 #incext Png2Dmp "MageKnightF/MageKnightMove.png" --lz77
-//DarkFlierStand:
-//#incext Png2Dmp "DarkFlier/FlierStand.png" --lz77
-//DarkFlierMove:
-//#incext Png2Dmp "DarkFlier/DarkFlierMove.png" --lz77
 ShamanMStand:
 #incext Png2Dmp "ShamanM/ShamanStand.png" --lz77
 ShamanMMove:
@@ -350,34 +346,22 @@ ManaketeMove:
 //#incext Png2Dmp "MageDragon/MageDragonStand.png" --lz77
 //MageDragonMove:
 //#incext Png2Dmp "MageDragon/MageDragonMove.png" --lz77
-//EclipseKnightStand:
-//#incext Png2Dmp "EclipseKnight/EclipseKnightStand.png" --lz77
-//EclipseKnightMove:
-//#incext Png2Dmp "EclipseKnight/EclipseKnightMove.png" --lz77
+EclipseKnightStand:
+#incext Png2Dmp "EclipseKnight/EclipseKnightStand.png" --lz77
+EclipseKnightMove:
+#incext Png2Dmp "EclipseKnight/EclipseKnightMove.png" --lz77
 TwilightKnightStand:
 #incext Png2Dmp "TwilightKnight/TwilightStand.png" --lz77
 TwilightKnightMove:
 #incext Png2Dmp "TwilightKnight/TwilightMove.png" --lz77
-//SluggerStand:
-//#incext Png2Dmp "Slugger/SluggerStand.png" --lz77
-//SluggerMove:
-//#incext Png2Dmp "Slugger/SluggerMove.png" --lz77
-//DriverStand:
-//#incext Png2Dmp "Driver/DriverStand.png" --lz77
-//DriverMove:
-//#incext Png2Dmp "Driver/DriverStand.png" --lz77
-//DuelistStand:
-//#incext Png2Dmp "Duelist/DuelistStand.png" --lz77
-//DuelistMove:
-//#incext Png2Dmp "Duelist/DuelistMove.png" --lz77
-//LodestarStand:
-//#incext Png2Dmp "Lodestar/LodestarStand.png" --lz77
-//LodestarMove:
-//#incext Png2Dmp "Lodestar/LodestarStand.png" --lz77
+PrincessStand:
+#incext Png2Dmp "Princess/PrincessStand.png" --lz77
+PrincessMove:
+#incext Png2Dmp "Princess/PrincessMove.png" --lz77
 Hi_Jacob:
 #incext Png2Dmp "DemonKing/Hi_Jacob.png" --lz77
 Bye_Jacob:
-#incext Png2Dmp "Lodestar/Bye_Jacob.png" --lz77
+#incext Png2Dmp "DemonKing/Bye_Jacob.png" --lz77
 
 
 

@@ -1,11 +1,11 @@
 INLINE ClassLevelUpSkillTable,Skill Pointer
 0x00 Separator/Nothing,0x0
-Commander,CommanderSkillList|IsPointer
-Tactician,TacticianSkillList|IsPointer
-Acolyte,AcolyteSkillList|IsPointer
-Chaos Bringer,ChaosBringerSkillList|IsPointer
-Truth Bringer,TruthBringerSkillList|IsPointer
-Mage Fighter,MageFighterSkillList|IsPointer
+Commander,0x0
+Tactician,0x0
+Acolyte,0x0
+Chaos Bringer,0x0
+Truth Bringer,0x0
+Mage Fighter,0x0
 Mercenary,MercSkillList|IsPointer
 Mercenary (F),MercSkillList|IsPointer
 Hero,HeroSkillList|IsPointer

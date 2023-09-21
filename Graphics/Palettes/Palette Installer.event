@@ -74,79 +74,33 @@ Fayina_Malig:
 
 Erastus_MKnight:
 	#incbin "./_palettes/Erastus_MKnight.lzpal" 
+	
+//Gaignun_Cav:
+//	#incbin "./_palettes/Gaignun_Cav.lzpal" 
+
+//Gaignun_Pal:
+//	#incbin "./_palettes/Gaignun_Pal.lzpal"
+
+//Glazette_Cleric:
+//	#incbin "./_palettes/Glazette_Cleric.lzpal" 
+
+//Glazette_Valkyrie:
+//	#incbin "./_palettes/Glazette_Valkyrie.lzpal" 
+
+//Monica_Thief:
+//	#incbin "./_palettes/Monica_Thief.lzpal" 
+
+//Monica_Adventurer:
+//	#incbin "./_palettes/Monica_Adventurer.lzpal" 
+
+//Orvald_Berserker:
+//	#incbin "./_palettes/Orvald_Berserker.lzpal" 
+
+//Acacia_Pegasus:
+//	#incbin "./_palettes/Acacia_Pegasus.lzpal"
+
+//Acacia_Falcoknight:
+//	#incbin "./_palettes/Acacia_Falcoknight.lzpal"
 
 Marie_Ranger:
 	#incbin "./_palettes/Marie_Ranger.lzpal" 
-
-Doga_Knight:
-	#incbin "./_palettes/Doga_Knight.lzpal" 
-
-Doga_General:
-	#incbin "./_palettes/Doga_General.lzpal" 
-
-Gordin_Archer:
-	#incbin "./_palettes/Gordin_Archer.lzpal" 
-
-Silque_Cleric:
-	#incbin "./_palettes/Silque_Cleric.lzpal" 
-
-Silque_Bishop:
-	#incbin "./_palettes/Silque_Bishop.lzpal" 
-
-Forsyth_Knight:
-	#incbin "./_palettes/Forsyth_Knight.lzpal" 
-
-Forsyth_General:
-	#incbin "./_palettes/Forsyth_General.lzpal" 
-
-Midir_Cavalier:
-	#incbin "./_palettes/Midir_Cavalier.lzpal" 
-
-Midir_Ranger:
-	#incbin "./_palettes/Midir_Ranger.lzpal" 
-
-Galzus_Hero:
-	#incbin "./_palettes/Galzus_Hero.lzpal" 
-
-Sain_Cavalier:
-	#incbin "./_palettes/Sain_Cavalier.lzpal" 
-
-Sain_Paladin:
-	#incbin "./_palettes/Sain_Paladin.lzpal" 
-
-LArachel_Troubadour:
-	#incbin "./_palettes/LArachel_Troubadour.lzpal" 
-
-Nephenee_Halberdier:
-	#incbin "./_palettes/Nephenee_Halberdier.lzpal" 
-
-Cynthia_PegaSUS:
-	#incbin "./_palettes/Cynthia_PegaSUS.lzpal" 
-
-Cynthia_MegaSUS:
-	#incbin "./_palettes/Cynthia_MegaSUS.lzpal" 
-
-FerdinandVonAegir_Cav:
-	#incbin "./_palettes/FerdinandVonAegir_Cav.lzpal" 
-
-FerdinandVonAegir_Paladin:
-	#incbin "./_palettes/FerdinandVonAegir_Paladin.lzpal" 
-
-Ashe_Archer:
-	#incbin "./_palettes/Ashe_Archer.lzpal" 
-
-Ashe_WyvernLord:
-	#incbin "./_palettes/Ashe_WyvernLord.lzpal" 
-
-Lysithea_Mage:
-	#incbin "./_palettes/Lysithea_Mage.lzpal" 
-
-Lysithea_Mageknight:
-	#incbin "./_palettes/Lysithea_Mageknight.lzpal" 
-
-Constance_Mage:
-	#incbin "./_palettes/Constance_Mage.lzpal" 
-
-Jeritza_Paladin:
-	#incbin "./_palettes/Jeritza_Paladin.lzpal" 
-

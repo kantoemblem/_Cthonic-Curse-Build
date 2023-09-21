@@ -143,7 +143,9 @@ POP
   
   //Chapter Names as Text
   #include "QualityOfLife/TextChNames/TextChNames.event"
-
+  
+  //Multi Seize Units
+  #include "MyPatches/MultiSeizeUnits/Installer.event"
   //PC and Generic Music Hack (writes to e80000/e90000)
   #include "QualityOfLife/PCAndGenericMusic.event"
 

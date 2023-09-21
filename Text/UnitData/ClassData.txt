@@ -148,11 +148,6 @@ Knights who pride their wyvern-riding[NL]
 abilities. Can wield swords in[NL]
 addition to axes.[X]
 
-## WyvernLordDesc2
-Knights who pride their wyvern-riding[NL]
-abilities. Can wield bows in[NL]
-addition to axes.[X]
-
 ## WyvernLordDesc3
 Knights who pride their wyvern-riding[NL]
 abilities. Can wield swords in[NL]

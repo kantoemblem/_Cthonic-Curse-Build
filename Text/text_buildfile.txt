@@ -132,4 +132,10 @@ a skill when used.[X]
 
 #include "UnitData/CharacterRetreatQuotes.txt"
 
+#include "UnitData/BossData.txt"
+
+#include "UnitData/BossDeathQuotes.txt"
+
 #include "ModeDescriptions/ModeDescriptions.txt"
+
+#include "ChapterText/ChapterTextInstaller.txt"

@@ -47,6 +47,10 @@ SongTable(0x2,song02,0)
 #include "songs/Done/.event/02TitleTheme.event"
 }
 {
+SongTable(0x3,song03,0)
+#include "songs/Done/.event/03BondofSeaandFlame.event"
+}
+{
 SongTable(0x4,song04,0)
 #include "songs/Done/.event/04TogetherWeRide!.event"
 }
@@ -80,7 +84,7 @@ SongTable(0x14,song14,1)
 }
 {
 SongTable(0x19,song19,0)
-#include "songs/Done/.event/25TimeToFight!.event"
+#include "songs/Done/.event/25BattleI.event"
 }
 {
 SongTable(0x1A,song1A,0)

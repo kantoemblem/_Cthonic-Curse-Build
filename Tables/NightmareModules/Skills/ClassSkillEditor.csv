@@ -1,11 +1,11 @@
 INLINE ClassSkillTable,Skill
 0x00 Separator/Nothing,0x0
-Commander,0x0
-Tactician,0x0
-Acolyte,0x0
-Chaos Bringer,CritUpID
+Commander,FrenzyID
+Tactician,CantoID
+Acolyte,TriangleAdeptID
+Chaos Bringer,FrenzyID
 Truth Bringer,CantoPlusID
-Mage Fighter,TomefaireID
+Mage Fighter,TriangleAdeptID
 Mercenary,0x0
 Mercenary (F),0x0
 Hero,0x0
@@ -19,24 +19,22 @@ Soldier (F),0x0
 Soldier (D),0x0
 Halberdier,CritUpID
 Halberdier (F),CritUpID
-Archer,BowRangeUpID
-Archer (F),BowRangeUpID
-Archer (A),BowRangeUpID
-Sniper,BowRangeUpID
-Sniper (F),BowRangeUpID
-Knight (S),0x0
+Archer,0x0
+Archer (F),0x0
+Sniper,CritUpID
+Sniper (F),CritUpID
 Knight (L),0x0
 Knight (A),0x0
 General,0x0
 Greatknight,CantoID
 Cavalier,CantoID
 Cavalier (F),CantoID
-Paladin,CantoID
-Paladin (F),CantoID
+Paladin,CantoPlusID
+Paladin (F),CantoPlusID
 Blade Cavalier,CantoID
 Blade Cavalier (F),CantoID
-Blade Paladin,CantoID
-Blade Paladin (F),CantoID
+Blade Paladin,CantoPlusID
+Blade Paladin (F),CantoPlusID
 Bow Cavalier,CantoID
 Bow Cavalier (F),CantoID
 Ranger,CantoPlusID
@@ -47,16 +45,14 @@ Falcoknight,CantoPlusID
 Falcoknight (E),CantoPlusID
 Wyvern Rider,CantoID
 Wyvern Rider (F),CantoID
-Wyvern Lord,CantoID
-Wyvern Lord (F),CantoID
-Wyvern Lord (Bow),CantoID
-MaligKnight,CantoID
+Wyvern Lord,CantoPlusID
+Wyvern Lord (F),CantoPlusID
+MaligKnight,CantoPlusID
 Myrmidon,0x0
 Myrmidon (F),0x0
 Swordmaster,CritUpID
 Swordmaster (F),CritUpID
 Dreadfighter,ArcaneBladeID
-Dreadfighter (F),ArcaneBladeID
 Brigand,0x0
 Pirate,0x0
 Pirate (F),0x0
@@ -65,35 +61,39 @@ Berserker (F),CritUpID
 Hunter,0x0
 Hunter (F),0x0
 Deserter,0x0
-Thief,0x0
+Thief,StealID
+Thief (F),StealID
 Assassin,LethalityID
-Rogue,StealPlusID
 Adventurer,StealPlusID
 Mage,0x0
 Mage (F),0x0
-Mage (C),0x0
 Sage,0x0
 Sage (F),0x0
-Mageknight,CantoID
-Mageknight (F),CantoID
-Dark Flier,CantoID
+Mageknight,CantoPlusID
+Mageknight (F),CantoPlusID
 Shaman,0x0
 Shaman (F),0x0
 Druid,0x0
-Summon,0x0
 Druid (F),0x0
 Mimi,0x0
 Monk,0x0
 Priest,0x0
-Cleric (G),0x0
-Cleric (S),0x0
+Cleric (Gu),0x0
+Cleric (Gl),0x0
+Summon,0x0
 Bishop,0x0
 Bishop (F),0x0
 Troubadour,CantoID
-Valkyrie,CantoID
+Valkyrie,CantoPlusID
 Supplier,SupplyID
 Dancer,DanceID
-Manakete,CantoID
+Manakete,0x0
+Mage Dragon,0x0
+Eclipse Knight,CantoPlusID
+Twilight Knight,0x0
+Princess,0x0
+Demon King,0x0
+MasterKnight,CantoPlusID
 Mage Dragon,CantoID
 Eclipse Knight,CantoPlusID
 Twilight Knight,ChivalryID

@@ -151,27 +151,14 @@ Twilight Knight[X]
 ## TwilightKnightDesc
 _[X]
 
-## SluggerName
-Slugger[X]
+## PrincessName
+Princess[X]
 
-## SluggerDesc
+## PrincessDesc
 _[X]
 
-## DriverName
-Driver[X]
+## MasterKnightName ^
+Master Knight[X]
 
-## DriverDesc
+## MasterKnightDesc
 _[X]
-
-## DuelistName
-Duelist[X]
-
-## DuelistDesc
-_[X]
-
-## LodestarName
-Lodestar[X]
-
-## LodestarDesc
-A legendary hero spoken of in sagas.[NL]
-Fights wielding swords.[X]

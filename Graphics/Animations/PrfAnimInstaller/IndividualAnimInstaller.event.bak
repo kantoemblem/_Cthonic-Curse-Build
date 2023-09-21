@@ -48,7 +48,7 @@ BYTE 0x00  //dummy
 BYTE 0x00  //dummy
 POIN WyvernLordTedAnim  //REF ID
 
-BYTE 0x2C  //Owain
+BYTE 0x2B  //Owain
 BYTE 0x34  //Myrmidon
 BYTE 0x00  //dummy
 BYTE 0x00  //dummy

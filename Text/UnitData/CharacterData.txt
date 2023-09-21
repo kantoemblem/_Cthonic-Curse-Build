@@ -79,8 +79,32 @@ Fayina[X]
 ## ErastusName
 Erastus[X]
 
+## RoshalName
+Roshal[X]
+
+## GaignunName
+Gaignun[X]
+
+## GlazetteName
+Glazette[X]
+
+## MonicaName
+Monica[X]
+
+## AntonName
+Anton[X]
+
+## NepName
+Nep[X]
+
+## OrvaldName
+Orvald[X]
+
 ## MarieName
 Marie[X]
+
+## GermaineName
+Germaine[X]
 
 ## UlyName
 Ulyaoth[X]
@@ -91,68 +115,6 @@ Diana[X]
 ## MimiName
 Mimi[X]
 
-## MarthName
-Marth[X]
-
-## DogaName
-Draug[X]
-
-## GordinName
-Gordin[X]
-
-## SilqueName
-Silque[X]
-
-## ForsythName
-Forsyth[X]
-
-## MidirName
-Midir[X]
-
-## GalzusName
-Galzus[X]
-
-## SainName
-Sain[X]
-
-## NephName
-Nephenee[X]
-
-## BasilioName
-Basilio[X]
-
-## OwainFireEmblemName
-Owain[X]
-
-## CynthiaName
-Cynthia[X]
-
-## NinaName
-Nina[X]
-
-## FerdinandVonAegirName
-Ferdinand[X]
-
-## AsheName
-Ashe[X]
-
-## LysitheaName
-Lysithea[X]
-
-## ConstanceName
-Constance[X]
-
-## JeritzaName
-Jeritza[X]
-
-## DaManName
-Junpei[X]
-
-## ZekeVonGenbuName
-Zeke[X]
-
-## ThatsDunbanOverThereName
-Dunban[X]
 
 
 ## BenDesc
@@ -279,10 +241,43 @@ Magistrate of Burto Village[NL]
 and alumni of the Wellington[NL]
 University of Magic. Wise and fair.[X]
 
+## RoshalDesc
+A Zefiran archer. Stronger[NL]
+than his build would suggest.[X]
+
+## GaignunDesc
+A fiercly loyal knight. Well[NL]
+meaning, yet brazen in his approach.[X]
+
+## GlazetteDesc
+A cleric of the church of Werecyn.[NL]
+Devout and Altruistic.[X]
+
+## MonicaDesc
+A jovial thief whose smile[NL]
+belies a grim determination.[NL]
+Sarcastic and flirtatious.[X]
+
+## AntonDesc
+A mercenary obsessed with the art[NL]
+of looking cool. Surprisingly[NL]
+humble despite his antics.[X]
+
+## NepDesc
+She's cute I like her :3[X]
+
+## OrvaldDesc
+A half-manakete warrior of impressive[NL]
+strength.[X]
+
 ## MarieDesc
 An outgoing and passionate young woman[NL]
 who has an affinity for horse care.[NL]
 Often mixes up idioms.[X]
+
+## GermaineDesc
+A vain and greedy Zefiran nobleman who[NL]
+will do anything to achieve his goals.[X]
 
 ## UlyDesc
 The ambitious and pragmatic prince of[NL]
@@ -297,101 +292,3 @@ Ulyaoth's sister.[X]
 ## MimiDesc
 A friendly traveler from another[NL]
 continent. Tends to be secretive.[X]
-
-## MarthDesc
-Prince of Altea and The legendary Hero[NL]
-King. Inheritor of the Hero[NL]
-Anri's blade.[X]
-
-## DogaDesc
-An armored knight of Altea who serves[NL]
-as the Hero King's shield.[NL]
-Very sincere.[X]
-
-## GordinDesc
-An Altean archer who is[NL]
-masterful with his bow.[NL]
-Looks younger than he actually is.[X]
-
-## SilqueDesc
-A cleric from Novis.[NL]
-Has a sweet but serious personality.[X]
-
-## ForsythDesc
-A straightforward, passionate man[NL]
-with great devotion to Zofia and[NL]
-the Deliverance.[X]
-
-## MidirDesc
-A knight in the service of Grannvale's[NL]
-House Yngvi. Dedicated to it's lady, Edain.[X]
-
-## GalzusDesc
-The disgraced prince of Isaac. Lives the[NL]
-life of a mercenary, searching for[NL]
-his daughter. Descendant of Od.[X]
-
-## SainDesc
-A knight in service to House Caelin.[NL]
-A bit of a scoundrel.[X]
-
-## NephDesc
-A militia member from the Crimean[NL]
-countryside. Since she's quiet, people[NL]
-think she's shy, but...[X]
-
-## BasilioDesc
-The capable but slapdash[NL]
-West-Khan of Regna Ferox.[X]
-
-## OwainFireEmblemDesc
-An enigmatic swordsman who[NL]
-tends toward theatrics.[X]
-
-## CynthiaDesc
-An enigmatic pegasus knight[NL]
-who yearns to be a hero.[X]
-
-## NinaDesc
-Niles's daughter. Calm and[NL]
-intelligent, but prone to intense[NL]
-bouts of daydreaming.[X]
-
-## FerdinandVonAegirDesc
-Son and heir of Duke Aegir. Accomplished[NL]
-in literary and military arts. Works[NL]
-hard to live nobly.[X]
-
-## AsheDesc
-A serious young man who trains[NL]
-and studies hard so he can become[NL]
-an outstanding adult[X]
-
-## LysitheaDesc
-A determined high achiever who[NL]
-hates being treated like a child.[X]
-
-## ConstanceDesc
-A young lady of the Imperial house of[NL]
-Nuvelle. Has an overbearing attitude until[NL]
-she's somewhere with sunlight.[X]
-
-## JeritzaDesc
-A noble with a troubled past. Has an[NL]
-alternate identity known as the[NL]
-"Death Knight."[X]
-
-## DaManDesc
-A member of an organazation called[NL]
-SEES. Hard-headed and a bit of[NL]
-a romantic.[X]
-
-## ZekeVonGenbuDesc
-An otherworldy fighter who's dramatic[NL]
-persona belies a wise and noble soul.[NL]
-Frequent victim of his own bad luck.[X]
-
-## ThatsDunbanOverThereDesc
-A powerful swordsman from another world.[NL]
-The former wielder of a legendary[NL]
-blade and hero of his people.[X]

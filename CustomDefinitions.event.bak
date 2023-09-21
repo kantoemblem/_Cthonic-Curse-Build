@@ -57,7 +57,7 @@
 #define Nate 0x6
 #define Mae 0x7
 #define Nana 0x8
-#define Jade 0x9
+#define Gaignun 0x9
 #define Casimir 0xA
 #define Cas Casimir
 #define Mordred 0xB
@@ -82,46 +82,24 @@
 #define Chloe 0x17
 #define Rota 0x18
 #define Mako Rota
-#define LArachel 0x19
-#define Larachel LArachel
-#define Ilaria 0x1A
-#define Fayina 0x1B
-#define Erastus 0x1C
-#define Marie 0x1D
-#define Ulyaoth 0x1E
+#define Ilaria 0x19
+#define Fayina 0x1A
+#define Erastus 0x1B
+#define Roshal 0x1C
+#define Jade 0x1D
+#define Glazette 0x1E
+#define Monica 0x1F
+#define Anton 0x20
+#define SelfInsert Anton
+#define Nep 0x21
+#define NepNep Nep
+#define Orvald 0x22
+#define Marie 0x24
+#define Germaine 0x25
+#define Ulyaoth 0x26
 #define Uly Ulyaoth
-#define Diana 0x1F
-#define Mimi 0x20
-#define Marth 0x21
-#define Mars Marth
-#define Draug 0x22
-#define Doga Draug
-#define Gordin 0x23
-#define Silque 0x24
-#define Forsyth 0x25
-#define Midir 0x26
-#define Galzus 0x27
-#define Sain 0x28
-#define Nephenee 0x29
-#define Basilio 0x2A
-#define Owain 0x2B
-#define Cynthia 0x2C
-#define Nina 0x2D
-#define Fujoshi Nina
-#define Fujo Fujoshi
-#define Ferdinand 0x2E
-#define FerdinandVonAegir Ferdinand
-#define Ashe 0x2F
-#define Lysithea 0x30
-#define Constance 0x31
-#define Jeritza 0x32
-#define DeathKnight Jeritza
-#define Junpei 0x33
-#define DaMan Junpei
-#define Zeke 0x34
-#define ZekeVonGenbuBringerOfChaos Zeke
-#define Dunban 0x35
-#define DunbanOverThere Dunban
+#define Diana 0x27
+#define Mimi 0x28
 
 //Class Definitions 
 #define Commander 0x1
@@ -145,92 +123,81 @@
 #define HalberdierF 0x13
 #define Archer 0x14
 #define ArcherF 0x15
-#define ArcherA 0x16
-#define Sniper 0x17
-#define SniperF 0x18
-#define KnightS 0x19
-#define KnightL 0x1A
-#define KnightA 0x1B
-#define General 0x1C
-#define GreatKnight 0x1D
-#define Cavalier 0x1E
-#define CavalierF 0x1F
-#define Paladin 0x20
-#define PaladinF 0x21
-#define BladeCavalier 0x22
-#define BladeCavalierF 0x23
-#define BladePaladin 0x24
-#define BladePaladinF 0x25
-#define BowCavalier 0x26
-#define BowCavalierF 0x27
-#define Ranger 0x28
-#define RangerF 0x29
-#define PegasusKnightA 0x2A
-#define PegasusKnight 0x2B
-#define Falcoknight 0x2C
-#define FalcoKnightB 0x2D
-#define WyvernRider 0x2E
-#define WyvernRiderF 0x2F
-#define WyvernLord 0x30
-#define WyvernLordF 0x31
-#define WyvernLordB 0x32
-#define MaligKnight 0x33
-#define Myrmidon 0x34
-#define MyrmidonF 0x35
-#define Swordmaster 0x36
-#define SwordmasterF 0x37
-#define DreadFighter 0x38
-#define DreadFighterF 0x39
-#define Brigand 0x3A
-#define Pirate 0x3B
-#define PirateF 0x3C
-#define Berserker 0x3D
-#define BerserkerF 0x3E
-#define Hunter 0x3F
-#define HunterF 0x40
-#define Deserter 0x41
-#define Thief 0x42
-#define Assassin 0x43
-#define Rogue 0x44
-#define Adventurer 0x45
-#define Mage 0x46
-#define MageF 0x47
-#define MageC 0x48
-#define Sage 0x49
-#define SageF 0x4A
-#define MageKnight 0x4B
-#define MageKnightF 0x4C
-#define DarkFlier 0x4D
-#define Shaman 0x4E
-#define ShamanF 0x4F
-#define Druid 0x50
+#define Sniper 0x16
+#define SniperF 0x17
+#define KnightL 0x18
+#define KnightA 0x19
+#define General 0x1A
+#define GreatKnight 0x1B
+#define Cavalier 0x1C
+#define CavalierF 0x1D
+#define Paladin 0x1E
+#define PaladinF 0x1F
+#define BladeCavalier 0x20
+#define BladeCavalierF 0x21
+#define BladePaladin 0x22
+#define BladePaladinF 0x23
+#define BowCavalier 0x24
+#define BowCavalierF 0x25
+#define Ranger 0x26
+#define RangerF 0x27
+#define PegasusKnightA 0x28
+#define PegasusKnight 0x29
+#define Falcoknight 0x2A
+#define FalcoKnightB 0x2B
+#define WyvernRider 0x2C
+#define WyvernRiderF 0x2D
+#define WyvernLord 0x2E
+#define WyvernLordF 0x2F
+#define MaligKnight 0x30
+#define Myrmidon 0x31
+#define MyrmidonF 0x32
+#define Swordmaster 0x33
+#define SwordmasterF 0x34
+#define DreadFighter 0x35
+#define Brigand 0x36
+#define Pirate 0x37
+#define PirateF 0x38
+#define Berserker 0x39
+#define BerserkerF 0x3A
+#define Hunter 0x3B
+#define HunterF 0x3C
+#define Deserter 0x3D
+#define Thief 0x3E
+#define ThiefF 0x3F
+#define Assassin 0x40
+#define Adventurer 0x41
+#define Mage 0x42
+#define MageF 0x43
+#define Sage 0x44
+#define SageF 0x45
+#define MageKnight 0x46
+#define MageKnightF 0x47
+#define Shaman 0x48
+#define ShamanF 0x49
+#define Druid 0x4A
+#define DruidF 0x4B
+#define Mimir 0x4C
+#define Monk 0x4D
+#define Priest 0x4E
+#define ClericG 0x4F
+#define Cleric 0x50
 #define Phantom 0x51
-#define DruidF 0x52
-#define Mimir 0x53
-#define Monk 0x54
-#define Priest 0x55
-#define ClericG 0x56
-#define Cleric 0x57
-#define Bishop 0x58
-#define BishopF 0x59
-#define Troubadour 0x5A
-#define Valkyrie 0x5B
-#define Supplier 0x5C
-#define Dancer 0x5D
-#define Manakete 0x5E
-#define MageDragon 0x5F
-#define EclipseKnight 0x60
-#define TwilightKnight 0x61
-#define Slugger 0x62
-#define Driver 0x63
-#define Duelist 0x64
-#define Lodestar 0x65
-
-// Item Definitions
-
-
-
-
+#define Bishop 0x52
+#define BishopF 0x53
+#define Troubadour 0x54
+#define Valkyrie 0x55
+#define Supplier 0x56
+#define Dancer 0x57
+#define Manakete 0x58
+#define MageDragon 0x59
+#define EclipseKnight 0x5A
+#define TwilightKnight 0x5B
+#define Princess 0x5C
+#define NepClass Princess
+#define DemonKing 0x5D
+#define JacobClass DemonKing
+#define MasterKnight 0x5E
 
 //Label Battle Animations
 //#ifndef ClassAnimTable
@@ -252,3 +219,12 @@
 #define DarkAnim(Animation) "BYTE Dark 0x01 ; SHORT Animation"
 #define UnarmedAnim(Animation) "BYTE Item 0x01 ; SHORT Animation"
 #define SpecialAnim(Animation,Weapon) "BYTE Weapon 0x00 ; SHORT Animation"
+
+
+//Event Definitions
+#define GiveGold(money) "CALL $591F40; SVAL 0x3 money; GIVEITEMTOMAIN 0"
+//Move unit at specified coordinate
+//Credit Pikmin1211
+#define MoveByCoords(speed, srcX, srcY, destX, destY) "SVAL sB srcX|(srcY<<16); MOVE speed UnitAtCoordsSlotB [destX, destY]"
+//Generic always event macro
+#define AlwaysEvent(completionFlag, eventOffset, triggerFlag) "AFEV completionFlag eventOffset triggerFlag"

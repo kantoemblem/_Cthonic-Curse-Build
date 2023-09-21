@@ -1,0 +1,6 @@
+## GuyName
+Guy[X]
+
+## GuyDesc
+Squad leader of the Sarkrat Bandits.[NL]
+Sarcastic and cunning.[X]

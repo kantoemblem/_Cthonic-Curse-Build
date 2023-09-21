@@ -1,66 +1,129 @@
+//Character Skills
+BenSkillList:
 
-CommanderSkillList:
-BYTE 01 FieryBloodID
-BYTE 10 DefiantCritID
-BYTE 00 00
-ALIGN 4
+ZoSkillList:
 
-TacticianSkillList:
-BYTE 05 VigilanceID
-BYTE 10 DragonFangID
-BYTE 00 00
-ALIGN 4
+AphiSkillList:
 
-AcolyteSkillList:
-BYTE 05 TriAdeptPlusID
-BYTE 10 VantageID
-BYTE 00 00
-ALIGN 4
+TedSkillList:
 
+HexSkillList:
+
+NateSkillList:
+
+MaeSkillList:
+
+NanaSkillList:
+
+JadeSkillList:
+
+CasimirSkillList:
+
+MordredSkillList:
+
+JamieSkillList:
+
+GuinivereSkillList:
+
+YokoSkillList:
+
+ChaseSkillList:
+
+AshleighSkillList:
+
+SashaSkillList:
+
+ElizabethSkillList:
+
+RyzaSkillList:
+
+DiarmuidSkillList:
+
+LavenderSkillList:
+
+OstravaSkillList:
+
+ChloeSkillList:
+
+RotaSkillList:
+
+IlariaSkillList:
+
+FayinaSkillList:
+
+ErastusSkillList:
+
+RoshalSkillList:
+
+GaignunSkillList:
+
+GlazetteSkillList:
+
+MonicaSkillList:
+
+AntonSkillList:
+
+NepSkillList:
+
+OrvaldSkillList:
+
+AcaciaSkillList:
+
+MarieSkillList:
+
+GermaineSkillList:
+
+UlyaothSkillList:
+
+DianaSkillList:
+
+MimiSkillList:
+
+
+//Class Skills
 MercSkillList:
-BYTE 01 ArmsthriftID
-BYTE 10 StrongRiposteID
+BYTE 05 StrongRiposteID
 BYTE 00 00
 ALIGN 4
 
 FighterSkillList:
-BYTE 01 PuissanceID
+BYTE 05 PuissanceID
 BYTE 10 PushStrID
 BYTE 00 00
 ALIGN 4
 
 SoldierSkillList:
-BYTE 01 RepositionID
+BYTE 05 RepositionID
 BYTE 10 SolidarityID
 BYTE 00 00
 ALIGN 4
 
 ArcherSkillList:
-BYTE 01 RallySklID
+BYTE 05 RallySklID
 BYTE 10 QuickDrawID
 BYTE 00 00
 ALIGN 4
 
 KnightSkillList:
-BYTE 01 DriveDefID
+BYTE 05 DriveDefID
 BYTE 10 NaturalCoverID
 BYTE 00 00
 ALIGN 4
 
 CavalierSkillList:
-BYTE 01 DisciplineID
+BYTE 05 DisciplineID
 BYTE 10 ChivalryID
 BYTE 00 00
 ALIGN 4
 
 BladeCavalierSkillList:
-BYTE 01 DisciplineID
+BYTE 05 DisciplineID
 BYTE 10 ElbowRoomID
 BYTE 00 00
 ALIGN 4
 
 BowCavalierSkillList:
-BYTE 01 DisciplineID
+BYTE 05 DisciplineID
 BYTE 10 CertainBlowID
 BYTE 00 00
 ALIGN 4
@@ -113,13 +176,13 @@ BYTE 00 00
 ALIGN 4
 
 MageSkillList:
-BYTE 01 FocusID
+BYTE 05 FocusID
 BYTE 10 PushMagID
 BYTE 00 00
 ALIGN 4
 
 ShamanSkillList:
-BYTE 01 AnathemaID
+BYTE 05 AnathemaID
 BYTE 10 MaleficAuraID
 BYTE 00 00
 ALIGN 4
@@ -155,7 +218,7 @@ BYTE 00 00
 ALIGN 4
 
 MageFighterSkillList:
-BYTE 01 DartingBlowID
+BYTE 05 DartingBlowID
 BYTE 10 DevilsPactID
 BYTE 00 00
 ALIGN 4
@@ -270,7 +333,7 @@ BYTE 00 00
 ALIGN 4
 
 RogueSkillList:
-BYTE 01 LocktouchID
+BYTE 05 LocktouchID
 BYTE 05 TantivyID
 BYTE 15 CelerityID
 BYTE 00 00
