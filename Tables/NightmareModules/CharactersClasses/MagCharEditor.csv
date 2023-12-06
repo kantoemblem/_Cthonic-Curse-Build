@@ -1,11 +1,11 @@
 INLINE MagCharTable,Base Magic,Magic Growth
 None,0,0
-Ben,3,25
+Ben,1,25
 Zo,12,80
 Aphi,10,70
 Ted,2,25
 Hex,3,25
-Nate,-1,65
+Nate,-3,70
 Mae,1,25
 Nana,2,40
 Jade,5,55
@@ -126,7 +126,7 @@ Orson (Ch 16),3,5
 0,0,0
 0,0,0
 0,0,0
-Grado Soldier (Special),2,0
+Grado Soldier (Special),0,0
 Grado Soldier 1 (Normal),0,0
 Grado Soldier 2,0,0
 Grado Soldier 3,0,0

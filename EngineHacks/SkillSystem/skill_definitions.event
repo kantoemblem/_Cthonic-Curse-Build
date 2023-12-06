@@ -524,7 +524,7 @@
 #define SteadyStanceID 251
 #define SturdyStanceID 252
 #define SwiftStanceID 253
-#define WardingStanceID 254
+#define WardingStanceID 255
 #define SpectrumStanceID 51
 //By Sme
 #define AlertStanceID 245
@@ -1069,4 +1069,5 @@
 // Chthonic Curse Skills
 #define EyeOfShiningJusticeID 18
 #define DunbanSkillID 19
+#define InspiritID 254
 

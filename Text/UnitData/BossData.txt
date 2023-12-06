@@ -4,3 +4,15 @@ Guy[X]
 ## GuyDesc
 Squad leader of the Sarkrat Bandits.[NL]
 Sarcastic and cunning.[X]
+
+## CorkusName
+Corkus[X]
+
+## CorkusDesc
+_[X]
+
+## RiojaName
+Rioja[X]
+
+## RiojaDesc
+_[X]

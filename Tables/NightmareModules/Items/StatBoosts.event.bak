@@ -3,15 +3,11 @@
 LightBrandBoost:
 StatBonus(0,0,0,0,0,0,10,0,0,0)
 JusticesBolt:
-StatBonus(0,0,0,0,2,0,0,0,0,0)
+StatBonus(0,0,0,0,0,3,0,0,0,0)
 EclipseBlade:
 StatBonus(0,0,0,0,0,0,0,0,0,0)
 FrostRapier:
 StatBonus(0,0,0,0,0,0,0,0,0,0)
-Missiletainn:
-StatBonus(0,0,1,0,0,0,0,0,0,0)
-PurpleLightningDreamSmasher:
-StatBonus(0,3,0,0,2,3,0,0,0,0)
 Iustitiae:
 StatBonus(0,0,0,0,0,0,0,0,0,0)
 EmpressBlade:
@@ -33,7 +29,7 @@ StatBonus(0,0,0,0,0,0,0,0,0,0)
 SBow:
 StatBonus(0,0,0,0,0,0,0,0,0,0)
 TruthsPyre:
-StatBonus(0,0,0,3,0,0,0,0,0,0)
+StatBonus(0,0,0,0,0,0,3,0,0,0)
 Veritas:
 StatBonus(0,0,0,0,0,0,0,0,0,0)
 STomeOfDeath:

@@ -1,0 +1,3 @@
+ResolveID=$3C
+SkillTester=$38
+GoBack=$30

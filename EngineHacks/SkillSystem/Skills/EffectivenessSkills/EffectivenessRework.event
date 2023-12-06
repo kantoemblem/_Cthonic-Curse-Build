@@ -10,45 +10,44 @@ WORD 0 //terminator
 
 //Change existing effective items (class weaknesses are already part of the class data table)
 #define ItemEffectivenessPtr(item_id, label_to_point_to) "PUSH; ORG ItemTable + 0x24*item_id + 0x10; POIN label_to_point_to; POP"
-ItemEffectivenessPtr(Rapier, LordWeaponEffectiveness)
-ItemEffectivenessPtr(Armorslayer, ArmorEffectiveness)
-ItemEffectivenessPtr(Wyrmslayer, DragonEffectiveness)
-ItemEffectivenessPtr(Zanbato, HorseEffectiveness)
-ItemEffectivenessPtr(Horseslayer, HorseEffectiveness)
-ItemEffectivenessPtr(Halberd, HorseEffectiveness)
-ItemEffectivenessPtr(Hammer, ArmorEffectiveness)
-ItemEffectivenessPtr(Swordslayer, SwordEffectiveness)
-ItemEffectivenessPtr(IronBow, FlierEffectiveness)
-ItemEffectivenessPtr(SteelBow, FlierEffectiveness)
-ItemEffectivenessPtr(SilverBow, FlierEffectiveness)
-ItemEffectivenessPtr(PoisonBow, FlierEffectiveness)
-ItemEffectivenessPtr(KillerBow, FlierEffectiveness)
-ItemEffectivenessPtr(BraveBow, FlierEffectiveness)
-ItemEffectivenessPtr(ShortBow, FlierEffectiveness)
-ItemEffectivenessPtr(Longbow, FlierEffectiveness)
-ItemEffectivenessPtr(Ballista, FlierEffectiveness)
-ItemEffectivenessPtr(IronBallista, FlierEffectiveness)
-ItemEffectivenessPtr(KillerBallista, FlierEffectiveness)
-ItemEffectivenessPtr(Excalibur, SacredWeaponEffectiveness)
-ItemEffectivenessPtr(Luce, SacredWeaponEffectiveness)
-ItemEffectivenessPtr(DragonAxe, DragonEffectiveness)
-ItemEffectivenessPtr(Reginleif, LordWeaponEffectiveness)
-ItemEffectivenessPtr(ShadowKiller, MonsterEffectiveness)
-ItemEffectivenessPtr(BrightLance, MonsterEffectiveness)
-ItemEffectivenessPtr(Fiendcleaver, MonsterEffectiveness)
-ItemEffectivenessPtr(BeaconBow, FlierAndMonster1)
-ItemEffectivenessPtr(Sieglinde, SacredWeaponEffectiveness)
-ItemEffectivenessPtr(Ivaldi, SacredWeaponEffectiveness)
-ItemEffectivenessPtr(DragonSpear, DragonEffectiveness)
-ItemEffectivenessPtr(Vidofnir, SacredWeaponEffectiveness)
-ItemEffectivenessPtr(Audhulma, SacredWeaponEffectiveness)
-ItemEffectivenessPtr(Siegmund, SacredWeaponEffectiveness)
-ItemEffectivenessPtr(Garm, SacredWeaponEffectiveness)
-ItemEffectivenessPtr(Nidhogg, FlierAndMonster2)
-ItemEffectivenessPtr(HeavySpear, ArmorEffectiveness)
-ItemEffectivenessPtr(WindSword, FlierEffectiveness)
-ItemEffectivenessPtr(Dragonstone, MonsterEffectiveness)
-ItemEffectivenessPtr(Aircalibur, FlierEffectiveness)
+ItemEffectivenessPtr(0x10, LordWeaponEffectiveness) //Rapier
+ItemEffectivenessPtr(0x11, ArmorEffectiveness) //Armorslayer
+ItemEffectivenessPtr(0x12, DragonEffectiveness) //Wyrmslayer
+ItemEffectivenessPtr(0x13, HorseEffectiveness) //Zanbato
+ItemEffectivenessPtr(0x17, FlierEffectiveness) //Tempest Blade
+ItemEffectivenessPtr(0x21, BanditEffectiveness) //Lady Sword
+ItemEffectivenessPtr(0x34, HorseEffectiveness) //Horseslayer
+ItemEffectivenessPtr(0x35, ArmorEffectiveness) //Heavy Spear
+ItemEffectivenessPtr(0x36, DragonEffectiveness) //Dragonspear
+ItemEffectivenessPtr(0x37, LordWeaponEffectiveness) //Rhomphaia
+ItemEffectivenessPtr(0x41, MageEffectiveness) //Gae Dearg
+ItemEffectivenessPtr(0x85, ArmorEffectiveness) //Hammer
+ItemEffectivenessPtr(0x86, DragonEffectiveness) //Dragon Axe
+ItemEffectivenessPtr(0x8A, HorseEffectiveness) //Halberd
+ItemEffectivenessPtr(0x8D, SwordEffectiveness) //Swordslayer
+ItemEffectivenessPtr(0x98, DragonEffectiveness) //Hex Axe
+ItemEffectivenessPtr(0x9A, FlierEffectiveness) //Iron Bow
+ItemEffectivenessPtr(0x9B, FlierEffectiveness) //Steel Bow
+ItemEffectivenessPtr(0x9C, FlierEffectiveness) //Silver Bow
+ItemEffectivenessPtr(0x9D, FlierEffectiveness) //Brave Bow
+ItemEffectivenessPtr(0x9E, FlierEffectiveness) //Killer Bow
+ItemEffectivenessPtr(0x9F, FlierEffectiveness) //Slaying Bow
+ItemEffectivenessPtr(0xA0, FlierEffectiveness) //Poison Bow
+ItemEffectivenessPtr(0xA1, FlierEffectiveness) //Glass Bow
+ItemEffectivenessPtr(0xA2, FlierEffectiveness) //Perfect Bow
+ItemEffectivenessPtr(0xA3, FlierEffectiveness) //Superior Bow
+ItemEffectivenessPtr(0xA5, FlierEffectiveness) //Longbow
+ItemEffectivenessPtr(0xA6, HorseEffectiveness) //Hunting Bow
+ItemEffectivenessPtr(0xA7, FlierEffectiveness) //Shining Bow
+ItemEffectivenessPtr(0xA8, FlierEffectiveness) //Ballista
+ItemEffectivenessPtr(0xA9, FlierEffectiveness) //Iron Ballista
+ItemEffectivenessPtr(0xAA, FlierEffectiveness) //Killer Ballista
+ItemEffectivenessPtr(0xAC, FlierEffectiveness) //Mae Bow
+ItemEffectivenessPtr(0xAE, FlierEffectiveness) //S Bow
+ItemEffectivenessPtr(0xB0, FlierEffectiveness) //Wind
+ItemEffectivenessPtr(0xB4, FlierEffectiveness) //Tornado
+ItemEffectivenessPtr(0xc2, FlierEffectiveness) //Excalibur
+
 
 //Protector item (macro still works, even if it's wrongly named)
 ItemEffectivenessPtr(DelphiShield, FlierProtection)

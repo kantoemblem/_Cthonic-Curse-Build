@@ -1,7 +1,7 @@
 ///////Animation Install.event///////
     
 PUSH
-AnimTableEntry(0x8A) //CHANGE THIS TO THE SLOT YOU ARE REPLACING
+AnimTableEntry(0x88) //CHANGE THIS TO THE SLOT YOU ARE REPLACING
 WORD 0 0 0 //empty name field, who cares
 POIN Anim_tedm_hx1_sectiondata
 WORD Anim_tedm_hx1_framedata|0x88000000

@@ -192,8 +192,11 @@ _[X]
 
 
 
-## ArcfireName
-Arcfire[X]
+## BolganoneName ^
+Bolganone[X]
+
+## RagnarokName
+Ragnarok[X]
 
 ## DyingBlazeName ^
 Dying Blaze[X]
@@ -212,25 +215,28 @@ Elthunder[X]
 ## ArcthunderName
 Arcthunder[X]
 
+## ThoronName
+Thoron[X]
+
 ## SuperiorJoltName ^
 Superior Jolt[X]
 
-## STomeofDeathName
-_[X]
+## DireThunderName ^
+Dire Thunder[X]
 
 
 
 ## WindName
 Wind[X]
 
-## ElwindName
-Elwind[X]
+## TornadoName
+Tornado[X]
 
 ## ArcwindName
 Arcwind[X]
 
-## ShaverName
-Shaver[X]
+## CuttingGaleName ^
+Cutting Gale[X]
 
 ## EchoingGaleName ^
 Echoing Gale[X]
@@ -239,6 +245,8 @@ Echoing Gale[X]
 _[X]
 
 
+## ResireName
+Resire[X]
 
 ## ArtemisName
 Artemis[X]
@@ -249,16 +257,25 @@ Clarent[X]
 ## GawainName
 Gawain[X]
 
-## SLightName
-_[X]
+## SaggittaeName ^
+Saggittae[X]
+
+## AbraxasName
+Abraxas[X]
 
 
 
 ## RuinName
 Ruin[X]
 
-## DarkSpikesTName
-Dark Spikes T[X]
+## MireName
+Mire[X]
+
+## HadesName
+Hades[X]
+
+## WasteName
+Waste[X]
 
 ## AgravainName
 Agravain[X]
@@ -346,7 +363,7 @@ Thief only. Can attack at range.[X]
 Thief only. Extended attack range.[X]
 
 ## JusticesBoltDesc ^
-Ben's almighty blade! +20 hit/avo when injured.[X]
+Ben's almighty blade! +3 Dmg on Enemy Phase.[X]
 
 ## LadySwordDesc ^
 A bladed forged of Hisochan Steel. Eff. bandits.[X]
@@ -458,17 +475,20 @@ _[X]
 ## FireDesc
 Standard fire magic.[X]
 
-## ElfireDesc
+## BolganoneDesc
 Strong fire magic.[X]
 
-## ArcfireDesc
-Powerful fire magic.[X]
+## RagnarokDesc
+Overwhelming fire magic.[X]
 
 ## DyingBlazeDesc ^
 Fire magic. Powerful, but quick to break.[X]
 
 ## TruthsPyreDesc ^
 Zo's Tome. +4 Damage when initiating battle.[X]
+
+## Zo2Desc
+_[X]
 
 ## VeritasDesc
 _[X]
@@ -478,7 +498,7 @@ _[X]
 ## ThunderDesc
 Standard lightning magic[X]
 
-## ElthunderDesc
+## ThoronDesc
 Strong lightning magic.[X]
 
 ## ArcthunderDesc
@@ -487,21 +507,20 @@ Powerful lightning magic.[X]
 ## SuperiorJoltDesc ^
 Grants: Tomebreaker[X]
 
-## STomeofDeathDesc
-_[X]
+
 
 
 
 ## WindDesc
 Standard wind magic.[X]
 
-## ElwindDesc
+## TornadoDesc
 Strong wind magic.[X]
 
 ## ArcwindDesc
 Powerful wind magic.[X]
 
-## ShaverDesc ^
+## CuttingGaleDesc ^
 Wind magic. Increases critical hit rate.[X]
 
 ## EchoingGaleDesc ^
@@ -518,13 +537,13 @@ _[X]
 
 
 
-## LightningDesc
+## ShineDesc
 Standard light magic.[X]
 
 ## ShineDesc
 Strong light magic.[X]
 
-## DivineDesc
+## SaggittaeDesc
 Powerful light magic.[X]
 
 ## AuraDesc
@@ -539,7 +558,7 @@ Inverts magic triangle[X]
 ## GawainDesc ^
 A tome who's blinding light damages foes after combat.[X]
 
-## SLightDesc
+## AbraxasDesc
 _[X]
 
 
@@ -547,7 +566,10 @@ _[X]
 ## FluxDesc
 Standard dark magic.[X]
 
-## FenrirDesc
+## MireDesc
+Strong dark magic.[X]
+
+## HadesDesc
 Devastating dark magic.[X]
 
 ## RuinDesc ^

@@ -365,6 +365,12 @@ HeavyBlade:
 POIN SkillTester
 WORD HeavyBladeID
 
+ALIGN 4
+Inspirit:
+#incbin "Inspirit/Inspirit.dmp"
+POIN SkillTester
+WORD InspiritID
+
 #include "ElementBoost/ElementBoost.event"
 
 #ifdef MODULAR_PRE_BATTLE_SKILLS

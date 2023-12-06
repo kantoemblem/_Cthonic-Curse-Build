@@ -1,0 +1,83 @@
+EventPointerTable(0xA,Chapter1)
+
+
+Chapter1:
+POIN TurnBasedEvents
+POIN CharacterBasedEvents
+POIN LocationBasedEvents        
+POIN MiscBasedEvents         
+POIN Dunno Dunno Dunno         
+POIN Tutorial         
+POIN TrapData TrapData         
+POIN Units Units         
+POIN $0 $0 $0 $0 $0 $0         
+POIN BeginningScene EndingScene             
+
+Units:  
+MeNTheBois:
+UNIT Ben 0x0 0x00 Level(1, Ally, 0) [7,14] 0x00 0x00 0x0 0x0 [0x0] NoAI 
+UNIT Zo 0x0 0x00 Level(1, Ally, 0) [5,14] 0x00 0x00 0x0 0x0 [0x0] NoAI 
+UNIT Ben 0x0 0x00 Level(1, Ally, 0) [6,15] 0x00 0x00 0x0 0x0 [0x0] NoAI 
+UNIT Ben 0x0 0x00 Level(1, Ally, 0) [7,15] 0x00 0x00 0x0 0x0 [0x0] NoAI 
+UNIT Ben 0x0 0x00 Level(1, Ally, 0) [8,15] 0x00 0x00 0x0 0x0 [0x0] NoAI 
+UNIT Ben 0x0 0x00 Level(1, Ally, 0) [7,16] 0x00 0x00 0x0 0x0 [0x0] NoAI  
+UNIT             
+
+GaignunAndCasimir:
+UNIT Casimir KnightL 0x00 Level(6, Ally, 0) [4,16] 0x00 0x00 0x0 0x0 [0x28, 0x1] NoAI
+UNIT Gaignun Cavalier 0x00 Level(3, Ally, 0) [5,16] 0x00 0x00 0x0 0x0 [0x10, 0x6c] NoAI
+UNIT
+
+Enemies:
+UNIT 0x42 Mercenary 0x00 Level(5, Enemy, 0) [8,0] 0x2 0x00 0x0 0x0 [0xD] [0x0, 0x3, 0x9, 0x0]
+UNIT 0x43 MyrmidonF 0x00 Level(5, Enemy, 0) [8,3] 0x0 0x00 0x0 0x0 [0x18] [0x0, 0x12, 0x9, 0x0]
+UNIT 0x80 Brigand 0x00 Level(2, Enemy, 1) [2,12] 0x00 0x00 0x0 0x0 [0x44] [0x0, 0x3, 0x9, 0x0]
+UNIT
+
+
+TurnBasedEvents:         
+END_MAIN           
+
+CharacterBasedEvents:         
+END_MAIN            
+
+LocationBasedEvents:         
+END_MAIN             
+
+MiscBasedEvents:         
+CauseGameOverIfLordDies         
+END_MAIN             
+
+Dunno:         
+//DO NOT TOUCH         
+WORD $00             
+
+Tutorial:         
+//DO NOT TOUCH        
+WORD $00             
+
+TrapData:         
+END_MAIN             
+ALIGN 4             
+
+BeginningScene:     
+LOAD3 0x1 MeNTheBois
+LOAD1 0x1 GaignunAndCasimir
+LOAD1 0x1 Enemies
+EVBIT_T 0x7
+ENDA             
+
+EndingScene:         
+ENDA             
+
+// Events             
+
+// Manual Movement             
+
+// Scripted Fights             
+
+// Units             
+
+// Shop Data             
+
+MESSAGE Events end at offset currentOffset

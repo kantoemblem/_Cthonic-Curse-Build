@@ -6,101 +6,101 @@ Acolyte,0x0
 Chaos Bringer,0x0
 Truth Bringer,0x0
 Mage Fighter,0x0
-Mercenary,MercSkillList|IsPointer
-Mercenary (F),MercSkillList|IsPointer
-Hero,HeroSkillList|IsPointer
-Hero (F),HeroSkillList|IsPointer
-Fighter,FighterSkillList|IsPointer
-Fighter (F),FighterSkillList|IsPointer
-Warrior,WarriorSkillList|IsPointer
-Warrior (F),WarriorSkillList|IsPointer
-Soldier,SoldierSkillList|IsPointer
-Soldier (F),SoldierSkillList|IsPointer
-Soldier (D),SoldierSkillList|IsPointer
-Halberdier,HalberdierSkillList|IsPointer
-Halberdier (F),HalberdierSkillList|IsPointer
-Archer,ArcherSkillList|IsPointer
-Archer (F),ArcherSkillList|IsPointer
-Archer (A),ArcherSkillList|IsPointer
-Sniper,SniperSkillList|IsPointer
-Sniper (F),SniperSkillList|IsPointer
-Knight (S),KnightSkillList|IsPointer
-Knight (L),KnightSkillList|IsPointer
-Knight (A),KnightSkillList|IsPointer
-General,GeneralSkillList|IsPointer
-Greatknight,GreatKnightSkillList|IsPointer
-Cavalier,CavalierSkillList|IsPointer
-Cavalier (F),CavalierSkillList|IsPointer
-Paladin,PaladinSkillList|IsPointer
-Paladin (F),PaladinSkillList|IsPointer
-Blade Cavalier,BladeCavalierSkillList|IsPointer
-Blade Cavalier (F),BladeCavalierSkillList|IsPointer
-Blade Paladin,BladePaladinSkillList|IsPointer
-Blade Paladin (F),BladePaladinSkillList|IsPointer
-Bow Cavalier,BowCavalierSkillList|IsPointer
-Bow Cavalier (F),BowCavalierSkillList|IsPointer
-Ranger,RangerSkillList|IsPointer
-Ranger (F),RangerSkillList|IsPointer
-Pegasus Knight (A),PegaSUSKnightSkillList|IsPointer
-Pegasus Knight (C),PegaSUSKnightSkillList|IsPointer
-Falcoknight,FalcoknightSkillList|IsPointer
-Falcoknight (E),FalcoknightSkillList|IsPointer
-Wyvern Rider,WyvernRiderSkillList|IsPointer
-Wyvern Rider (F),WyvernRiderSkillList|IsPointer
-Wyvern Lord,WyvernLord1SkillList|IsPointer
-Wyvern Lord (F),WyvernLord2SkillList|IsPointer
-Wyvern Lord (Bow),WyvernLord3SkillList|IsPointer
-MaligKnight,MaligKnightSkillList|IsPointer
-Myrmidon,MyrmidonSkillList|IsPointer
-Myrmidon (F),MyrmidonSkillList|IsPointer
-Swordmaster,SwordmasterSkillList|IsPointer
-Swordmaster (F),SwordmasterSkillList|IsPointer
-Dreadfighter,DreadfighterSkillList|IsPointer
-Dreadfighter (F),DreadfighterSkillList|IsPointer
-Brigand,BrigandSkillList|IsPointer
-Pirate,PirateSkillList|IsPointer
-Pirate (F),PirateSkillList|IsPointer
-Berserker,BerserkerSkillList|IsPointer
-Berserker (F),BerserkerSkillList|IsPointer
-Hunter,HunterSkillList|IsPointer
-Hunter (F),HunterSkillList|IsPointer
-Deserter,DeserterSkillList|IsPointer
-Thief,ThiefSkillList|IsPointer
-Assassin,AssassinSkillList|IsPointer
-Rogue,RogueSkillList|IsPointer
-Adventurer,AdventurerSkillList|IsPointer
-Mage,MageSkillList|IsPointer
-Mage (F),MageSkillList|IsPointer
-Mage (C),MageSkillList|IsPointer
-Sage,SageSkillList|IsPointer
-Sage (F),SageSkillList|IsPointer
-Mageknight,MageKnightSkillList|IsPointer
-Mageknight (F),MageKnightSkillList|IsPointer
-Dark Flier,DarkFlierSkillList|IsPointer
-Shaman,ShamanSkillList|IsPointer
-Shaman (F),ShamanSkillList|IsPointer
-Druid,DruidSkillList|IsPointer
-Summon,DreadfighterSkillList|IsPointer
-Druid (F),DruidSkillList|IsPointer
-Mimi,DruidSkillList|IsPointer
-Monk,MonkSkillList|IsPointer
-Priest,ClergySkillList|IsPointer
-Cleric (G),ClergySkillList|IsPointer
-Cleric (S),ClergySkillList|IsPointer
-Bishop,BishopMSkillList|IsPointer
-Bishop (F),BishopFSkillList|IsPointer
-Troubadour,TroubSkillList|IsPointer
-Valkyrie,ValkyrieSkillList|IsPointer
-Supplier,SupplierSkillList|IsPointer
-Dancer,DancerSkillList|IsPointer
-Manakete,ManaketeSkillList|IsPointer
-Mage Dragon,ManaketeSkillList|IsPointer
-Eclipse Knight,EclipseKnightSkillList|IsPointer
-Twilight Knight,TwilightKnightSkillList|IsPointer
-Slugger,SluggerSkillList|IsPointer
-Driver,DriverSkillList|IsPointer
-Duelist,DuelistSkillList|IsPointer
-Lodestar,LodestarSkillList|IsPointer
+Mercenary,0x0
+Mercenary (F),0x0
+Hero,0x0
+Hero (F),0x0
+Fighter,0x0
+Fighter (F),0x0
+Warrior,0x0
+Warrior (F),0x0
+Soldier,0x0
+Soldier (F),0x0
+Soldier (D),0x0
+Halberdier,0x0
+Halberdier (F),0x0
+Archer,0x0
+Archer (F),0x0
+Sniper,0x0
+Sniper (F),0x0
+Knight (L),0x0
+Knight (A),0x0
+General,0x0
+Greatknight,0x0
+Cavalier,0x0
+Cavalier (F),0x0
+Paladin,0x0
+Paladin (F),0x0
+Blade Cavalier,0x0
+Blade Cavalier (F),0x0
+Blade Paladin,0x0
+Blade Paladin (F),0x0
+Bow Cavalier,0x0
+Bow Cavalier (F),0x0
+Ranger,0x0
+Ranger (F),0x0
+Pegasus Knight (A),0x0
+Pegasus Knight (C),0x0
+Falcoknight,0x0
+Falcoknight (E),0x0
+Wyvern Rider,0x0
+Wyvern Rider (F),0x0
+Wyvern Lord,0x0
+Wyvern Lord (F),0x0
+MaligKnight,0x0
+Myrmidon,0x0
+Myrmidon (F),0x0
+Swordmaster,0x0
+Swordmaster (F),0x0
+Dreadfighter,0x0
+Brigand,0x0
+Pirate,0x0
+Pirate (F),0x0
+Berserker,0x0
+Berserker (F),0x0
+Hunter,0x0
+Hunter (F),0x0
+Deserter,0x0
+Thief,0x0
+Thief (F),0x0
+Assassin,0x0
+Adventurer,0x0
+Mage,0x0
+Mage (F),0x0
+Sage,0x0
+Sage (F),0x0
+Mageknight,0x0
+Mageknight (F),0x0
+Shaman,0x0
+Shaman (F),0x0
+Druid,0x0
+Druid (F),0x0
+Mimi,0x0
+Monk,0x0
+Priest,0x0
+Cleric (Gu),0x0
+Cleric (Gl),0x0
+Summon,0x0
+Bishop,0x0
+Bishop (F),0x0
+Troubadour,0x0
+Valkyrie,0x0
+Supplier,0x0
+Dancer,0x0
+Manakete,0x0
+Mage Dragon,0x0
+Eclipse Knight,0x0
+Twilight Knight,0x0
+Princess,0x0
+Demon King,0x0
+MasterKnight,0x0
+Mage Dragon,0x0
+Eclipse Knight,0x0
+Twilight Knight,0x0
+0x62,0x0
+0x63,0x0
+0x64,0x0
+0x65,0x0
 0x66 Demon King,0x0
 0x67 Archer on Ballista,0x0
 0x68 Archer on Iron Ballista,0x0

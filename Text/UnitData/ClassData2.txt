@@ -109,6 +109,12 @@ healing staves. Cannot fight.[X]
 A holy worker who wields staves as well[NL]
 as potent light magic.[X]
 
+## PriestessName
+Priestess[X]
+
+## PriestessDesc
+Holy maidens of sword and magic.[X]
+
 ## TroubadourDesc
 Mounted healers who possess[NL]
 high mobility, but cannot fight.[X]

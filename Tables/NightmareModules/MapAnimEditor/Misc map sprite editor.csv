@@ -66,22 +66,22 @@ Assassin,AssassinMove|IsPointer,0x81c3d7c
 Rogue,RogueMove|IsPointer,0x81c3d7c
 Mage,MageMMove|IsPointer,0x81D8668
 Mage (F),MageFMove|IsPointer,0x81D8668
-Sage,MageFMove|IsPointer,0x81D9B58
-Sage (F),SageMMove|IsPointer,0x81DA694
-Mageknight,SageFMove|IsPointer,0x81DB0F8
-Mageknight (F),MageKnightMMove|IsPointer,0x81DB0F8
-Shaman,MageKnightFMove|IsPointer,0x81DD888
-Shaman (F),FalcoKnightMove|IsPointer,0x81DD888
-Druid,ShamanMMove|IsPointer,0x81c3d7c
-Druid (F),ShamanFMove|IsPointer,0x81c3d7c
+Sage,SageMMove|IsPointer,0x81D9B58
+Sage (F),SageFMove|IsPointer,0x81DA694
+Mageknight,MageKnightMMove|IsPointer,0x81DB0F8
+Mageknight (F),MageKnightFMove|IsPointer,0x81DB0F8
+Shaman,ShamanMMove|IsPointer,0x81DD888
+Shaman (F),ShamanFMove|IsPointer,0x81DD888
+Druid,DruidMMove|IsPointer,0x81c3d7c
+Druid (F),DruidFMove|IsPointer,0x81c3d7c
 Mimi,DruidMMove|IsPointer,0x81c3d7c
-Monk,ShamanMMove|IsPointer,0x81c3d7c
-Priest,ShamanFMove|IsPointer,0x81c3d7c
+Monk,MonkMove|IsPointer,0x81c3d7c
+Priest,PriestMove|IsPointer,0x81c3d7c
 Cleric (Gu),ClericMove|IsPointer,0x81c3d7c
 Cleric (Gl),ClericMove|IsPointer,0x81c3d7c
 Summon,DreadFighterMove|IsPointer,0x81ef5cc
 Bishop,BishopMMove|IsPointer,0x81DC590
-Bishop (F),BishopFMove|IsPointer,0x81DC590
+Priestess,PriestessMove|IsPointer,0x81D9B58
 Troubadour,TroubadourMove|IsPointer,0x81EB99C
 Valkyrie,ValkyrieMove|IsPointer,0x81EB99C
 Supplier,SupplierMove|IsPointer,0x81c3d7c

@@ -71,19 +71,19 @@ Sage,10,75,25,0
 Sage (F),8,75,50,0
 Mageknight,8,75,50,0
 Mageknight (F),8,75,40,3
-Shaman,8,75,40,0
-Shaman (F),8,75,40,0
+Shaman,8,75,25,0
+Shaman (F),8,75,25,0
 Druid,8,60,25,2
 Druid (F),8,60,25,0
 Mimi,9,60,40,0
-Monk,9,40,40,0
-Priest,9,60,40,0
-Cleric (Gu),9,60,40,0
-Cleric (Gl),9,60,40,0
+Monk,7,65,25,0
+Priest,8,60,25,0
+Cleric (Gu),8,60,25,0
+Cleric (Gl),8,60,25,0
 Summon,8,40,40,0
 Bishop,8,60,25,0
 Bishop (F),8,60,25,0
-Troubadour,8,60,25,0
+Troubadour,7,60,25,0
 Valkyrie,13,70,48,0
 Supplier,9,60,40,0
 Dancer,9,60,40,0

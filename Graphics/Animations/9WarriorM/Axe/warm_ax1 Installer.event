@@ -1,7 +1,7 @@
 ///////Animation Install.event///////
     
 PUSH
-AnimTableEntry(0x2A) //CHANGE THIS TO THE SLOT YOU ARE REPLACING
+AnimTableEntry(0x28) //CHANGE THIS TO THE SLOT YOU ARE REPLACING
 WORD 0 0 0 //empty name field, who cares
 POIN Anim_warm_ax1_sectiondata
 WORD Anim_warm_ax1_framedata|0x88000000

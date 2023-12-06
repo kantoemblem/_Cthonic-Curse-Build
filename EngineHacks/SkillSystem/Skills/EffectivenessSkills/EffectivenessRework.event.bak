@@ -92,7 +92,6 @@ MageEffectiveness: //GaeBuinde
 SetWeaponEffectiveness(MagicType, 4)
 WORD 0
 
-
 #define SetProtection(type_list) "SHORT 0 type_list"
 FlierProtection:
 SetProtection(FlierType)

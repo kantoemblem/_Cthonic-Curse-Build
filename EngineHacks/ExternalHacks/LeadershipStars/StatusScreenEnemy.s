@@ -35,7 +35,7 @@ beq		DontDrawIcon
 
 @draw the icon
 ldr		r4, =#0x2023600 @coordinates
-mov		r1, #0xCA
+mov		r1, #0xC8
 mov		r2, #0xA0
 lsl		r2, r2,#0x7
 mov		r0, r4

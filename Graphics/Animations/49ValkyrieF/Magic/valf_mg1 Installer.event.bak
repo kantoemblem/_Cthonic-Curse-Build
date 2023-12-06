@@ -1,7 +1,7 @@
 ///////Animation Install.event///////
     
 PUSH
-AnimTableEntry(0xE6) //CHANGE THIS TO THE SLOT YOU ARE REPLACING
+AnimTableEntry(0xE3) //CHANGE THIS TO THE SLOT YOU ARE REPLACING
 WORD 0 0 0 //empty name field, who cares
 POIN Anim_valf_mg1_sectiondata
 WORD Anim_valf_mg1_framedata|0x88000000

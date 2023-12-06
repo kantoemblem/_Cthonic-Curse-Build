@@ -1,7 +1,7 @@
 ///////Animation Install.event///////
     
 PUSH
-AnimTableEntry(0x2F) //CHANGE THIS TO THE SLOT YOU ARE REPLACING
+AnimTableEntry(0x2D) //CHANGE THIS TO THE SLOT YOU ARE REPLACING
 WORD 0 0 0 //empty name field, who cares
 POIN Anim_Handaxe_sectiondata
 WORD Anim_Handaxe_framedata|0x88000000

@@ -1,6 +1,6 @@
 INLINE PersonalSkillTable,Skill
 None,0x0
-Ben,0x0
+Ben,InspiritID|IsPointer
 Zo,0x0
 Aphi,0x0
 Ted,0x0
@@ -64,7 +64,7 @@ Lyon's Summon,0x0
 Knoll's Summon,0x0
 Ewan's Summon,0x0
 Lyon (Ch 17),0x0
-Morva (Ch 20),FrenzyID
+Morva (Ch 20),0x0
 Orson (Ch 5x),0x0
 Valter (Ch 15),0x0
 Selena (Ch 10B & 13B),0x0

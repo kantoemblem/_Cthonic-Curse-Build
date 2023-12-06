@@ -1,57 +1,159 @@
-//Burto
+//Village
 	ALIGN 4
-	BurtoConfig:
-	#incext compress "BurtoConfig.mapchip_config"
+	VillageV2Config:
+	#incext compress "VillageV2Config.mapchip_config"
 
 	ALIGN 4
-	BurtoPalette:
-	#incext Png2Dmp "Burto.png" --palette-only
+	VillageV2Palette:
+	#incext Png2Dmp "VillageV2.png" --palette-only
 
 	ALIGN 4
-	BurtoImage:
-	#incext Png2Dmp "Burto.png" --lz77
+	VillageV2Image:
+	#incext Png2Dmp "VillageV2.png" --lz77
 
 	ALIGN 4
-	EventPointerTable[0xEC,BurtoConfig]
-	EventPointerTable[0xED,BurtoPalette]
-	EventPointerTable[0xEE,BurtoImage]
+	EventPointerTable(0x10,VillageV2Config)
+	EventPointerTable(0xF,VillageV2Palette)
+	EventPointerTable(0xE,VillageV2Image)
 	
 	ALIGN 4
-	BurtoWaterAnimation:
-	TilesetAnimation(28,4096,BurtoWater1)
-	TilesetAnimation(28,4096,BurtoWater2)
-	TilesetAnimation(28,4096,BurtoWater3)
-	TilesetAnimation(28,4096,BurtoWater4)
-	TilesetAnimation(28,4096,BurtoWater5)
-	TilesetAnimation(28,4096,BurtoWater6)
-	TilesetAnimation(28,4096,BurtoWater7)
-	TilesetAnimation(28,4096,BurtoWater8)
+	VillageAnimation:
+	TilesetAnimation(28,4096,VillageAnims1)
+	TilesetAnimation(28,4096,VillageAnims2)
+	TilesetAnimation(28,4096,VillageAnims3)
+	TilesetAnimation(28,4096,VillageAnims4)
+	TilesetAnimation(28,4096,VillageAnims5)
+	TilesetAnimation(28,4096,VillageAnims6)
+	TilesetAnimation(28,4096,VillageAnims7)
+	TilesetAnimation(28,4096,VillageAnims8)
 	WORD 0x00 0x00
 	
 	ALIGN 4
-	BurtoWater1:
-	#incext Png2Dmp "BurtoMapAnim/0.png"
+	VillageAnims1:
+	#incext Png2Dmp "villageanims/villageanims000.png"
 	ALIGN 4
-	BurtoWater2:
-	#incext Png2Dmp "BurtoMapAnim/1.png"
+	VillageAnims2:
+	#incext Png2Dmp "villageanims/villageanims001.png"
 	ALIGN 4
-	BurtoWater3:
-	#incext Png2Dmp "BurtoMapAnim/2.png"
+	VillageAnims3:
+	#incext Png2Dmp "villageanims/villageanims002.png"
 	ALIGN 4
-	BurtoWater4:
-	#incext Png2Dmp "BurtoMapAnim/3.png"
+	VillageAnims4:
+	#incext Png2Dmp "villageanims/villageanims003.png"
 	ALIGN 4
-	BurtoWater5:
-	#incext Png2Dmp "BurtoMapAnim/4.png"
+	VillageAnims5:
+	#incext Png2Dmp "villageanims/villageanims004.png"
 	ALIGN 4
-	BurtoWater6:
-	#incext Png2Dmp "BurtoMapAnim/5.png"
+	VillageAnims6:
+	#incext Png2Dmp "villageanims/villageanims005.png"
 	ALIGN 4
-	BurtoWater7:
-	#incext Png2Dmp "BurtoMapAnim/6.png"
+	VillageAnims7:
+	#incext Png2Dmp "villageanims/villageanims006.png"
 	ALIGN 4
-	BurtoWater8:
-	#incext Png2Dmp "BurtoMapAnim/7.png"
+	VillageAnims8:
+	#incext Png2Dmp "villageanims/villageanims007.png"
 	ALIGN 4
 	
-	EventPointerTable[0xEF,BurtoWaterAnimation]
+	EventPointerTable(0x12,VillageAnimation)
+
+//Fields
+	ALIGN 4
+	SuperFieldsConfig:
+	#incext compress "SuperFields.mapchip_config"
+	
+	ALIGN 4
+	SuperFieldsPalette:
+	#incext Png2Dmp "SuperFields.png" --palette-only
+	
+	ALIGN 4
+	SuperFieldsImage:
+	#incext Png2Dmp "SuperFields.png" --lz77
+
+	ALIGN 4
+	SuperFieldsAnimation:
+	TilesetAnimation(28,4096,FieldsAnims1)
+	TilesetAnimation(28,4096,FieldsAnims2)
+	TilesetAnimation(28,4096,FieldsAnims3)
+	TilesetAnimation(28,4096,FieldsAnims4)
+	TilesetAnimation(28,4096,FieldsAnims5)
+	TilesetAnimation(28,4096,FieldsAnims6)
+	TilesetAnimation(28,4096,FieldsAnims7)
+	TilesetAnimation(28,4096,FieldsAnims8)
+	TilesetAnimation(28,4096,FieldsAnims9)
+	TilesetAnimation(28,4096,FieldsAnims10)
+	TilesetAnimation(28,4096,FieldsAnims11)
+	TilesetAnimation(28,4096,FieldsAnims12)
+	TilesetAnimation(28,4096,FieldsAnims13)
+	TilesetAnimation(28,4096,FieldsAnims14)
+	TilesetAnimation(28,4096,FieldsAnims15)
+	TilesetAnimation(28,4096,FieldsAnims16)
+
+	ALIGN 4
+	FieldsAnims1:
+	#incext Png2Dmp "fieldsanims/fieldsanims000.png"
+
+	ALIGN 4
+	FieldsAnims2:
+	#incext Png2Dmp "fieldsanims/fieldsanims001.png"
+
+	ALIGN 4
+	FieldsAnims3:
+	#incext Png2Dmp "fieldsanims/fieldsanims002.png"
+
+	ALIGN 4
+	FieldsAnims4:
+	#incext Png2Dmp "fieldsanims/fieldsanims003.png"
+
+	ALIGN 4
+	FieldsAnims5:
+	#incext Png2Dmp "fieldsanims/fieldsanims004.png"
+
+	ALIGN 4
+	FieldsAnims6:
+	#incext Png2Dmp "fieldsanims/fieldsanims005.png"
+
+	ALIGN 4
+	FieldsAnims7:
+	#incext Png2Dmp "fieldsanims/fieldsanims006.png"
+
+	ALIGN 4
+	FieldsAnims8:
+	#incext Png2Dmp "fieldsanims/fieldsanims007.png"
+
+	ALIGN 4
+	FieldsAnims9:
+	#incext Png2Dmp "fieldsanims/fieldsanims008.png"
+
+	ALIGN 4
+	FieldsAnims10:
+	#incext Png2Dmp "fieldsanims/fieldsanims009.png"
+
+	ALIGN 4
+	FieldsAnims11:
+	#incext Png2Dmp "fieldsanims/fieldsanims010.png"
+
+	ALIGN 4
+	FieldsAnims12:
+	#incext Png2Dmp "fieldsanims/fieldsanims011.png"
+
+	ALIGN 4
+	FieldsAnims13:
+	#incext Png2Dmp "fieldsanims/fieldsanims012.png"
+
+	ALIGN 4
+	FieldsAnims14:
+	#incext Png2Dmp "fieldsanims/fieldsanims013.png"
+
+	ALIGN 4
+	FieldsAnims15:
+	#incext Png2Dmp "fieldsanims/fieldsanims014.png"
+
+	ALIGN 4
+	FieldsAnims16:
+	#incext Png2Dmp "fieldsanims/fieldsanims015.png"	
+	
+	ALIGN 4
+	EventPointerTable(0x3,SuperFieldsConfig)
+	EventPointerTable(0x2,SuperFieldsPalette)
+	EventPointerTable(0x1,SuperFieldsImage)
+	EventPointerTable(0x5,SuperFieldsAnimation)

@@ -355,7 +355,7 @@
 //By Sme
 #define ChargePlusID 255
 
-//Critical Force: Base critical is Skl * 1.5.
+//Critical Force: Base critical is Lck * 1.5.
 //Author Unknown (Initial Commit)
 #define CriticalForceID 213
 
@@ -475,7 +475,7 @@
 //Author Unknown (Initial Commit)
 #define NaturalCoverID 224
 
-//Opportunist: +4 damage if the foe cannot counter.
+//Opportunist: +5 damage if the foe cannot counter.
 //By Tequila
 #define OpportunistID 225
 
@@ -1066,7 +1066,7 @@
 #define Roll12ID 255
 #define TraceID 255
 
-// Cthonic Curse Skills
+// Chthonic Curse Skills
 #define EyeOfShiningJusticeID 18
 #define DunbanSkillID 19
 

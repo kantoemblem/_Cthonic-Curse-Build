@@ -1,7 +1,7 @@
 //Map palettes
 PUSH
 ORG 0x59EE20 //Player Map Palette data position
-BYTE $90 $42 $08 $41 $B0 $6E $79 $73 $4C $29 $14 $26 $BD $63 $C3 $2C $40 $55 $00 $66 $C3 $7E $76 $14 $BD $23 $EE $31 $BD $77 $A6 $14 //Player Map Palette
+BYTE $90 $42 $C7 $24 $71 $66 $F7 $72 $2C $25 $34 $32 $BD $63 $A6 $30 $E5 $48 $27 $5D $C2 $7D $17 $14 $9F $23 $EE $31 $BE $77 $A6 $14 //Player Map Palette
 POP 
 
 PUSH

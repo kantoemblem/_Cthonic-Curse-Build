@@ -1277,3 +1277,6 @@ and restores half damage dealt on crit[X]
 ## SD_EyeOfShiningJustice
 Eye of Shining Justice: Increases[N]
 critical damage by 75%[X]
+
+## SD_Inspirit
+Inspirit: Deal +5 Damage to bosses.[X]

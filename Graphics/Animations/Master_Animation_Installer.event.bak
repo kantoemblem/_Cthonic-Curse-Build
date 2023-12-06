@@ -52,455 +52,455 @@
 //	#include "4TruthBringer/Magic Installer.event" //0C
 //	}
 //	{
-//	#include "4TruthBringer/Staff Installer.event" //0D
+//	#include "5MageFighter/Sword/mage_sw1 Installer.event" //0D
+//	}
+//	{
+//	#include "5MageFighter/Magic/mage_mg1 Installer.event" //0E
 //	}
 	{
-	#include "5MageFighter/Sword/mage_sw1 Installer.event" //0E
+	#include "6MercenaryM/Sword/merm_sw1 Installer.event" //0F
 	}
 	{
-	#include "5MageFighter/Magic/mage_mg1 Installer.event" //0F
-	}
-	{
-	#include "5MageFighter/Staff/mage_ro1 Installer.event" //10
-	}
-	{
-	#include "6MercenaryM/Sword/merm_sw1 Installer.event" //11
-	}
-	{
-	#include "6MercenaryM/Unarmed/merm_un1 Installer.event" //12
+	#include "6MercenaryM/Unarmed/merm_un1 Installer.event" //10
 	}	
 	{
-	#include "6MercenaryF/Sword/merf_sw1 Installer.event" //13
+	#include "6MercenaryF/Sword/merf_sw1 Installer.event" //11
 	}
 	{
-	#include "6MercenaryF/Unarmed/merf_un1 Installer.event" //14
+	#include "6MercenaryF/Unarmed/merf_un1 Installer.event" //12
 	}
 	{
-	#include "7HeroM/Sword/herm_sw1 Installer.event" //15
+	#include "7HeroM/Sword/herm_sw1 Installer.event" //13
 	}
 	{
-	#include "7HeroM/Axe/herm_ax1 Installer.event" //16
+	#include "7HeroM/Axe/herm_ax1 Installer.event" //14
 	}
 	{
-	#include "7HeroM/Handaxe/herm_hx1 Installer.event" //17
+	#include "7HeroM/Handaxe/herm_hx1 Installer.event" //15
 	}	
 	{
-	#include "7HeroM/Unarmed/herm_un1 Installer.event" //18
+	#include "7HeroM/Unarmed/herm_un1 Installer.event" //16
 	}
 	{
-	#include "7HeroF/Sword/herf_sw1 Installer.event" //19
+	#include "7HeroF/Sword/herf_sw1 Installer.event" //17
 	}
 	{
-	#include "7HeroF/Axe/herf_ax1 Installer.event" //1A
+	#include "7HeroF/Axe/herf_ax1 Installer.event" //18
 	}
 	{
-	#include "7HeroF/Handaxe/herf_hx1 Installer.event" //1B
+	#include "7HeroF/Handaxe/herf_hx1 Installer.event" //19
 	}
 	{
-	#include "7HeroF/Unarmed/herf_un1 Installer.event" //1C
+	#include "7HeroF/Unarmed/herf_un1 Installer.event" //1A
 	}
 //	{
-//	#include "7HeroOst/Sword/herm_sw1 Installer.event" //1D
+//	#include "7HeroOst/Sword/herm_sw1 Installer.event" //1B
 //	}
 //	{
-//	#include "7HeroOst/Axe/herm_ax1 Installer.event" //1E
+//	#include "7HeroOst/Axe/herm_ax1 Installer.event" //1C
 //	}
 //	{
-//	#include "7HeroOst/Handaxe/herm_hx1 Installer.event" //1F
+//	#include "7HeroOst/Handaxe/herm_hx1 Installer.event" //1D
 //	}	
 //	{
-//	#include "7HeroOst/Unarmed/herm_un1 Installer.event" //20
+//	#include "7HeroOst/Unarmed/herm_un1 Installer.event" //1E
 //	}
 	{
-	#include "8FighterM/Axe/figm_ax1 Installer.event" //21
+	#include "8FighterM/Axe/figm_ax1 Installer.event" //1F
 	}
 	{
-	#include "8FighterM/Handaxe/figm_hx1 Installer.event" //22
+	#include "8FighterM/Handaxe/figm_hx1 Installer.event" //20
 	}
 	{
-	#include "8FighterM/Unarmed/figm_un1 Installer.event" //23
+	#include "8FighterM/Unarmed/figm_un1 Installer.event" //21
 	}
 	{
-	#include "8FighterF/Axe/figf_ax1 Installer.event" //24
+	#include "8FighterF/Axe/figf_ax1 Installer.event" //22
 	}
 	{
-	#include "8FighterF/Handaxe/figf_hx1 Installer.event" //25
+	#include "8FighterF/Handaxe/figf_hx1 Installer.event" //23
 	}
 	{
-	#include "8FighterF/Unarmed/figf_un1 Installer.event" //26
+	#include "8FighterF/Unarmed/figf_un1 Installer.event" //24
 	}
 //	{
-//	#include "8FighterOst/Axe/figm_ax1 Installer.event" //27
+//	#include "8FighterOst/Axe/figm_ax1 Installer.event" //25
 //	}
 //	{
-//	#include "8FighterOst/Handaxe/figm_hx1 Installer.event" //28
+//	#include "8FighterOst/Handaxe/figm_hx1 Installer.event" //26
 //	}
 //	{
-//	#include "8FighterOst/Unarmed/figm_un1 Installer.event" //29
+//	#include "8FighterOst/Unarmed/figm_un1 Installer.event" //27
 //	}
 	{
-	#include "9WarriorM/Axe/warm_ax1 Installer.event" //2A
+	#include "9WarriorM/Axe/warm_ax1 Installer.event" //28
 	}
 	{
-	#include "9WarriorM/Handaxe/warm_hx1 Installer.event" //2B
+	#include "9WarriorM/Handaxe/warm_hx1 Installer.event" //29
 	}
 	{
-	#include "9WarriorM/Bow/warm_ar1 Installer.event" //2C
+	#include "9WarriorM/Bow/warm_ar1 Installer.event" //2A
 	}
 	{
-	#include "9WarriorM/Unarmed/warm_un1 Installer.event" //2D
+	#include "9WarriorM/Unarmed/warm_un1 Installer.event" //2B
 	}
 	{
-	#include "9WarriorF/Axe/Axe Installer.event" //2E
+	#include "9WarriorF/Axe/Axe Installer.event" //2C
 	}
 	{
-	#include "9WarriorF/Handaxe/Handaxe Installer.event" //2F
+	#include "9WarriorF/Handaxe/Handaxe Installer.event" //2D
 	}
 	{
-	#include "9WarriorF/Bow/Bow Installer.event" //30
+	#include "9WarriorF/Bow/Bow Installer.event" //2E
 	}
 	{
-	#include "9WarriorF/Unarmed/Unarmed Installer.event" //31
+	#include "9WarriorF/Unarmed/Unarmed Installer.event" //2F
 	}
 	{
-	#include "10SoldierM/Lance/solm_sp1 Installer.event" //32
+	#include "10SoldierM/Lance/solm_sp1 Installer.event" //30
 	}
 	{
-	#include "10SoldierM/Unarmed/solm_un1 Installer.event" //33
+	#include "10SoldierM/Unarmed/solm_un1 Installer.event" //31
 	}
 	{
-	#include "10SoldierF/Lance/solf_sp1 Installer.event" //34
+	#include "10SoldierF/Lance/solf_sp1 Installer.event" //32
 	}
 	{
-	#include "10SoldierF/Unarmed/solf_un1 Installer.event" //35
+	#include "10SoldierF/Unarmed/solf_un1 Installer.event" //33
 	}
 //	{
-//	#include "11LancerD/Lance/lanm_sp1 Installer.event" //36
+//	#include "11LancerD/Lance/lanm_sp1 Installer.event" //34
 //	}
 //	{
-//	#include "11LancerD/Unarmed/lanm_un1 Installer.event" //37
+//	#include "11LancerD/Unarmed/lanm_un1 Installer.event" //35
 //	}
 	{
-	#include "12HalberdierM/Lance/halm_sp1 Installer.event" //38
+	#include "12HalberdierM/Lance/halm_sp1 Installer.event" //36
 	}
 	{
-	#include "12HalberdierM/Unarmed/halm_un1 Installer.event" //39
+	#include "12HalberdierM/Unarmed/halm_un1 Installer.event" //37
 	}
 	{
-	#include "12HalberdierF/Lance/half_sp1 Installer.event" //3A
+	#include "12HalberdierF/Lance/half_sp1 Installer.event" //38
 	}
 	{
-	#include "12HalberdierF/Unarmed/half_un1 Installer.event" //3B
+	#include "12HalberdierF/Unarmed/half_un1 Installer.event" //39
 	}
 	{
-	#include "13ArcherM/Bow/arm_ar1 Installer.event" //3C
+	#include "13ArcherM/Bow/arm_ar1 Installer.event" //3A
 	}
 	{
-	#include "13ArcherM/Unarmed/arm_un1 Installer.event" //3D
+	#include "13ArcherM/Unarmed/arm_un1 Installer.event" //3B
 	}
 	{
-	#include "13ArcherF/Bow/arcf_ar1 Installer.event" //3E
+	#include "13ArcherF/Bow/arcf_ar1 Installer.event" //3C
 	}
 	{
-	#include "13ArcherF/Unarmed/arcf_un1 Installer.event" //3F
+	#include "13ArcherF/Unarmed/arcf_un1 Installer.event" //3D
 	}
 	{
-	#include "14SniperM/Bow/snim_ar1 Installer.event" //40
+	#include "14SniperM/Bow/snim_ar1 Installer.event" //3E
 	}
 	{
-	#include "14SniperM/Unarmed/snim_un1 Installer.event" //41
+	#include "14SniperM/Unarmed/snim_un1 Installer.event" //3F
 	}
 	{
-	#include "14SniperF/Bow/snif_ar1 Installer.event" //42
+	#include "14SniperF/Bow/snif_ar1 Installer.event" //40
 	}
 	{
-	#include "14SniperF/Unarmed/snif_un1 Installer.event" //43
+	#include "14SniperF/Unarmed/snif_un1 Installer.event" //41
 	}
 	{
-	#include "14SniperMae/Bow/maef_ar1 Installer.event" //44
+	#include "14SniperMae/Bow/maef_ar1 Installer.event" //42
 	}
 	{
-	#include "14SniperMae/Unarmed/maef_un1 Installer.event" //45
+	#include "14SniperMae/Unarmed/maef_un1 Installer.event" //43
 	}
 //	{
-//	#include "14SniperRoshal/Bow/rosm_ar1 Installer.event" //46
+//	#include "14SniperRoshal/Bow/rosm_ar1 Installer.event" //44
 //	}
 //	{
-//	#include "14SniperRoshal/Unarmed/rosm_un1 Installer.event" //47
+//	#include "14SniperRoshal/Unarmed/rosm_un1 Installer.event" //45
 //	}
 	{
-	#include "15Knight/Sword/armm_sw1 Installer.event" //48
+	#include "15Knight/Sword/armm_sw1 Installer.event" //46
 	}
 	{
-	#include "15Knight/Lance/armm_sp1 Installer.event" //49
+	#include "15Knight/Lance/armm_sp1 Installer.event" //47
 	}
 	{
-	#include "15Knight/Axe/armm_ax1 Installer.event" //4A
+	#include "15Knight/Axe/armm_ax1 Installer.event" //48
 	}
 	{
-	#include "15Knight/Handaxe/armm_hx1 Installer.event" //4B
+	#include "15Knight/Handaxe/armm_hx1 Installer.event" //49
 	}
 	{
-	#include "15Knight/Unarmed/armm_un1 Installer.event" //4C
+	#include "15Knight/Unarmed/armm_un1 Installer.event" //4A
 	}
 	{
-	#include "16General/Sword/genm_sw1 Installer.event" //4D
+	#include "16General/Sword/genm_sw1 Installer.event" //4B
 	}
 	{
-	#include "16General/Lance/genm_sp1 Installer.event" //4E
+	#include "16General/Lance/genm_sp1 Installer.event" //4C
 	}
 	{
-	#include "16General/Axe/genm_ax1 Installer.event" //4F
+	#include "16General/Axe/genm_ax1 Installer.event" //4D
 	}
 	{
-	#include "16General/Handaxe/genm_hx1 Installer.event" //50
+	#include "16General/Handaxe/genm_hx1 Installer.event" //4E
 	}
 	{
-	#include "16General/Unarmed/genm_un1 Installer.event" //51
+	#include "16General/Unarmed/genm_un1 Installer.event" //4F
 	}
 	{
-	#include "17Greatknight/Sword/grkm_sw1 Installer.event" //52
+	#include "17Greatknight/Sword/grkm_sw1 Installer.event" //50
 	}
 	{
-	#include "17Greatknight/Lance/grkm_sp1 Installer.event" //53
+	#include "17Greatknight/Lance/grkm_sp1 Installer.event" //51
 	}
 	{
-	#include "17Greatknight/Axe/grkm_ax1 Installer.event" //54
+	#include "17Greatknight/Axe/grkm_ax1 Installer.event" //52
 	}
 	{
-	#include "17Greatknight/Handaxe/grkm_hx1 Installer.event" //55
+	#include "17Greatknight/Handaxe/grkm_hx1 Installer.event" //53
 	}
 	{
-	#include "17Greatknight/Unarmed/grkm_un1 Installer.event" //56
+	#include "17Greatknight/Unarmed/grkm_un1 Installer.event" //54
 	}
 	{
-	#include "18CavalierM/Sword/cavm_sw1 Installer.event" //57
+	#include "18CavalierM/Sword/cavm_sw1 Installer.event" //55
 	}
 	{
-	#include "18CavalierM/Lance/cavm_sp1 Installer.event" //58
+	#include "18CavalierM/Lance/cavm_sp1 Installer.event" //56
 	}
 	{
-	#include "18CavalierM/Axe/cavm_ax1 Installer.event" //59
+	#include "18CavalierM/Axe/cavm_ax1 Installer.event" //57
 	}
 	{
-	#include "18CavalierM/Handaxe/cavm_hx1 Installer.event" //5A
+	#include "18CavalierM/Handaxe/cavm_hx1 Installer.event" //58
 	}
 	{
-	#include "18CavalierM/Bow/cavm_ar1 Installer.event" //5B
+	#include "18CavalierM/Bow/cavm_ar1 Installer.event" //59
 	}
 	{
-	#include "18CavalierM/Unarmed/cavm_un1 Installer.event" //5C (Will be magic later)
+	#include "18CavalierM/Unarmed/cavm_un1 Installer.event" //5A (Will be magic later)
 	}
 	{
-	#include "18CavalierF/Sword/cavf_sw1 Installer.event" //5D
+	#include "18CavalierF/Sword/cavf_sw1 Installer.event" //5B
 	}
 	{
-	#include "18CavalierF/Lance/cavf_sp1 Installer.event" //5E
+	#include "18CavalierF/Lance/cavf_sp1 Installer.event" //5C
 	}
 	{
-	#include "18CavalierF/Axe/cavf_ax1 Installer.event" //5F
+	#include "18CavalierF/Axe/cavf_ax1 Installer.event" //5D
 	}
 	{
-	#include "18CavalierF/Handaxe/cavf_hx1 Installer.event" //60
+	#include "18CavalierF/Handaxe/cavf_hx1 Installer.event" //5E
 	}
 	{
-	#include "18CavalierF/Bow/cavf_ar1 Installer.event" //61
+	#include "18CavalierF/Bow/cavf_ar1 Installer.event" //5F
 	}
 	{
-	#include "18CavalierF/Unarmed/cavf_un1 Installer.event" //62
+	#include "18CavalierF/Unarmed/cavf_un1 Installer.event" //60
 	}
 	{
-	#include "18CavalierJamie/Sword/cavf_sw1 Installer.event" //63
+	#include "18CavalierJamie/Sword/cavj_sw1 Installer.event" //61
 	}
 	{
-	#include "18CavalierJamie/Lance/cavf_sp1 Installer.event" //64
+	#include "18CavalierJamie/Lance/cavj_sp1 Installer.event" //62
 	}
 	{
-	#include "18CavalierJamie/Unarmed/cavf_un1 Installer.event" //65
+	#include "18CavalierJamie/Unarmed/cavj_un1 Installer.event" //63
 	}
 	{
-	#include "19PaladinM/Sword/palm_sw1 Installer.event" //66
+	#include "19PaladinM/Sword/palm_sw1 Installer.event" //64
 	}
 	{
-	#include "19PaladinM/Lance/palm_sp1 Installer.event" //67
+	#include "19PaladinM/Lance/palm_sp1 Installer.event" //65
 	}
 	{
-	#include "19PaladinM/Magic/palm_mg1 Installer.event" //68
+	#include "19PaladinM/Magic/palm_mg1 Installer.event" //66
 	}
 	{
-	#include "19PaladinF/Sword/palf_sw1 Installer.event" //69
+	#include "19PaladinF/Sword/palf_sw1 Installer.event" //67
 	}
 	{
-	#include "19PaladinF/Lance/palf_sp1 Installer.event" //6A
+	#include "19PaladinF/Lance/palf_sp1 Installer.event" //68
 	}
 	{
-	#include "19PaladinF/Unarmed/palf_un1 Installer.event" //6B
+	#include "19PaladinF/Unarmed/palf_un1 Installer.event" //69
 	}
 	{
-	#include "19PaladinJamie/Sword/palf_sw1 Installer.event" //6C
+	#include "19PaladinJamie/Sword/palj_sw1 Installer.event" //6A
 	}
 	{
-	#include "19PaladinJamie/Lance/palf_sp1 Installer.event" //6D
+	#include "19PaladinJamie/Lance/palj_sp1 Installer.event" //6B
 	}
 	{
-	#include "19PaladinJamie/Unarmed/palf_un1 Installer.event" //6E
+	#include "19PaladinJamie/Unarmed/palj_un1 Installer.event" //6C
 	}
 	{
-	#include "20BladePaladinM/Sword/bldm_sw1 Installer.event" //6F
+	#include "20BladePaladinM/Sword/bldm_sw1 Installer.event" //6D
 	}
 	{
-	#include "20BladePaladinM/Axe/bldm_ax1 Installer.event" //70
+	#include "20BladePaladinM/Axe/bldm_ax1 Installer.event" //6E
 	}
 	{
-	#include "20BladePaladinM/Handaxe/bldm_hx1 Installer.event" //71
+	#include "20BladePaladinM/Handaxe/bldm_hx1 Installer.event" //6F
 	}
 	{
-	#include "20BladePaladinM/Unarmed/bldm_un1 Installer.event" //72
+	#include "20BladePaladinM/Unarmed/bldm_un1 Installer.event" //70
 	}
 	{
-	#include "20BladePaladinF/Sword/bldf_sw1 Installer.event" //73
+	#include "20BladePaladinF/Sword/bldf_sw1 Installer.event" //71
 	}
 	{
-	#include "20BladePaladinF/Axe/bldf_ax1 Installer.event" //74
+	#include "20BladePaladinF/Axe/bldf_ax1 Installer.event" //72
 	}
 	{
-	#include "20BladePaladinF/Handaxe/bldf_hx1 Installer.event" //75
+	#include "20BladePaladinF/Handaxe/bldf_hx1 Installer.event" //73
 	}
 	{
-	#include "20BladePaladinF/Unarmed/bldf_un1 Installer.event" //76
+	#include "20BladePaladinF/Unarmed/bldf_un1 Installer.event" //74
 	}
 	{
-	#include "21RangerM/Sword/ranm_sw1 Installer.event" //77
+	#include "21RangerM/Sword/ranm_sw1 Installer.event" //75
 	}
 	{
-	#include "21RangerM/Bow/ranm_ar1 Installer.event" //78
+	#include "21RangerM/Bow/ranm_ar1 Installer.event" //76
 	}
 	{
-	#include "21RangerM/Unarmed/ranm_un1 Installer.event" //79
+	#include "21RangerM/Unarmed/ranm_un1 Installer.event" //77
 	}
 	{
-	#include "21RangerF/Sword/ranf_sw1 Installer.event" //7A
+	#include "21RangerF/Sword/ranf_sw1 Installer.event" //78
 	}
 	{
-	#include "21RangerF/Bow/ranf_ar1 Installer.event" //7B
+	#include "21RangerF/Bow/ranf_ar1 Installer.event" //79
 	}
 	{
-	#include "21RangerF/Unarmed/ranf_un1 Installer.event" //7C
+	#include "21RangerF/Unarmed/ranf_un1 Installer.event" //7A
 	}
 	{
-	#include "22PegasusKnight/Lance/pegf_sp1 Installer.event" //7D
+	#include "22PegasusKnight/Lance/pegf_sp1 Installer.event" //7B
 	}
 	{
-	#include "22PegasusKnight/Unarmed/pegf_un1 Installer.event" //7E
+	#include "22PegasusKnight/Unarmed/pegf_un1 Installer.event" //7C
 	}
 	{
-	#include "23Falcoknight/Sword/flcf_sw1 Installer.event" //7F
+	#include "23Falcoknight/Sword/flcf_sw1 Installer.event" //7D
 	}
 	{
-	#include "23Falcoknight/Lance/flcf_sp1 Installer.event" //80
+	#include "23Falcoknight/Lance/flcf_sp1 Installer.event" //7E
 	}
 	{
-	#include "23Falcoknight/Bow/flcf_ar1 Installer.event" //81
+	#include "23Falcoknight/Bow/flcf_ar1 Installer.event" //7F
 	}
 	{
-	#include "23Falcoknight/Staff/flcf_ro1 Installer.event" //82
+	#include "23Falcoknight/Staff/flcf_ro1 Installer.event" //80
 	}
 	{
-	#include "23Falcoknight/Unarmed/flcf_un1 Installer.event" //83
+	#include "23Falcoknight/Unarmed/flcf_un1 Installer.event" //81
 	}
 	{
-	#include "24WyvernRiderM/Axe/wyrm_ax1 Installer.event" //84
+	#include "24WyvernRiderM/Axe/wyrm_ax1 Installer.event" //82
 	}
 	{
-	#include "24WyvernRiderM/Handaxe/wyrm_hx1 Installer.event" //85
+	#include "24WyvernRiderM/Handaxe/wyrm_hx1 Installer.event" //83
 	}
 	{
-	#include "24WyvernRiderM/Unarmed/wyrm_un1 Installer.event" //86
+	#include "24WyvernRiderM/Unarmed/wyrm_un1 Installer.event" //84
 	}
 	{
-	#include "24WyvernRiderF/Lance/wyrf_sp1 Installer.event" //87
+	#include "24WyvernRiderF/Lance/wyrf_sp1 Installer.event" //85
 	}
 	{
-	#include "24WyvernRiderF/Unarmed/wyrf_un1 Installer.event" //88
+	#include "24WyvernRiderF/Unarmed/wyrf_un1 Installer.event" //86
 	}
 	{
-	#include "24WyvernRiderT/Axe/tedm_ax1 Installer.event" //89
+	#include "24WyvernRiderT/Axe/tedm_ax1 Installer.event" //87
 	}
 	{
-	#include "24WyvernRiderT/Handaxe/tedm_hx1 Installer.event" //8A
+	#include "24WyvernRiderT/Handaxe/tedm_hx1 Installer.event" //88
 	}
 	{
-	#include "24WyvernRiderT/Unarmed/tedm_un1 Installer.event" //8B
+	#include "24WyvernRiderT/Unarmed/tedm_un1 Installer.event" //89
 	}
 	{
-	#include "25WyvernLord/Sword/wylm_sw1 Installer.event" //8C
+	#include "25WyvernLord/Sword/wylm_sw1 Installer.event" //8A
 	}
 	{
-	#include "25WyvernLord/Lance/wylm_sp1 Installer.event" //8D
+	#include "25WyvernLord/Lance/wylm_sp1 Installer.event" //8B
 	}
 	{
-	#include "25WyvernLord/Axe/wylm_ax1 Installer.event" //8E
+	#include "25WyvernLord/Axe/wylm_ax1 Installer.event" //8C
 	}
 	{
-	#include "25WyvernLord/Handaxe/wylm_hx1 Installer.event" //8F
+	#include "25WyvernLord/Handaxe/wylm_hx1 Installer.event" //8D
 	}
 	{
-	#include "25WyvernLord/Unarmed/wylm_un1 Installer.event" //90
+	#include "25WyvernLord/Unarmed/wylm_un1 Installer.event" //8E
+	}
+	{
+	#include "25WyvernLordTed/Sword/tedl_sw1 Installer.event" //8F
+	}
+	{
+	#include "25WyvernLordTed/Axe/tedl_ax1 Installer.event" //90
+	}
+	{
+	#include "25WyvernLordTed/Handaxe/tedl_hx1 Installer.event" //91
+	}
+	{
+	#include "25WyvernLordTed/Unarmed/tedl_un1 Installer.event" //92
+	}
+	{
+	#include "26MaligKnight/Lance/wykm_sp1 Installer.event" //93
+	}
+	{
+	#include "26MaligKnight/Magic/wykm_mg1 Installer.event" //94
+	}
+	{
+	#include "27MyrmidonM/Sword/myrm_sw1 Installer.event" //95
+	}
+	{
+	#include "27MyrmidonM/Unarmed/myrm_un1 Installer.event" //96
+	}
+	{
+	#include "27MyrmidonF/Sword/myrf_sw1 Installer.event" //97
+	}
+	{
+	#include "27MyrmidonF/Unarmed/myrf_un1 Installer.event" //98
+	}
+	{
+	#include "28SwordmasterM/Sword/swmm_sw1 Installer.event" //99
+	}
+	{
+	#include "28SwordmasterM/Unarmed/swmm_un1 Installer.event" //9A
+	}
+	{
+	#include "28SwordmasterF/Sword/swmf_sw1 Installer.event" //9B
+	}
+	{
+	#include "28SwordmasterF/Unarmed/swmf_un1 Installer.event" //9C
+	}
+	{
+	#include "28SwordmasterY/Sword/swmy_sw1 Installer.event" //9D
 	}
 //	{
-//	#include "25WyvernLordTed/Sword/tedl_sw1 Installer.event" //91
+//	#include "28SwordmasterA/Sword/swma_sw1 Installer.event" //9E
 //	}
 	{
-	#include "25WyvernLordTed/Axe/tedl_ax1 Installer.event" //92
+	#include "29Dreadfighter/Sword/drfu_sw1 Installer.event" //9F
+	}
+	{
+	#include "29Dreadfighter/Magic/drfu_mg1 Installer.event" //A0
 	}
 //	{
-//	#include "25WyvernLordTed/Handaxe/tedl_hx1 Installer.event" //93
+//	#include "29DreadfighterN/Sword/drfn_sw1 Installer.event" //A1
 //	}
 //	{
-//	#include "25WyvernLordTed/Unarmed/tedl_un1 Installer.event" //94
+//	#include "29DreadfighterN/Magic/drfn_un1 Installer.event" //A2
 //	}
-	{
-	#include "26MaligKnight/Lance/wykm_sp1 Installer.event" //95
-	}
-	{
-	#include "26MaligKnight/Magic/wykm_mg1 Installer.event" //96
-	}
-	{
-	#include "27MyrmidonM/Sword/myrm_sw1 Installer.event" //97
-	}
-	{
-	#include "27MyrmidonM/Unarmed/myrm_un1 Installer.event" //98
-	}
-	{
-	#include "27MyrmidonF/Sword/myrf_sw1 Installer.event" //99
-	}
-	{
-	#include "27MyrmidonF/Unarmed/myrf_un1 Installer.event" //9A
-	}
-	{
-	#include "28SwordmasterM/Sword/swmm_sw1 Installer.event" //9B
-	}
-	{
-	#include "28SwordmasterM/Unarmed/swmm_un1 Installer.event" //9C
-	}
-	{
-	#include "28SwordmasterF/Sword/swmf_sw1 Installer.event" //9D
-	}
-	{
-	#include "28SwordmasterF/Unarmed/swmf_un1 Installer.event" //9E
-	}
-	{
-	#include "28SwordmasterY/Sword/swmy_sw1 Installer.event" //9F
-	}
-//	{
-//	#include "28SwordmasterA/Sword/swma_sw1 Installer.event" //A0
-//	}
-	{
-	#include "29Dreadfighter/Sword/drfu_sw1 Installer.event" //A1
-	}
-	{
-	#include "29Dreadfighter/Magic/drfu_mg1 Installer.event" //A2
-	}
 	{
 	#include "30Brigand/Axe/brim_ax1 Installer.event" //A3
 	}
@@ -586,9 +586,6 @@
 	#include "37Adventurer/Bow/advf_ar1 Installer.event" //BE
 	}
 	{
-	#include "37Adventurer/Staff/advf_ro1 Installer.event" //BF
-	}
-	{
 	#include "37Adventurer/Unarmed/advf_un1 Installer.event" //C0
 	}
 	{
@@ -604,173 +601,152 @@
 	#include "40SageM/Magic/sagm_mg1 Installer.event" //C4
 	}
 	{
-	#include "40SageM/StaffAttack/sagm_st1 Installer.event" //C5
-	}
-	{
-	#include "40SageF/Magic/sagf_mg1 Installer.event" //C6
-	}
-	{
-	#include "40SageF/Staff/sagf_ro1 Installer.event" //C7
+	#include "40SageF/Magic/sagf_mg1 Installer.event" //C5
 	}
 //	{
-//	#include "40SageN/Magic/sagn_mg1 Installer.event" //C8
-//	}
-//	{
-//	#include "40SageN/StaffAttack/sagn_st1 Installer.event" //C9
+//	#include "40SageMo/Magic/sagn_mg1 Installer.event" //C6
 //	}
 	{
-	#include "41MageknightM/Sword/mgkm_sw1 Installer.event" //CA
+	#include "41MageknightM/Sword/mgkm_sw1 Installer.event" //C7
 	}
 	{
-	#include "41MageknightM/Magic/mgkm_mg1 Installer.event" //CB
+	#include "41MageknightM/Magic/mgkm_mg1 Installer.event" //C8
 	}
 	{
-	#include "41MageknightF/Sword/mgkf_sw1 Installer.event" //CC
+	#include "41MageknightF/Sword/mgkf_sw1 Installer.event" //C9
 	}
 	{
-	#include "41MageknightF/Magic/mgkf_mg1 Installer.event" //CD
+	#include "41MageknightF/Magic/mgkf_mg1 Installer.event" //CA
 	}
 	{
-	#include "42ShamanM/sham_mg1 Installer.event" //CE
+	#include "42ShamanM/sham_mg1 Installer.event" //CB
 	}
 	{
-	#include "42ShamanF/shaf_mg1 Installer.event" //CF
+	#include "42ShamanF/shaf_mg1 Installer.event" //CC
 	}
 	{
-	#include "43DruidM/Magic/drum_mg1 Installer.event" //D0
+	#include "43DruidM/Magic/drum_mg1 Installer.event" //CD
 	}
 	{
-	#include "43DruidM/Staff/drum_ro1 Installer.event" //D1
-	}
-	{
-	#include "43DruidF/Magic/druf_mg1 Installer.event" //D2
-	}
-	{
-	#include "43DruidF/Staff/druf_ro1 Installer.event" //D3
+	#include "43DruidF/Magic/druf_mg1 Installer.event" //CE
 	}
 //	{
-//	#include "43DruidMimi/Magic/druf_mg1 Installer.event" //D4
-//	}
-//	{
-//	#include "43DruidMimi/Staff/druf_ro1 Installer.event" //D5
+//	#include "43DruidMimi/Magic/druf_mg1 Installer.event" //CF
 //	}
 	{
-	#include "44Monk/monm_mg1 Installer.event" //D6
+	#include "44Monk/monm_mg1 Installer.event" //D0
 	}
 	{
-	#include "45Priest/Staff/prim_ro1 Installer.event" //D7
+	#include "45Priest/Staff/prim_ro1 Installer.event" //D1
 	}
 	{
-	#include "45Priest/Unarmed/prim_un1 Installer.event" //D8
+	#include "45Priest/Unarmed/prim_un1 Installer.event" //D2
 	}
 	{
-	#include "46Cleric/Staff/clef_ro1 Installer.event" //D9
+	#include "46Cleric/Staff/clef_ro1 Installer.event" //D3
 	}
 	{
-	#include "46Cleric/Unarmed/clef_un1 Installer.event" //DA
+	#include "46Cleric/Unarmed/clef_un1 Installer.event" //D4
 	}
 	{
-	#include "47BishopM/Magic/bism_mg1 Installer.event" //DB
+	#include "47BishopM/Magic/bism_mg1 Installer.event" //D5
 	}
 	{
-	#include "47BishopM/Unarmed/bism_un1 Installer.event" //DC
+	#include "47BishopM/Unarmed/bism_un1 Installer.event" //D6
 	}
 	{
-	#include "47BishopF/Magic/bisf_mg1 Installer.event" //DD
+	#include "47Priestess/Sword/prif_sw1 Installer.event" //D7
 	}
 	{
-	#include "47BishopF/Unarmed/bisf_un1 Installer.event" //DE
+	#include "47Priestess/Magic/prif_mg1 Installer.event" //D8
 	}
 //	{
-//	#include "47BishopMo/Magic/bisf_mg1 Installer.event" //DF
+//	#include "47BishopMo/Magic/bisf_mg1 Installer.event" //D9
 //	}
 //	{
-//	#include "47BishopMo/Unarmed/bisf_un1 Installer.event" //E0
+//	#include "47BishopMo/Unarmed/bisf_un1 Installer.event" //DA
 //	}
 	{
-	#include "48Troubadour/Staff/trof_ro1 Installer.event" //E1
+	#include "48Troubadour/Staff/trof_ro1 Installer.event" //DB
 	}
 	{
-	#include "48Troubadour/Unarmed/trof_un1 Installer.event" //E2
+	#include "48Troubadour/Unarmed/trof_un1 Installer.event" //DC
 	}
 	{
-	#include "49ValkyrieF/Magic/valf_mg1 Installer.event" //E3
+	#include "49ValkyrieF/Magic/valf_mg1 Installer.event" //DD
 	}
 	{
-	#include "50Supplier/lance/supf_sp1 Installer.event" //E4
+	#include "50Supplier/lance/supf_sp1 Installer.event" //DE
 	}
 	{
-	#include "50Supplier/Unarmed/supf_un1 Installer.event" //E5
+	#include "50Supplier/Unarmed/supf_un1 Installer.event" //DF
 	}
 //	{
-//	#include "51Dancer/Sword/danf_sw1 Installer.event" //E6
+//	#include "51Dancer/Sword/danf_sw1 Installer.event" //E0
 //	}
 //	{
-//	#include "51Dancer/Magic/danf_mg1 Installer.event" //E7
+//	#include "51Dancer/Magic/danf_mg1 Installer.event" //E1
 //	}
 	{
-	#include "52Manakete/Attack/manm_dr1 Installer.event" //E8
+	#include "52Manakete/Attack/manm_dr1 Installer.event" //E2
 	}
 	{
-	#include "52Manakete/Detransform/manm_dt1 Installer.event" //E9
+	#include "52Manakete/Detransform/manm_dt1 Installer.event" //E3
 	}
 	{
-	#include "52Manakete/Transform/manm_tr1 Installer.event" //EA
+	#include "52Manakete/Transform/manm_tr1 Installer.event" //E4
 	}
 	{
-	#include "52Manakete/Unarmed/manm_un1 Installer.event" //EB
+	#include "52Manakete/Unarmed/manm_un1 Installer.event" //E5
 	}
 //	{
-//	#include "53MageDragon/Attack/manm_dr1 Installer.event" //EC
+//	#include "53MageDragon/Attack/manm_dr1 Installer.event" //E6
 //	}
 //	{
-//	#include "53MageDragon/Detransform/manm_dt1 Installer.event" //ED
+//	#include "53MageDragon/Detransform/manm_dt1 Installer.event" //E7
 //	}
 //	{
-//	#include "53MageDragon/Transform/manm_tr1 Installer.event" //EE
+//	#include "53MageDragon/Transform/manm_tr1 Installer.event" //E8
 //	}
 //	{
-//	#include "53MageDragon/Unarmed/manm_un1 Installer.event" //EF
+//	#include "53MageDragon/Unarmed/manm_un1 Installer.event" //E9
 //	}
 //	{
-//	#include "54EclipseKnight/Sword/eknm_sw1 Installer.event" //F0
+//	#include "54EclipseKnight/Sword/eknm_sw1 Installer.event" //EA
 //	}
 //	{
-//	#include "54EclipseKnight/Magic/eknm_mg1 Installer.event" //F1
+//	#include "54EclipseKnight/Magic/eknm_mg1 Installer.event" //EB
 //	}
 //	{
-//	#include "55TwilightKnight/Sword/twkf_sw1 Installer.event" //F2
+//	#include "55TwilightKnight/Sword/twkf_sw1 Installer.event" //EC
 //	}
 //	{
-//	#include "55TwilightKnight/Unarmed/twkf_un1 Installer.event" //F3
+//	#include "55TwilightKnight/Unarmed/twkf_un1 Installer.event" //ED
 //	}
 //	{
-//	#include "56Princess/Axe/nep_ax1 Installer.event" //F4
+//	#include "56Princess/Axe/nep_ax1 Installer.event" //EE
 //	}
 //	{
-//	#include "56Princess/Unarmed/nep_un1 Installer.event" //F5
+//	#include "56Princess/Unarmed/nep_un1 Installer.event" //EF
 //	}
 	{
-	#include "57DemonKing/Jacob/JacobAnim Installer.event" //F6
+	#include "57DemonKing/Jacob/JacobAnim Installer.event" //F0
 	}
 //	{
-//	#include "58MasterKnight/Sword/germ_sw1 Installer.event" //F7
+//	#include "58MasterKnight/Sword/germ_sw1 Installer.event" //F1
 //	}
 //	{
-//	#include "58MasterKnight/Lance/germ_sp1 Installer.event" //F8
+//	#include "58MasterKnight/Lance/germ_sp1 Installer.event" //F2
 //	}
 //	{
-//	#include "58MasterKnight/Axe/germ_ax1 Installer.event" //F9
+//	#include "58MasterKnight/Axe/germ_ax1 Installer.event" //F3
 //	}
 //	{
-//	#include "58MasterKnight/Handaxe/germ_hx1 Installer.event" //FA
+//	#include "58MasterKnight/Handaxe/germ_hx1 Installer.event" //F4
 //	}
 //	{
-//	#include "58MasterKnight/Bow/germ_ar1 Installer.event" //FB
+//	#include "58MasterKnight/Bow/germ_ar1 Installer.event" //F5
 //	}
 //	{
-//	#include "58MasterKnight/Staff/germ_ro1 Installer.event" //FC
-//	}
-//	{
-//	#include "58MasterKnight/Magic/germ_mg1 Installer.event" //FD
+//	#include "58MasterKnight/Magic/germ_mg1 Installer.event" //F6
 //	}

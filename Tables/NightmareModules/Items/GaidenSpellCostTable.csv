@@ -1,95 +1,95 @@
 INLINE GaidenSpellCostTable,Spell Cost
 Nothing,0
 Iron Sword,0
-Slim Sword,0
 Steel Sword,0
 Silver Sword,0
 Iron Blade,0
 Steel Blade,0
 Silver Blade,0
-Poison Sword,0
-Rapier,0
-Siegfried (Mani Katti),0
 Brave Sword,0
-Shamshir,0
 Killing Edge,0
+Shamshir,0
+Slaying Edge,0
+Poison Sword,0
+Glass Sword,0
+Soothing Sword,0
+Superior Edge,0
+Lancereaver,0
+Rapier,0
 Armorslayer,0
-Wyrmslayer,0
+Wyrmslater,0
+Zanbato,0
+Sunrise Katana,0
+Venge Katana,0
+Wind Sword,0
+Tempest Blade,0
+Levin Sword,0
+Flame Sword,0
 Light Brand,0
 Runesword,0
-Lancereaver,0
-Zanbato,0
+Knife,0
+Baurenwehr,0
+Kukri,0
+Spy's Knife,0
+Justice's Bolt,0
+Lady Sword,0
+Eclipse Blade,0
+Frost Rapier,0
+Iustitiae,0
+Empress Blade,0
 Iron Lance,0
 Slim Lance,0
 Steel Lance,0
 Silver Lance,0
-Toxin Lance,0
+Iron Greatlance,0
+Steel Greatlance,0
+Silver Greatlance,0
 Brave Lance,0
 Killer Lance,0
-Horseslayer,0
-Javelin,0
-Spear,0
+Slaying Spear,0
+Toxin lance,0
+Glass Lance,0
+Superior Lance,0
 Axereaver,0
+Horseslayer,0
+Heavy Spear,0
+Dragonspear,0
+Rhomphaia,0
+Shockstick,0
+Miniature Lance,0
+Guard Lance,0
+Venge Spear,0
+Javelin,0
+Short Spear,0
+Spear,0
+Saunion,0
+Merchant's Lance,0
+Gae Dearg,0
+Fafnir,0
+"""Vidofnir""",0
 Iron Axe,0
 Steel Axe,0
 Silver Axe,0
-Poison Axe,0
+Iron Poleaxe,0
+Steel Poleaxe,0
+Silver Poleaxe,0
 Brave Axe,0
-Killer Axe,0
-Halberd,0
-Hammer,0
-Devil Axe,0
-Hand Axe,0
-Tomahawk,0
-Swordreaver,0
-Swordslayer,0
-Hatchet,0
-Iron Bow,0
-Steel Bow,0
-Silver Bow,0
-Poison Bow,0
-Killer Bow,0
-Brave Bow,0
-Short Bow,0
-Longbow,0
-Ballista,0
-Iron Ballista,0
-Killer Ballista,0
-Fire,2
-Thunder,3
-Elfire,4
-Bolting,8
-Fimbulvetr,6
-Binding Blade(Forblaze),8
-Excalibur,8
-Lightning,2
-Shine,3
-Divine,4
-Purge,8
-Aura,6
-Luce (DUMMY),8
-Flux,2
-Luna,3
-Nosferatu,4
-Eclipse,8
-Fenrir,6
-Gleipnir,8
-Heal,2
-Mend,4
-Recover,6
-Physic,6
-Fortify,10
+Heal,1
+Mend,3
+Recover,7
+Physic,3
+Fortify,12
 Restore,6
-Silence,7
-Sleep,8
-Berserk,9
+Silence,5
+Sleep,5
+Berserk,5
 Warp,8
 Rescue,6
 Torch,3
 Hammerne,12
 Unlock,4
 Barrier,4
-Dragon Axe,0
+ZelosMask,0
 Angelic Robe,0
 Energy Ring,0
 Secret Book,0
@@ -119,89 +119,107 @@ White Gem,0
 Blue Gem,0
 Red Gem,0
 Gold,0
-Reginleif,0
+Killer Axe,0
 Chest Key (5),0
-Mine (DUMMY),0
-Light Rune (DUMMY),0
+Slaying Axe,0
+Poison Axe,0
 Hoplon Guard,0
 Filla's Might (DUMMY),0
 Ninis's Grace (DUMMY),0
 Thor's Ire (DUMMY),0
 Set's Litany (DUMMY),0
-Shadowkiller,0
-Bright Lance,0
-Fiendcleaver,0
-Beacon Bow,0
-Sieglinde,0
-Battle Axe,0
-Ivaldi,8
+Glass Axe,0
+Imposing Axe,0
+Devil Axe,0
+Superior Axe,0
+Hammer,0
+Dragon Axe,0
+Swordreaver,8
 Master Seal,0
 Metis's Tome,0
-Heaven Seal (DUMMY),0
-Sharp Claw,0
+Halberd,0
+Hammer,0
 Latona,14
-Dragonspear,0
-Vidofnir,0
-Naglfar,8
-Wretched Air,0
-Audhulma,0
-Siegmund,0
-Garm,0
-Nidhogg,0
-Heavy Lance,0
-Short Spear,0
+Swordslayer,0
+Venge Axe,0
+Hand axe,8
+Short Axe,0
+Tomahawk,0
+Bolt Axe,0
+Vataf,0
+Kessinger,0
 Ocean Seal,0
 Lunar Brace,0
 Solar Brace,0
-1G,0
-5G,0
-10G,0
-50G,0
-100G,0
-3000G,0
-5000G,0
-Wind Sword,0
-Vulnerary,0
-Vulnerary (green note),0
-Vulnerary (red note),0
-Dance,0
-Nightmare,0
-Demon Stone (DUMMY),0
-Demon Light,0
-Ravager,0
-Dragonstone,0
-Demon Surge,0
-Shadowshot,0
-Rotten Claw,0
-Fetid Claw,0
-Poison Claw,0
-Lethal Talon,0
-Fiery Fang,0
-Hellfang,0
-Evil Eye,0
-Crimson Eye,0
-Stone,0
-Aircalibur,0
-Juna Fruit,0
-150G,0
-200G,0
+Hex prf,0
+"""Garm""",0
+Iron Bow,0
+Steel Bow,0
+Silver Bow,0
+Brave Bow,0
+Killer Bow,0
+Slaying Bow,0
+Poison Bow,0
+Glass Bow,0
+Perfect Bow,0
+Superior Bow,0
+Short Bow,0
+Longbow,0
+Hunter's Bow,0
+Shining Bow,0
+Ballista,0
+Iron Ballista,0
+Killer Ballista,0
+Training Bow,0
+Mae Prf,0
+Roshal Bow,0
+"""Nidhogg""",0
+Fire,1
+Wind,1
+Thunder,2
+Cutting Gale,3
+Thoron,4
+Tornado,4
+DUMMY,0
+Fimbulvetr,5
+Echoing Gale,3
+Bolganone,6
+Bolting,7
 Black Gem,0
 Gold Gem,0
-0xc2,0
-0xc3,0
-0xc4,0
-0xc5,0
-0xc6,0
-0xc7,0
-0xc2,0
-0xc3,0
-0xc4,0
-0xc5,0
-0xc6,0
-0xc7,0
-0xc8,0
-0xc9,0
-0xca,0
-0xcb,0
-0xcc,0
-0xcd,0
+Skill Scroll,0
+Dire Thunder,4
+Ragnarok,10
+Truth's Pyre,0
+Brilliant Truth,0
+Veritas,0
+Excalibur,0
+Dying Blaze,0
+Shine,1
+Resire,0
+Artemis,3
+Saggittae,5
+Purge,8
+Aura,7
+Abraxas,12
+Gawain,3
+Clarent,3
+Flux,1
+Nosferatu,0
+Luna,3
+Mire,4
+Ruin,5
+Waste,5
+Eclipse,7
+Fenrir,7
+Hades,9
+Moralltach,13
+Agravain,6
+Naglfar,0
+Dragonstone,0
+Fear,0
+Slow,0
+Pain,0
+TestWeapon,0
+TestWeapon,0
+Truth's Pyre,0

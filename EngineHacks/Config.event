@@ -119,7 +119,7 @@
 // If uncommented, PortraitSelectionASM will be implemented.
 // Go to "PortraitSelectionASM/PortraitSelectionASM.event" to configure your modular portrait options.
 // This patch normally conflicts with Identity Problems and Random Mugs, but installing here remedies this.
-//#define PORTRAIT_SELECTION
+#define PORTRAIT_SELECTION
 
 // If uncommented, StairsASM will be implemented.
 // This patch adds an entry to the Unit Menu, so installing here is necessary.
@@ -166,7 +166,7 @@
 // If uncommented, the fourth page of the stat screen will include personal information on the character.
 // This information can be edited in the "Personal Data Editor.csv" file.
 // This will automatically enable Narrow Font.
-#define ENABLE_PERSONAL_INFO
+//#define ENABLE_PERSONAL_INFO
 
 // If uncommented, the third page of the stat screen will only show weapon ranks that the unit has a rank in.
 #define ONLY_SHOW_USED_RANKS
@@ -174,11 +174,11 @@
 // If uncommented, the second page of the stat screen will display data of map-based ballista in the inventory.
 #define QOL_STAT_SCREEN_BALLISTA
 
-// If uncommented, Gaiden Magic 2.0 will be enabled.
-// Set spell lists in ExternalHacks/GaidenMagic/GaidenSpellLists.event.
-// Set spell HP costs in "Item editors/Gaiden Spell Cost Tables.csv"
-// An example for stat screen display is in MSS page 4.
-// #define GAIDEN_MAGIC
+ //If uncommented, Gaiden Magic 2.0 will be enabled.
+ //Set spell lists in ExternalHacks/GaidenMagic/GaidenSpellLists.event.
+ //Set spell HP costs in "Item editors/Gaiden Spell Cost Tables.csv"
+ //An example for stat screen display is in MSS page 4.
+ #define GAIDEN_MAGIC
 
 // If uncommented, Area of Effect (AoE) attacks will be enabled. 
 // See ExternalHacks/AoE/Installer.event for details. 
@@ -215,7 +215,7 @@
 #define DEBUFFS_MIN_ZERO
 
 // If true Shadowgift/Lumina will check for staff ranks when checking for highest magic rank
-#define SHADOWGIFT_VIA_STAFF_RANK False
+#define SHADOWGIFT_VIA_STAFF_RANK True
 #define LUMINA_VIA_STAFF_RANK True
 
 // If commented, Poison Strike and Grisly Wound will not check whether no damage was dealt before applying additional damage.
@@ -243,7 +243,7 @@
 #define DOES_BARGAIN_STACK True
 
 //If true, will use the vanilla check in addition to the skill check.
-#define ALSO_USE_VANILLA_DANCE_CHECK True
+#define ALSO_USE_VANILLA_DANCE_CHECK False
 #define ALSO_USE_VANILLA_SUPPLY_CHECK True
 #define ALSO_USE_VANILLA_SUMMON_CHECK False
 #define ALSO_USE_VANILLA_STEAL_CHECK True
@@ -311,13 +311,13 @@
 #define USE_STAT_COLORS True
 
 //If true, Fixed Growths mode will exist.
-#define FIXED_GROWTHS_MODE False
+#define FIXED_GROWTHS_MODE True
 
 //ID of flag to use for fixed growths mode, if enabled
 #define FIXED_GROWTHS_FLAG_ID 0xEF
 
 //If true, passive growth boosters and metis tome will not affect growths in fixed growths mode.
-#define FIXED_GROWTHS_DONT_BOOST True
+#define FIXED_GROWTHS_DONT_BOOST False
 
 //If true, enemy/NPC autolevels will use fixed growths as well.
 #define ENEMY_NPC_FIXED_GROWTHS True

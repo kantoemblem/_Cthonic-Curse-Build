@@ -52,9 +52,9 @@ Nana_Mug:
 #incext PortraitFormatter "Playables/1Nana.png"
 setMugEntry(0xD, Nana_Mug,2,5,2,3)
 
-Jade_Mug:
-#incext PortraitFormatter "Playables/1Jade.png"
-setMugEntry(0xE, Jade_Mug,2,5,3,3)
+Gaignun_Mug:
+#incext PortraitFormatter "Playables/1Gaignun.png"
+setMugEntry(0xE, Gaignun_Mug,2,5,2,3)
 
 Casimir_Mug:
 #incext PortraitFormatter "Playables/1Casimir.png"
@@ -140,9 +140,9 @@ Roshal_Mug:
 #incext PortraitFormatter "Playables/1Roshal.png"
 setMugEntry(0x23, Roshal_Mug,2,6,3,4)
 
-Gaignun_Mug:
-#incext PortraitFormatter "Playables/1Gaignun.png"
-setMugEntry(0x24, Gaignun_Mug,2,5,2,3)
+Jade_Mug:
+#incext PortraitFormatter "Playables/1Jade.png"
+setMugEntry(0x24, Jade_Mug,2,5,3,3)
 
 Glazette_Mug:
 #incext PortraitFormatter "Playables/1Glazette.png"
@@ -741,11 +741,11 @@ BishopM_Card_Palette:
 #incext Png2Dmp "ClassCards/64BishopM.png" --palette-only
 setCardEntry(0xFB, BishopM_Card,BishopM_Card_Palette)
 
-BishopF_Card:
-#incext Png2Dmp "ClassCards/65BishopF.png" --lz77
-BishopF_Card_Palette:
-#incext Png2Dmp "ClassCards/65BishopF.png" --palette-only
-setCardEntry(0xFC, BishopF_Card,BishopF_Card_Palette)
+Priestess_Card:
+#incext Png2Dmp "ClassCards/65Priestess.png" --lz77
+Priestess_Card_Palette:
+#incext Png2Dmp "ClassCards/65Priestess.png" --palette-only
+setCardEntry(0xFC, Priestess_Card,Priestess_Card_Palette)
 
 Troub_Card:
 #incext Png2Dmp "ClassCards/66Troubadour.png" --lz77

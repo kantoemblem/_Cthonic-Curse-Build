@@ -314,10 +314,10 @@ BishopMStand:
 #incext Png2Dmp "BishopM/BishopStand.png" --lz77
 BishopMMove:
 #incext Png2Dmp "BishopM/BishopMove.png" --lz77
-BishopFStand:
-#incext Png2Dmp "BishopF/BishopStand.png" --lz77
-BishopFMove:
-#incext Png2Dmp "BishopF/BishopMove.png" --lz77
+PriestessStand:
+#incext Png2Dmp "Priestess/PriestessStand.png" --lz77
+PriestessMove:
+#incext Png2Dmp "Priestess/PriestessMove.png" --lz77
 TroubadourStand:
 #incext Png2Dmp "Troubadour/TroubadourStand.png" --lz77
 TroubadourMove:

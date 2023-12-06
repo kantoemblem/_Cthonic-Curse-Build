@@ -90,10 +90,6 @@ SniperFStand:
 #incext Png2Dmp "SniperF/SniperStand.png" --lz77
 SniperFMove:
 #incext Png2Dmp "SniperF/SniperMove.png" --lz77
-KnightSStand:
-#incext Png2Dmp "KnightS/KnightStand.png" --lz77
-KnightSMove:
-#incext Png2Dmp "KnightS/KnightMove.png" --lz77
 KnightLStand:
 #incext Png2Dmp "KnightL/KnightStand.png" --lz77
 KnightLMove:

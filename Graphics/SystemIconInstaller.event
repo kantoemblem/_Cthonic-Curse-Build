@@ -1,12 +1,12 @@
 //Map palettes
 PUSH
 ORG 0x59EE20 //Player Map Palette data position
-BYTE $90 $42 $08 $41 $B0 $6E $79 $73 $4C $29 $14 $26 $BD $63 $C3 $2C $40 $55 $00 $66 $C3 $7E $76 $14 $BD $23 $EE $31 $BD $77 $A6 $14 //Player Map Palette
+BYTE $90 $42 $C7 $24 $71 $66 $F7 $72 $2C $25 $34 $32 $BD $63 $A6 $30 $E5 $48 $27 $5D $C2 $7D $17 $14 $9F $23 $EE $31 $BE $77 $A6 $14 //Player Map Palette
 POP 
 
 PUSH
 ORG 0x59EE40 //Enemy Map Palette data position
-BYTE $90 $42 $2B $28 $1B $42 $3C $67 $4C $29 $14 $26 $BD $63 $4B $1C $4F $20 $76 $20 $BB $14 $27 $2F $BD $23 $EE $31 $BD $77 $A6 $14 //Enemy Map Palette
+BYTE $90 $42 $CA $14 $79 $46 $FC $5E $2C $25 $15 $32 $BD $63 $6B $1C $6F $1C $74 $18 $B8 $08 $C4 $16 $9F $23 $EE $31 $BE $77 $A6 $14 //Enemy Map Palette
 POP 
 
 PUSH
