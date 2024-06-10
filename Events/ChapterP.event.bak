@@ -31,7 +31,7 @@ END_MAIN
 
 MiscBasedEvents:         
 CauseGameOverIfLordDies      
-AFEV 0 EndincScene 0x2   
+AFEV 0 EndingScene 0x2   
 END_MAIN             
 
 Dunno:         

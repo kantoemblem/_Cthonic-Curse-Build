@@ -137,7 +137,7 @@ Supplier[X]
 
 ## SupplierDesc
 A merchant who travels across the[NL]
-lands peddling their wares. posses low[NL]
+lands peddling their wares. possesses low[NL]
 offense, but high mobility and defense.[X]
 
 ## DancerDesc

@@ -15,8 +15,8 @@ Jade_Dreadfighter:
 Casimir_Knight:
 	#incbin "./_palettes/Casimir_Knight.lzpal" 
 
-Casimir_GKnight:
-	#incbin "./_palettes/Casimir_GKnight.lzpal" 
+Casimir_GreatKnight:
+	#incbin "./_palettes/Casimir_GreatKnight.lzpal" 
 
 Guinivere_Cleric:
 	#incbin "./_palettes/Guinivere_Cleric.lzpal" 
@@ -74,33 +74,7 @@ Fayina_Malig:
 
 Erastus_MKnight:
 	#incbin "./_palettes/Erastus_MKnight.lzpal" 
-	
-//Gaignun_Cav:
-//	#incbin "./_palettes/Gaignun_Cav.lzpal" 
-
-//Gaignun_Pal:
-//	#incbin "./_palettes/Gaignun_Pal.lzpal"
-
-//Glazette_Cleric:
-//	#incbin "./_palettes/Glazette_Cleric.lzpal" 
-
-//Glazette_Valkyrie:
-//	#incbin "./_palettes/Glazette_Valkyrie.lzpal" 
-
-//Monica_Thief:
-//	#incbin "./_palettes/Monica_Thief.lzpal" 
-
-//Monica_Adventurer:
-//	#incbin "./_palettes/Monica_Adventurer.lzpal" 
-
-//Orvald_Berserker:
-//	#incbin "./_palettes/Orvald_Berserker.lzpal" 
-
-//Acacia_Pegasus:
-//	#incbin "./_palettes/Acacia_Pegasus.lzpal"
-
-//Acacia_Falcoknight:
-//	#incbin "./_palettes/Acacia_Falcoknight.lzpal"
 
 Marie_Ranger:
 	#incbin "./_palettes/Marie_Ranger.lzpal" 
+
